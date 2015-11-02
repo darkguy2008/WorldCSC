@@ -1,0 +1,251 @@
+<Countries>
+  <Country Code="004" Alpha2="AF" Alpha3="AFG" Name="A Phú Hãn" CommonName="" OfficialName="Cộng Hoà Hồi Giáo A Phú Hãn" />
+  <Country Code="008" Alpha2="AL" Alpha3="ALB" Name="An-ba-ni" CommonName="" OfficialName="Cộng Hoà An-ba-ni" />
+  <Country Code="010" Alpha2="AQ" Alpha3="ATA" Name="Nam Cực" CommonName="" OfficialName="" />
+  <Country Code="012" Alpha2="DZ" Alpha3="DZA" Name="An-giê-ri" CommonName="" OfficialName="Cộng Hoà Dân Chủ Nhân Dân An-giê-ri" />
+  <Country Code="016" Alpha2="AS" Alpha3="ASM" Name="Xa-mô-a Mỹ" CommonName="" OfficialName="" />
+  <Country Code="020" Alpha2="AD" Alpha3="AND" Name="Ăn-đoa-râ" CommonName="" OfficialName="Chức vương Ăn-đoa-râ" />
+  <Country Code="024" Alpha2="AO" Alpha3="AGO" Name="Ăng-gô-la" CommonName="" OfficialName="Cộng hoà Ăng-gô-la" />
+  <Country Code="028" Alpha2="AG" Alpha3="ATG" Name="Ănh-thí-gua và Ba-bu-đa" CommonName="" OfficialName="" />
+  <Country Code="031" Alpha2="AZ" Alpha3="AZE" Name="Ai-xợ-bai-gianh" CommonName="" OfficialName="Nước Cộng Hoà Ai-xợ-bai-gianh" />
+  <Country Code="032" Alpha2="AR" Alpha3="ARG" Name="Á-căn-đình" CommonName="" OfficialName="Cộng hoà Á-căn-đình" />
+  <Country Code="036" Alpha2="AU" Alpha3="AUS" Name="Úc" CommonName="" OfficialName="" />
+  <Country Code="040" Alpha2="AT" Alpha3="AUT" Name="Ao" CommonName="" OfficialName="Cộng hoà Ao" />
+  <Country Code="044" Alpha2="BS" Alpha3="BHS" Name="Ba-ha-ma" CommonName="" OfficialName="Liên bang Ba-ha-ma" />
+  <Country Code="048" Alpha2="BH" Alpha3="BHR" Name="Ba-rainh" CommonName="" OfficialName="Vương Quốc Ba-rainh" />
+  <Country Code="050" Alpha2="BD" Alpha3="BGD" Name="Bang-la-đesợ" CommonName="" OfficialName="Nước Cộng Hoà Nhân Dân Bang-la-đesợ" />
+  <Country Code="051" Alpha2="AM" Alpha3="ARM" Name="Ac-mê-ni" CommonName="" OfficialName="Nước Cộng Hoà Ac-mê-ni" />
+  <Country Code="052" Alpha2="BB" Alpha3="BRB" Name="Bă-ba-đôxợ" CommonName="" OfficialName="" />
+  <Country Code="056" Alpha2="BE" Alpha3="BEL" Name="Bỉ" CommonName="" OfficialName="Vương quốc Bỉ" />
+  <Country Code="060" Alpha2="BM" Alpha3="BMU" Name="Be-mu-đa" CommonName="" OfficialName="" />
+  <Country Code="064" Alpha2="BT" Alpha3="BTN" Name="Bu-thănh" CommonName="" OfficialName="Vương Quốc Bu-thănh" />
+  <Country Code="068" Alpha2="BO" Alpha3="BOL" Name="Bô-li-vi-a, Quốc gia Đa Dân tộc" CommonName="Bô-li-vi-a" OfficialName="Quốc gia Đa Dân tộc Bô-li-vi-a" />
+  <Country Code="070" Alpha2="BA" Alpha3="BIH" Name="Bô-xni-a và Hẻ-xê-gô-vi-na" CommonName="" OfficialName="Nước Cộng Hoà Bô-xni-a và Hẻ-xê-gô-vi-na" />
+  <Country Code="072" Alpha2="BW" Alpha3="BWA" Name="Bốt-xoă-na" CommonName="" OfficialName="Nước Cộng Hoà Bốt-xoă-na" />
+  <Country Code="074" Alpha2="BV" Alpha3="BVT" Name="Quần đảo Bu-vê" CommonName="" OfficialName="" />
+  <Country Code="076" Alpha2="BR" Alpha3="BRA" Name="Bra-xin" CommonName="" OfficialName="Cộng hoà Liên bang Bra-xin" />
+  <Country Code="084" Alpha2="BZ" Alpha3="BLZ" Name="Bê-li-xê" CommonName="" OfficialName="" />
+  <Country Code="086" Alpha2="IO" Alpha3="IOT" Name="Miền Đại Dương Ấn-độ Anh" CommonName="" OfficialName="" />
+  <Country Code="090" Alpha2="SB" Alpha3="SLB" Name="Quần đảo Xô-lô-mông" CommonName="" OfficialName="" />
+  <Country Code="092" Alpha2="VG" Alpha3="VGB" Name="Quần Đảo Vơ-chin Anh" CommonName="" OfficialName="Quần Đảo Vơ-chin Anh" />
+  <Country Code="096" Alpha2="BN" Alpha3="BRN" Name="Bợru-này Đa-ru-xa-làm" CommonName="" OfficialName="" />
+  <Country Code="100" Alpha2="BG" Alpha3="BGR" Name="Bua-ga-ri" CommonName="" OfficialName="Nước Cộng Hoà Bua-ga-ri" />
+  <Country Code="104" Alpha2="MM" Alpha3="MMR" Name="Miến Điện" CommonName="" OfficialName="Cộng hoà Miến Điện" />
+  <Country Code="108" Alpha2="BI" Alpha3="BDI" Name="Bu-run-đi" CommonName="" OfficialName="Cộng hoà Bu-run-đi" />
+  <Country Code="112" Alpha2="BY" Alpha3="BLR" Name="Be-la-ruxợ" CommonName="" OfficialName="Nước Cộng Hoà Be-la-ruxợ" />
+  <Country Code="116" Alpha2="KH" Alpha3="KHM" Name="Căm Bốt" CommonName="" OfficialName="Vương Quốc Căm Bốt" />
+  <Country Code="120" Alpha2="CM" Alpha3="CMR" Name="Ca-mơ-runh" CommonName="" OfficialName="Nước Cộng Hoà Ca-mơ-runh" />
+  <Country Code="124" Alpha2="CA" Alpha3="CAN" Name="Ca-na-đa" CommonName="" OfficialName="" />
+  <Country Code="132" Alpha2="CV" Alpha3="CPV" Name="Cáp-ve-đẹ" CommonName="" OfficialName="Nước Cộng Hoà Cáp-ve-đẹ" />
+  <Country Code="136" Alpha2="KY" Alpha3="CYM" Name="Quần đảo Cay-man" CommonName="" OfficialName="" />
+  <Country Code="140" Alpha2="CF" Alpha3="CAF" Name="Nước Cộng Hoà Trung Phi" CommonName="" OfficialName="" />
+  <Country Code="144" Alpha2="LK" Alpha3="LKA" Name="Tích Lan" CommonName="" OfficialName="Cộng Hoà Xã hội Nhân Dân Tích Lan" />
+  <Country Code="148" Alpha2="TD" Alpha3="TCD" Name="Chê-đ" CommonName="" OfficialName="Nước Cộng Hoà Chê-đ" />
+  <Country Code="152" Alpha2="CL" Alpha3="CHL" Name="Chi-lê" CommonName="" OfficialName="Cộng hoà Chi-lê" />
+  <Country Code="156" Alpha2="CN" Alpha3="CHN" Name="Trung Quốc" CommonName="" OfficialName="Nước Cộng Hoà Nhân Dân Trung Quốc" />
+  <Country Code="158" Alpha2="TW" Alpha3="TWN" Name="Đài Loan, Tỉnh Trung Quốc" CommonName="Đài Loan" OfficialName="Đài Loan, Tỉnh Trung Quốc" />
+  <Country Code="162" Alpha2="CX" Alpha3="CXR" Name="Đảo Kh-ri-xợ-mà-xợ" CommonName="" OfficialName="" />
+  <Country Code="166" Alpha2="CC" Alpha3="CCK" Name="Quần đảo Co-co-xợ (Khi-lịng)" CommonName="" OfficialName="" />
+  <Country Code="170" Alpha2="CO" Alpha3="COL" Name="Cô-lôm-bi-a" CommonName="" OfficialName="Cộng hoà Cô-lôm-bi-a" />
+  <Country Code="174" Alpha2="KM" Alpha3="COM" Name="Cô-mô-rô-xợ" CommonName="" OfficialName="Liên Bang Cô-mô-rô-xợ" />
+  <Country Code="175" Alpha2="YT" Alpha3="MYT" Name="May-o-thợ" CommonName="" OfficialName="" />
+  <Country Code="178" Alpha2="CG" Alpha3="COG" Name="Công-gô" CommonName="" OfficialName="Cộng hoà Công-gô" />
+  <Country Code="180" Alpha2="CD" Alpha3="COD" Name="Cộng hoà Dân chủ Công-gô" CommonName="" OfficialName="" />
+  <Country Code="184" Alpha2="CK" Alpha3="COK" Name="Quần đảo Khu-khợ" CommonName="" OfficialName="" />
+  <Country Code="188" Alpha2="CR" Alpha3="CRI" Name="Cốt-x-tha Ri-ca" CommonName="" OfficialName="Cộng hoà Cốt-x-tha Ri-ca" />
+  <Country Code="191" Alpha2="HR" Alpha3="HRV" Name="Cợ-rô-a-ti-a" CommonName="" OfficialName="Nước Cộng Hoà Cợ-rô-a-ti-a" />
+  <Country Code="192" Alpha2="CU" Alpha3="CUB" Name="Cu-ba" CommonName="" OfficialName="Cộng hoà Cu-ba" />
+  <Country Code="196" Alpha2="CY" Alpha3="CYP" Name="Síp" CommonName="" OfficialName="Cộng hoà Síp" />
+  <Country Code="203" Alpha2="CZ" Alpha3="CZE" Name="Cộng hoà Séc" CommonName="" OfficialName="" />
+  <Country Code="204" Alpha2="BJ" Alpha3="BEN" Name="Bê-ninh" CommonName="" OfficialName="Cộng hoà Bê-ninh" />
+  <Country Code="208" Alpha2="DK" Alpha3="DNK" Name="Đan Mạch" CommonName="" OfficialName="Vương Quốc Đan Mạch" />
+  <Country Code="212" Alpha2="DM" Alpha3="DMA" Name="Đô-mi-ni-cạ" CommonName="" OfficialName="Liên bang Đô-mi-ni-cạ" />
+  <Country Code="214" Alpha2="DO" Alpha3="DOM" Name="Cộng hoà Đô-mi-ni-cạ" CommonName="" OfficialName="" />
+  <Country Code="218" Alpha2="EC" Alpha3="ECU" Name="Ê-cu-a-đoa" CommonName="" OfficialName="Cộng hoà Ê-cu-a-đoa" />
+  <Country Code="222" Alpha2="SV" Alpha3="SLV" Name="En-xan-va-đoa" CommonName="" OfficialName="Nước Cộng Hoà  En-xan-va-đoa" />
+  <Country Code="226" Alpha2="GQ" Alpha3="GNQ" Name="Ghi-nê Xích Đạo" CommonName="" OfficialName="Nước Cộng Hoà Ghi-nê Xích Đạo" />
+  <Country Code="231" Alpha2="ET" Alpha3="ETH" Name="Ê-ti-ô-pi-a" CommonName="" OfficialName="Cộng hoà Nhân dân Liên bang Ê-ti-ô-pi-a" />
+  <Country Code="232" Alpha2="ER" Alpha3="ERI" Name="Ê-ri-tơ-rê-a" CommonName="" OfficialName="Quốc gia Eritrea" />
+  <Country Code="233" Alpha2="EE" Alpha3="EST" Name="E-xợ-tô-ni-a" CommonName="" OfficialName="Nước Cộng Hoà E-xợ-tô-ni-a" />
+  <Country Code="234" Alpha2="FO" Alpha3="FRO" Name="Quần đảo Pha-rô" CommonName="" OfficialName="" />
+  <Country Code="238" Alpha2="FK" Alpha3="FLK" Name="Quần Đảo Phoa-kh-lận-đợ (Man-vi-na)" CommonName="" OfficialName="" />
+  <Country Code="239" Alpha2="GS" Alpha3="SGS" Name="Nam Gi-oa-gi-a va Nam Quần Đảo Xan-oui-chợ" CommonName="" OfficialName="" />
+  <Country Code="242" Alpha2="FJ" Alpha3="FJI" Name="Phi-gi" CommonName="" OfficialName="Cộng hoà Phi gi" />
+  <Country Code="246" Alpha2="FI" Alpha3="FIN" Name="Phần Lan" CommonName="" OfficialName="Nước Cộng Hoà Phần Lan" />
+  <Country Code="248" Alpha2="AX" Alpha3="ALA" Name="Quần đảo A-lanh" CommonName="" OfficialName="" />
+  <Country Code="250" Alpha2="FR" Alpha3="FRA" Name="Pháp" CommonName="" OfficialName="Cộng hoà Pháp" />
+  <Country Code="254" Alpha2="GF" Alpha3="GUF" Name="Ghi-a-na Pháp" CommonName="" OfficialName="" />
+  <Country Code="258" Alpha2="PF" Alpha3="PYF" Name="Pô-li-nê-xi Pháp" CommonName="" OfficialName="" />
+  <Country Code="260" Alpha2="TF" Alpha3="ATF" Name="Miền Nam Pháp" CommonName="" OfficialName="" />
+  <Country Code="262" Alpha2="DJ" Alpha3="DJI" Name="Gi-bu-ti" CommonName="" OfficialName="Cộng hoà Gi-bu-ti" />
+  <Country Code="266" Alpha2="GA" Alpha3="GAB" Name="Ga-bon" CommonName="" OfficialName="Nước Cộng Hoà Ga-bon" />
+  <Country Code="268" Alpha2="GE" Alpha3="GEO" Name="Gi-oa-gi-a" CommonName="" OfficialName="" />
+  <Country Code="270" Alpha2="GM" Alpha3="GMB" Name="Găm-bi-a" CommonName="" OfficialName="Cộng hoà Găm-bi-a" />
+  <Country Code="275" Alpha2="PS" Alpha3="PSE" Name="Palestine, quốc gia" CommonName="" OfficialName="Quốc gia Palestine" />
+  <Country Code="276" Alpha2="DE" Alpha3="DEU" Name="Đức" CommonName="" OfficialName="Cộng hoà Liên bang Đức" />
+  <Country Code="288" Alpha2="GH" Alpha3="GHA" Name="Ga-na" CommonName="" OfficialName="Cộng hoà Ga-na" />
+  <Country Code="292" Alpha2="GI" Alpha3="GIB" Name="Gi-boa-tha" CommonName="" OfficialName="" />
+  <Country Code="296" Alpha2="KI" Alpha3="KIR" Name="Ki-ri-ba-ti" CommonName="" OfficialName="Cộng hoà Ki-ri-ba-ti" />
+  <Country Code="300" Alpha2="GR" Alpha3="GRC" Name="Hy Lạp" CommonName="" OfficialName="Nước Cộng Hoà Hy Lạp" />
+  <Country Code="304" Alpha2="GL" Alpha3="GRL" Name="Đảo Băng" CommonName="" OfficialName="" />
+  <Country Code="308" Alpha2="GD" Alpha3="GRD" Name="Gợ-rê-na-đa" CommonName="" OfficialName="" />
+  <Country Code="312" Alpha2="GP" Alpha3="GLP" Name="Gu-a-đe-lup" CommonName="" OfficialName="" />
+  <Country Code="316" Alpha2="GU" Alpha3="GUM" Name="Gu-ăm" CommonName="" OfficialName="" />
+  <Country Code="320" Alpha2="GT" Alpha3="GTM" Name="Gua-tê-ma-la" CommonName="" OfficialName="Cộng hoà Gua-tê-ma-la" />
+  <Country Code="324" Alpha2="GN" Alpha3="GIN" Name="Ghi-nê" CommonName="" OfficialName="Cộng hoà Ghi-nê" />
+  <Country Code="328" Alpha2="GY" Alpha3="GUY" Name="Guy-a-na" CommonName="" OfficialName="Cộng hoà Guy-a-na" />
+  <Country Code="332" Alpha2="HT" Alpha3="HTI" Name="Ha-i-ti" CommonName="" OfficialName="Cộng hoà Ha-i-ti" />
+  <Country Code="334" Alpha2="HM" Alpha3="HMD" Name="Đảo He-ợ-đợ và Quần Đảo Mợc-đo-nậ-đợ" CommonName="" OfficialName="" />
+  <Country Code="336" Alpha2="VA" Alpha3="VAT" Name="Toà Thánh (Bang Thành Phố Va-ti-canh)" CommonName="" OfficialName="" />
+  <Country Code="340" Alpha2="HN" Alpha3="HND" Name="Hôn-đu-ra-xợ" CommonName="" OfficialName="Nước Cộng Hoà Hôn-đu-ra-xợ" />
+  <Country Code="344" Alpha2="HK" Alpha3="HKG" Name="Hông Kông" CommonName="" OfficialName="Miền Quản Lý Đặc Biệt Hông Kông của Trung Quốc" />
+  <Country Code="348" Alpha2="HU" Alpha3="HUN" Name="Hun-ga-ri" CommonName="" OfficialName="Hun-ga-ri" />
+  <Country Code="352" Alpha2="IS" Alpha3="ISL" Name="Băng Đảo" CommonName="" OfficialName="Nước Cộng Hoà Băng Đảo" />
+  <Country Code="356" Alpha2="IN" Alpha3="IND" Name="Ấn-độ" CommonName="" OfficialName="Cộng hoà Ấn-độ" />
+  <Country Code="360" Alpha2="ID" Alpha3="IDN" Name="Nam Dương" CommonName="" OfficialName="Cộng hoà Nam Dương" />
+  <Country Code="364" Alpha2="IR" Alpha3="IRN" Name="Ba Tư, Cộng hoà Hồi giáo" CommonName="" OfficialName="Cộng hoà Hồi giáo Ba Tư" />
+  <Country Code="368" Alpha2="IQ" Alpha3="IRQ" Name="I-rắc" CommonName="" OfficialName="Cộng hoà I-rắc" />
+  <Country Code="372" Alpha2="IE" Alpha3="IRL" Name="Ái Nhĩ Lan" CommonName="" OfficialName="" />
+  <Country Code="376" Alpha2="IL" Alpha3="ISR" Name="Do Thái" CommonName="" OfficialName="Quốc Gia Do Thái" />
+  <Country Code="380" Alpha2="IT" Alpha3="ITA" Name="Ý" CommonName="" OfficialName="Nước Cộng Hoà Ý" />
+  <Country Code="384" Alpha2="CI" Alpha3="CIV" Name="Cốt đi-vouă" CommonName="" OfficialName="Cộng Hoà Cốt đi-vouă" />
+  <Country Code="388" Alpha2="JM" Alpha3="JAM" Name="Gia-mê-ca" CommonName="" OfficialName="" />
+  <Country Code="392" Alpha2="JP" Alpha3="JPN" Name="Nhật" CommonName="" OfficialName="" />
+  <Country Code="398" Alpha2="KZ" Alpha3="KAZ" Name="Kha-xa-kh-x-thanh" CommonName="" OfficialName="Nước Cộng Hoà Kha-xa-kh-x-thanh" />
+  <Country Code="400" Alpha2="JO" Alpha3="JOR" Name="Gi-oa-đanh" CommonName="" OfficialName="Vương Quốc Ha-se-mai-th Gi-oa-đanh" />
+  <Country Code="404" Alpha2="KE" Alpha3="KEN" Name="Khi-ni-a" CommonName="" OfficialName="Cộng hoà Khi-nia" />
+  <Country Code="408" Alpha2="KP" Alpha3="PRK" Name="Bắc Hàn, Cộng hoà Nhân dân Dân chủ" CommonName="" OfficialName="Cộng hoà Nhân dân Dân chủ Bắc Hàn" />
+  <Country Code="410" Alpha2="KR" Alpha3="KOR" Name="Cộng hoà Nam Hàn" CommonName="" OfficialName="" />
+  <Country Code="414" Alpha2="KW" Alpha3="KWT" Name="Cu-ouai-thợ" CommonName="" OfficialName="Quốc Gia Cu-ouai-thợ" />
+  <Country Code="417" Alpha2="KG" Alpha3="KGZ" Name="Khư-rơ-gư-xtanh" CommonName="" OfficialName="Nước Cộng Hoà Khư-rơ-gư-xtanh" />
+  <Country Code="418" Alpha2="LA" Alpha3="LAO" Name="Cộng hoà Nhân dân Dân chủ Lào" CommonName="" OfficialName="" />
+  <Country Code="422" Alpha2="LB" Alpha3="LBN" Name="Le-ba-non" CommonName="" OfficialName="Nước Cộng Hoà Le-ba-non" />
+  <Country Code="426" Alpha2="LS" Alpha3="LSO" Name="Lê-xô-thô" CommonName="" OfficialName="Vương quốc Lê-xô-thô" />
+  <Country Code="428" Alpha2="LV" Alpha3="LVA" Name="Lát-vi-a" CommonName="" OfficialName="Cộng hoà Lát-vi-a" />
+  <Country Code="430" Alpha2="LR" Alpha3="LBR" Name="Li-bê-ri-a" CommonName="" OfficialName="Cộng hoà Li-bê-ri-a" />
+  <Country Code="434" Alpha2="LY" Alpha3="LBY" Name="Li-bi" CommonName="" OfficialName="Li-bi" />
+  <Country Code="438" Alpha2="LI" Alpha3="LIE" Name="Likh-ten-xtainh" CommonName="" OfficialName="Chức Vương Likh-ten-xtainh" />
+  <Country Code="440" Alpha2="LT" Alpha3="LTU" Name="Li-tu-a-ni-a" CommonName="" OfficialName="Cộng hoà Li-tu-a-ni-a" />
+  <Country Code="442" Alpha2="LU" Alpha3="LUX" Name="Lục Xâm Bảo" CommonName="" OfficialName="Đất công tước trên Lục Xâm Bảo" />
+  <Country Code="446" Alpha2="MO" Alpha3="MAC" Name="Ma-cao" CommonName="" OfficialName="Miền Quản Lý Đặc Biệt Ma-cao của Trung Quốc" />
+  <Country Code="450" Alpha2="MG" Alpha3="MDG" Name="Ma-đa-ga-xợ-ca" CommonName="" OfficialName="Nước Cộng Hoà Ma-đa-ga-xợ-ca" />
+  <Country Code="454" Alpha2="MW" Alpha3="MWI" Name="Ma-la-uy" CommonName="" OfficialName="Cộng hoà Ma-la-uy" />
+  <Country Code="458" Alpha2="MY" Alpha3="MYS" Name="Ma-lai-xi-a" CommonName="" OfficialName="" />
+  <Country Code="462" Alpha2="MV" Alpha3="MDV" Name="Mal-đi-vợx" CommonName="" OfficialName="Cộng hoà Mal-đi-vợx" />
+  <Country Code="466" Alpha2="ML" Alpha3="MLI" Name="Ma-li" CommonName="" OfficialName="Cộng hoà Ma-li" />
+  <Country Code="470" Alpha2="MT" Alpha3="MLT" Name="Moa-ta" CommonName="" OfficialName="Cộng hoà Moa-ta" />
+  <Country Code="474" Alpha2="MQ" Alpha3="MTQ" Name="Ma-thi-ni-khợ" CommonName="" OfficialName="" />
+  <Country Code="478" Alpha2="MR" Alpha3="MRT" Name="Mô-ri-ta-ni-a" CommonName="" OfficialName="Cộng hoà Hồi giáo Mô-ri-ta-ni-a" />
+  <Country Code="480" Alpha2="MU" Alpha3="MUS" Name="Mô-ri-sơ-xợ" CommonName="" OfficialName="Nước Cộng Hoà Mô-ri-sơ-xợ" />
+  <Country Code="484" Alpha2="MX" Alpha3="MEX" Name="Mê-hi-cô" CommonName="" OfficialName="Liên Bang Mê-hi-cô" />
+  <Country Code="492" Alpha2="MC" Alpha3="MCO" Name="Mo-na-cô" CommonName="" OfficialName="Chức Vương Mo-na-cô" />
+  <Country Code="496" Alpha2="MN" Alpha3="MNG" Name="Mông Cổ" CommonName="" OfficialName="" />
+  <Country Code="498" Alpha2="MD" Alpha3="MDA" Name="Nước Cộng Hoà Mổ-đô-vạ" CommonName="Mon-đô-va" OfficialName="Cộng hoà Moa-đô-va" />
+  <Country Code="499" Alpha2="ME" Alpha3="MNE" Name="Mon-te-nê-gợ-rô" CommonName="" OfficialName="Mon-te-nê-gợ-rô" />
+  <Country Code="500" Alpha2="MS" Alpha3="MSR" Name="Mon-xe-rạc" CommonName="" OfficialName="" />
+  <Country Code="504" Alpha2="MA" Alpha3="MAR" Name="Mo-ro-cô" CommonName="" OfficialName="Vương Quốc Mo-ro-cô" />
+  <Country Code="508" Alpha2="MZ" Alpha3="MOZ" Name="Mô-xam-bí-khợ" CommonName="" OfficialName="Nước Cộng Hoà Mô-xam-bí-khợ" />
+  <Country Code="512" Alpha2="OM" Alpha3="OMN" Name="Ô-man" CommonName="" OfficialName="Ngôi vua Ô-man" />
+  <Country Code="516" Alpha2="NA" Alpha3="NAM" Name="Na-mi-bi-a" CommonName="" OfficialName="Cộng hoà Na-mi-bi-a" />
+  <Country Code="520" Alpha2="NR" Alpha3="NRU" Name="Nau-ru" CommonName="" OfficialName="Cộng hoà Nau-ru" />
+  <Country Code="524" Alpha2="NP" Alpha3="NPL" Name="Nê-pan" CommonName="" OfficialName="Cộng hoà Nhân dân Liên bang Ne-pan" />
+  <Country Code="528" Alpha2="NL" Alpha3="NLD" Name="Hoà Lan" CommonName="" OfficialName="Vương Quốc Hoà Lan" />
+  <Country Code="531" Alpha2="CW" Alpha3="CUW" Name="Cu-ra-cao" CommonName="" OfficialName="Cu-ra-cao" />
+  <Country Code="533" Alpha2="AW" Alpha3="ABW" Name="Ă-ru-ba" CommonName="" OfficialName="" />
+  <Country Code="534" Alpha2="SX" Alpha3="SXM" Name="Xin Mác-Ten (vùng Hà Lan)" CommonName="" OfficialName="Xin Mác-Ten (vùng Hà Lan)" />
+  <Country Code="535" Alpha2="BQ" Alpha3="BES" Name="Bông-Ne, Xin E-u-xờ-ta-ti-tút và Xa-ba" CommonName="" OfficialName="Bông-Ne, Xin E-u-xờ-ta-ti-tút và Xa-ba" />
+  <Country Code="540" Alpha2="NC" Alpha3="NCL" Name="Niu Ca-lê-đô-ni-a" CommonName="" OfficialName="" />
+  <Country Code="548" Alpha2="VU" Alpha3="VUT" Name="Va-nu-a-tu" CommonName="" OfficialName="Cộng hoà Va-nu-a-tu" />
+  <Country Code="554" Alpha2="NZ" Alpha3="NZL" Name="Niu Xi-lân" CommonName="" OfficialName="" />
+  <Country Code="558" Alpha2="NI" Alpha3="NIC" Name="Ni-ca-ra-gua" CommonName="" OfficialName="Cộng hoà Ni-ca-ra-gua" />
+  <Country Code="562" Alpha2="NE" Alpha3="NER" Name="Ni-gie" CommonName="" OfficialName="Nước Cộng Hoà Ni-gie" />
+  <Country Code="566" Alpha2="NG" Alpha3="NGA" Name="Ni-giê-ri-a" CommonName="" OfficialName="Cộng hoà Liên bang Ni-giê-ri-a" />
+  <Country Code="570" Alpha2="NU" Alpha3="NIU" Name="Ni-u-e" CommonName="" OfficialName="Ni-u-e" />
+  <Country Code="574" Alpha2="NF" Alpha3="NFK" Name="Đảo Noa-phọ-khợ" CommonName="" OfficialName="" />
+  <Country Code="578" Alpha2="NO" Alpha3="NOR" Name="Na Uy" CommonName="" OfficialName="Vương Quốc Na Uy" />
+  <Country Code="580" Alpha2="MP" Alpha3="MNP" Name="Bắc Quần Đảo Ma-ri-a-na" CommonName="" OfficialName="Liên Bang Bắc Quần Đảo Ma-ri-a-na" />
+  <Country Code="581" Alpha2="UM" Alpha3="UMI" Name="Quần Đảo ở xa nhỏ Mỹ" CommonName="" OfficialName="" />
+  <Country Code="583" Alpha2="FM" Alpha3="FSM" Name="Mi-khợ-rô-nê-xi-a, Liên Bang" CommonName="" OfficialName="Liên Bang Mi-khợ-rô-nê-xi-a" />
+  <Country Code="584" Alpha2="MH" Alpha3="MHL" Name="Quần Đảo Ma-san" CommonName="" OfficialName="Nước Cộng Hoà Quần Đảo Ma-san" />
+  <Country Code="585" Alpha2="PW" Alpha3="PLW" Name="Pa-lau" CommonName="" OfficialName="Nước Cộng Hoà Pa-lau" />
+  <Country Code="586" Alpha2="PK" Alpha3="PAK" Name="Pa-ki-xợ-thănh" CommonName="" OfficialName="Nước Cộng Hoà Hồi Giáo Pa-ki-xợ-thănh" />
+  <Country Code="591" Alpha2="PA" Alpha3="PAN" Name="Pa-na-ma" CommonName="" OfficialName="Nước Cộng Hoà Pa-na-ma" />
+  <Country Code="598" Alpha2="PG" Alpha3="PNG" Name="Pa-pu-a Niu Ghi-nê" CommonName="" OfficialName="Quốc Gia Độc Lập Papua New Guinea" />
+  <Country Code="600" Alpha2="PY" Alpha3="PRY" Name="Pa-ra-guay" CommonName="" OfficialName="Nước Cộng Hoà Pa-ra-guay" />
+  <Country Code="604" Alpha2="PE" Alpha3="PER" Name="Pê-ru" CommonName="" OfficialName="Cộng hoà Pê-ru" />
+  <Country Code="608" Alpha2="PH" Alpha3="PHL" Name="Phi-li-pi-nợ" CommonName="" OfficialName="Công hóa Phi-li-pi-nợ" />
+  <Country Code="612" Alpha2="PN" Alpha3="PCN" Name="Pi-thợ-khenh" CommonName="" OfficialName="" />
+  <Country Code="616" Alpha2="PL" Alpha3="POL" Name="Ba Lan" CommonName="" OfficialName="Nước Cộng Hoà Ba Lan" />
+  <Country Code="620" Alpha2="PT" Alpha3="PRT" Name="Bồ Đào Nha" CommonName="" OfficialName="Nước Cộng Hoà Bồ Đào Nha" />
+  <Country Code="624" Alpha2="GW" Alpha3="GNB" Name="Ghi-nê Bi-xau" CommonName="" OfficialName="Nước Cộng Hoà Ghi-nê Bi-xau" />
+  <Country Code="626" Alpha2="TL" Alpha3="TLS" Name="Thi-moa Le-xợ-te" CommonName="" OfficialName="Nước Cộng Hoà Dân Chủ Thi-moa Le-xợ-te" />
+  <Country Code="630" Alpha2="PR" Alpha3="PRI" Name="Pu-éc-thô Ri-cô" CommonName="" OfficialName="" />
+  <Country Code="634" Alpha2="QA" Alpha3="QAT" Name="Ca-tă" CommonName="" OfficialName="Quốc gia Ca-tă" />
+  <Country Code="638" Alpha2="RE" Alpha3="REU" Name="Rê-u-ni-ợnh" CommonName="" OfficialName="" />
+  <Country Code="642" Alpha2="RO" Alpha3="ROU" Name="Rô-ma-ni" CommonName="" OfficialName="" />
+  <Country Code="643" Alpha2="RU" Alpha3="RUS" Name="Liên Bang Nga" CommonName="" OfficialName="" />
+  <Country Code="646" Alpha2="RW" Alpha3="RWA" Name="Ru-oanh-đa" CommonName="" OfficialName="Cộng hoà Ru-oanh-đa" />
+  <Country Code="652" Alpha2="BL" Alpha3="BLM" Name="Saint Barthélemy" CommonName="" OfficialName="" />
+  <Country Code="654" Alpha2="SH" Alpha3="SHN" Name="Xan He-lê-na, A-xen-siónh và Tợ-rí-x-tan đa Cun-ha" CommonName="" OfficialName="" />
+  <Country Code="659" Alpha2="KN" Alpha3="KNA" Name="Xan-kít và Nê-vi" CommonName="" OfficialName="" />
+  <Country Code="660" Alpha2="AI" Alpha3="AIA" Name="Ăng-ouí-la" CommonName="" OfficialName="" />
+  <Country Code="662" Alpha2="LC" Alpha3="LCA" Name="Xan Lu-xi" CommonName="" OfficialName="" />
+  <Country Code="663" Alpha2="MF" Alpha3="MAF" Name="Saint Martin (vùng Pháp)" CommonName="" OfficialName="" />
+  <Country Code="666" Alpha2="PM" Alpha3="SPM" Name="Xan Pi-e và Mi-quê-lon" CommonName="" OfficialName="" />
+  <Country Code="670" Alpha2="VC" Alpha3="VCT" Name="Xan Vinh-xen và Gou-en-a-đinh" CommonName="" OfficialName="" />
+  <Country Code="674" Alpha2="SM" Alpha3="SMR" Name="Xan Ma-ri-nô" CommonName="" OfficialName="Cộng hoà Xan Ma-ri-nô" />
+  <Country Code="678" Alpha2="ST" Alpha3="STP" Name="Xao Tô-mê và Pợ-rin-xi-pê" CommonName="" OfficialName="Nước Cộng Hoà Nhân Dân Xao Tô-mê và Pợ-rin-xi-pê" />
+  <Country Code="682" Alpha2="SA" Alpha3="SAU" Name="A-rập Xau-đi" CommonName="" OfficialName="Vương quốc A-rập Xau-đi" />
+  <Country Code="686" Alpha2="SN" Alpha3="SEN" Name="Xê-nê-gan" CommonName="" OfficialName="Cộng hoà Xê-nê-gan" />
+  <Country Code="688" Alpha2="RS" Alpha3="SRB" Name="Xéc-bi" CommonName="" OfficialName="Cộng hoà Xéc-bi" />
+  <Country Code="690" Alpha2="SC" Alpha3="SYC" Name="Xây-sen" CommonName="" OfficialName="Cộng hoà Xây-sen" />
+  <Country Code="694" Alpha2="SL" Alpha3="SLE" Name="Xi-ê-ra Lê-ô-nê" CommonName="" OfficialName="Nước Cộng Hoà Xi-ê-ra Lê-ô-nê" />
+  <Country Code="702" Alpha2="SG" Alpha3="SGP" Name="Xin-ga-po" CommonName="" OfficialName="Cộng hoà Xin-ga-po" />
+  <Country Code="703" Alpha2="SK" Alpha3="SVK" Name="Xlô-vác" CommonName="" OfficialName="Cộng hoà Xlô-vác" />
+  <Country Code="704" Alpha2="VN" Alpha3="VNM" Name="Việt Nam" CommonName="" OfficialName="Nước Cộng Hoà Xã Hội Việt Nam" />
+  <Country Code="705" Alpha2="SI" Alpha3="SVN" Name="Xlô-ven" CommonName="" OfficialName="Cộng hoà Xlô-ven" />
+  <Country Code="706" Alpha2="SO" Alpha3="SOM" Name="Xo-ma-li" CommonName="" OfficialName="Cộng hoà Liên bang Xo-ma-li" />
+  <Country Code="710" Alpha2="ZA" Alpha3="ZAF" Name="Nam Phi" CommonName="" OfficialName="Cộng hoà Nam Phi" />
+  <Country Code="716" Alpha2="ZW" Alpha3="ZWE" Name="Xim-ba-bu-ê" CommonName="" OfficialName="Nước Cộng Hoà Xim-ba-bu-ê" />
+  <Country Code="724" Alpha2="ES" Alpha3="ESP" Name="Tây Ban Nha" CommonName="" OfficialName="Vương Quốc Tay Ban Nha" />
+  <Country Code="728" Alpha2="SS" Alpha3="SSD" Name="Nam Xu-đăng" CommonName="" OfficialName="Nước Cộng Hoà Nam Xu-đăng" />
+  <Country Code="729" Alpha2="SD" Alpha3="SDN" Name="Xu-đanh" CommonName="" OfficialName="Nước Cộng Hoà Xu-đanh" />
+  <Country Code="732" Alpha2="EH" Alpha3="ESH" Name="Tây Sa-ha-ra" CommonName="" OfficialName="" />
+  <Country Code="740" Alpha2="SR" Alpha3="SUR" Name="Xu-ri-na-me" CommonName="" OfficialName="Nước Cộng Hoà Xu-ri-na-me" />
+  <Country Code="744" Alpha2="SJ" Alpha3="SJM" Name="Xợ-van-bat và Ian-may-en" CommonName="" OfficialName="" />
+  <Country Code="748" Alpha2="SZ" Alpha3="SWZ" Name="Xouă-xi-lan" CommonName="" OfficialName="Vương Quốc Xouă-xi-lan" />
+  <Country Code="752" Alpha2="SE" Alpha3="SWE" Name="Thuỵ Điển" CommonName="" OfficialName="Vương quốc Thuỵ Điển" />
+  <Country Code="756" Alpha2="CH" Alpha3="CHE" Name="Thụy Sĩ" CommonName="" OfficialName="Liên Bang Thụy Sĩ" />
+  <Country Code="760" Alpha2="SY" Alpha3="SYR" Name="Cộng hoà A-rập Xi-ri-a" CommonName="" OfficialName="" />
+  <Country Code="762" Alpha2="TJ" Alpha3="TJK" Name="Tha-gi-ki-xthanh" CommonName="" OfficialName="Nước Cộng Hoà Tha-gi-ki-xthanh" />
+  <Country Code="764" Alpha2="TH" Alpha3="THA" Name="Thái Lan" CommonName="" OfficialName="Vương Quốc Thái Lan" />
+  <Country Code="768" Alpha2="TG" Alpha3="TGO" Name="Tô-gô" CommonName="" OfficialName="Cộng hoà Tô-gô" />
+  <Country Code="772" Alpha2="TK" Alpha3="TKL" Name="To-ke-lau" CommonName="" OfficialName="" />
+  <Country Code="776" Alpha2="TO" Alpha3="TON" Name="Tông-ga" CommonName="" OfficialName="Vương quốc Tông-ga" />
+  <Country Code="780" Alpha2="TT" Alpha3="TTO" Name="Trinh-i-đat và To-ba-gô" CommonName="" OfficialName="Cộng hoà Trinh-i-đat và To-ba-gô" />
+  <Country Code="784" Alpha2="AE" Alpha3="ARE" Name="Các Tiểu Vương Quốc A-rập Thống Nhất" CommonName="" OfficialName="" />
+  <Country Code="788" Alpha2="TN" Alpha3="TUN" Name="Tu-ni-xi-a" CommonName="" OfficialName="Cộng hoà Tu-ni-xi-a" />
+  <Country Code="792" Alpha2="TR" Alpha3="TUR" Name="Thổ Nhĩ Kỳ" CommonName="" OfficialName="Nước Cộng Hoà Thổ Nhĩ Kỳ" />
+  <Country Code="795" Alpha2="TM" Alpha3="TKM" Name="Tuốc-mê-ni-xtanh" CommonName="" OfficialName="" />
+  <Country Code="796" Alpha2="TC" Alpha3="TCA" Name="Quần Đảo Tuốc và Cai-cox" CommonName="" OfficialName="" />
+  <Country Code="798" Alpha2="TV" Alpha3="TUV" Name="Tu-va-lu" CommonName="" OfficialName="" />
+  <Country Code="800" Alpha2="UG" Alpha3="UGA" Name="U-gan-đa" CommonName="" OfficialName="Cộng hoà U-gan-đa" />
+  <Country Code="804" Alpha2="UA" Alpha3="UKR" Name="U-cờ-rai-na" CommonName="" OfficialName="" />
+  <Country Code="807" Alpha2="MK" Alpha3="MKD" Name="Nước Cộng Hoà Ma-xê-đô-ni" CommonName="" OfficialName="Nước Cộng Hoà Nguyên Nam Tư Ma-xê-đô-ni" />
+  <Country Code="818" Alpha2="EG" Alpha3="EGY" Name="Ai Cập" CommonName="" OfficialName="Cộng hoà A-rập Ai-cập" />
+  <Country Code="826" Alpha2="GB" Alpha3="GBR" Name="Vương Quốc Anh Thống Nhất" CommonName="" OfficialName="Vương Quốc Thống Nhất Anh va Bắc Ái Nhĩ Lan" />
+  <Country Code="831" Alpha2="GG" Alpha3="GGY" Name="Gơnh-xị" CommonName="" OfficialName="" />
+  <Country Code="832" Alpha2="JE" Alpha3="JEY" Name="Giơ-xị" CommonName="" OfficialName="" />
+  <Country Code="833" Alpha2="IM" Alpha3="IMN" Name="Đảo Man" CommonName="" OfficialName="" />
+  <Country Code="834" Alpha2="TZ" Alpha3="TZA" Name="Nước Cộng Hoà Thống Nhất Than-xa-ni-a" CommonName="" OfficialName="Nước Cộng Hoà Thống Nhất Than-xa-ni-a" />
+  <Country Code="840" Alpha2="US" Alpha3="USA" Name="Mỹ" CommonName="" OfficialName="Mỹ" />
+  <Country Code="850" Alpha2="VI" Alpha3="VIR" Name="Quần Đảo Vơ-chin Mỹ" CommonName="" OfficialName="Quần Đảo Vơ-chin Mỹ" />
+  <Country Code="854" Alpha2="BF" Alpha3="BFA" Name="Buốc-khi-na Pha-xô" CommonName="" OfficialName="" />
+  <Country Code="858" Alpha2="UY" Alpha3="URY" Name="U-ru-guay" CommonName="" OfficialName="Cộng hoà Đông U-ru-guay" />
+  <Country Code="860" Alpha2="UZ" Alpha3="UZB" Name="U-xợ-bê-khi-xtanh" CommonName="" OfficialName="Nước Cộng Hoà U-xợ-bê-khi-xtanh" />
+  <Country Code="862" Alpha2="VE" Alpha3="VEN" Name="Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la" CommonName="Ve-ne-xu-ê-la" OfficialName="Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la" />
+  <Country Code="876" Alpha2="WF" Alpha3="WLF" Name="Oua-li-xợ va Phu-tu-na" CommonName="" OfficialName="" />
+  <Country Code="882" Alpha2="WS" Alpha3="WSM" Name="Xa-mô-a" CommonName="" OfficialName="Quốc Gia Độc Lập Xa-mô-a" />
+  <Country Code="887" Alpha2="YE" Alpha3="YEM" Name="Y-ê-men" CommonName="" OfficialName="Cộng hoà Y-ê-men" />
+  <Country Code="894" Alpha2="ZM" Alpha3="ZMB" Name="Xam-bi-a" CommonName="" OfficialName="Nước Cộng Hoà Xam-bi-a" />
+</Countries>

@@ -1,0 +1,251 @@
+<Countries>
+  <Country Code="004" Alpha2="AF" Alpha3="AFG" Name="ਅਫਗਾਨਿਸਤਾਨ" CommonName="" OfficialName="ਇਸਲਾਮੀ ਗਣਰਾਜ ਅਫਗਾਨਿਸਤਾਨ" />
+  <Country Code="008" Alpha2="AL" Alpha3="ALB" Name="ਅਲਬੀਨਾ" CommonName="" OfficialName="ਅਲਬਾਨੀਆ ਗਣਰਾਜ" />
+  <Country Code="010" Alpha2="AQ" Alpha3="ATA" Name="ਅੰਟਾਰਿਕਟਾ" CommonName="" OfficialName="" />
+  <Country Code="012" Alpha2="DZ" Alpha3="DZA" Name="ਅਲਜੀਰੀਆ" CommonName="" OfficialName="ਅਲਜੀਰੀਆ ਦਾ ਲੋਕਤੰਤਰ ਗਣਰਾਜ" />
+  <Country Code="016" Alpha2="AS" Alpha3="ASM" Name="ਅਮਰੀਕੀ ਸਾਮੋਨਾ" CommonName="" OfficialName="" />
+  <Country Code="020" Alpha2="AD" Alpha3="AND" Name="ਅਡੂਰਾ" CommonName="" OfficialName="ਅਡੂਰਾ ਦਾ ਖੇਤਰ" />
+  <Country Code="024" Alpha2="AO" Alpha3="AGO" Name="ਅੰਗੋਲਾ" CommonName="" OfficialName="ਅੰਗੋਲਾ ਗਣਰਾਜ" />
+  <Country Code="028" Alpha2="AG" Alpha3="ATG" Name="ਐਟੀਗੂਆ ਤੇ ਬਾਰਬੂਡਾ" CommonName="" OfficialName="" />
+  <Country Code="031" Alpha2="AZ" Alpha3="AZE" Name="ਅਜ਼ਰਬਾਈਜਾਨ" CommonName="" OfficialName="ਅਜਰਬਾਈਜਾਨੀ ਗਣਰਾਜ" />
+  <Country Code="032" Alpha2="AR" Alpha3="ARG" Name="ਅਰਜਨਟੀਨਾ" CommonName="" OfficialName="ਅਰਜਨਟੀਨਾ ਗਣਰਾਜ" />
+  <Country Code="036" Alpha2="AU" Alpha3="AUS" Name="ਅਸਟਰੇਲੀਆ" CommonName="" OfficialName="" />
+  <Country Code="040" Alpha2="AT" Alpha3="AUT" Name="ਆਸਟਰੀਆ" CommonName="" OfficialName="ਆਸਟਰੀਆ ਗਣਰਾਜ" />
+  <Country Code="044" Alpha2="BS" Alpha3="BHS" Name="ਬਾਹਾਮਾਸ" CommonName="" OfficialName="ਬਾਹਾਮਾਸ ਦਾ ਸੰਘ" />
+  <Country Code="048" Alpha2="BH" Alpha3="BHR" Name="ਬਹਿਰਾਨ" CommonName="" OfficialName="ਬਹਿਰਾਨ ਰਾਜ" />
+  <Country Code="050" Alpha2="BD" Alpha3="BGD" Name="ਬੰਗਲਾਦੇਸ਼" CommonName="" OfficialName="ਬੰਗਲਾਦੇਸ਼ ਗਣਰਾਜ" />
+  <Country Code="051" Alpha2="AM" Alpha3="ARM" Name="ਅਰਮੀਨਾ" CommonName="" OfficialName="ਅਰਮੀਨੀਅਨ ਗਣਰਾਜ" />
+  <Country Code="052" Alpha2="BB" Alpha3="BRB" Name="ਬਾਰਬਾਡਾਸ" CommonName="" OfficialName="" />
+  <Country Code="056" Alpha2="BE" Alpha3="BEL" Name="ਬੈਲਜੀਅਮ" CommonName="" OfficialName="ਬੈਲਜੀਅਮ ਰਾਜ" />
+  <Country Code="060" Alpha2="BM" Alpha3="BMU" Name="ਬਾਰਾਮੂਡਾ" CommonName="" OfficialName="" />
+  <Country Code="064" Alpha2="BT" Alpha3="BTN" Name="ਭੁਟਾਨ" CommonName="" OfficialName="ਭੁਟਾਨ ਰਾਜ" />
+  <Country Code="068" Alpha2="BO" Alpha3="BOL" Name="" CommonName="ਬੋਲੋਵੀਆ" OfficialName="" />
+  <Country Code="070" Alpha2="BA" Alpha3="BIH" Name="ਬੋਸਨੀਆ ਤੇ ਹਰਜ਼ੀਗੋਨੀਆ" CommonName="" OfficialName="ਬੋਸਨੀਆ ਤੇ ਹਰਜ਼ੀਗੋਨੀਆ ਗਣਰਾਜ" />
+  <Country Code="072" Alpha2="BW" Alpha3="BWA" Name="ਬੂਟਸਵਾਨਾ" CommonName="" OfficialName="ਬੂਟਸਵਾਨਾ ਗਣਰਾਜ" />
+  <Country Code="074" Alpha2="BV" Alpha3="BVT" Name="ਬੂਟਵਟ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="076" Alpha2="BR" Alpha3="BRA" Name="ਬਰਾਜ਼ੀਲ" CommonName="" OfficialName="ਬਰਾਜ਼ੀਲ ਸੰਘੀ ਗਣਰਾਜ" />
+  <Country Code="084" Alpha2="BZ" Alpha3="BLZ" Name="ਬੀਲੀਜ਼ੀ" CommonName="" OfficialName="" />
+  <Country Code="086" Alpha2="IO" Alpha3="IOT" Name="ਬਰਤਾਨੀਆ ਭਾਰਤੀ ਸਮੁੰਦਰੀ ਖੇਤਰ" CommonName="" OfficialName="" />
+  <Country Code="090" Alpha2="SB" Alpha3="SLB" Name="ਸੋਲੋਮੋਨ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="092" Alpha2="VG" Alpha3="VGB" Name="ਵਿਰਗਿਨ ਟਾਪੂ ਬਰਤਾਨੀਆ" CommonName="" OfficialName="ਬਰਿਟਿਸ਼ ਵੀਰਗਿਨ ਟਾਪੂ" />
+  <Country Code="096" Alpha2="BN" Alpha3="BRN" Name="ਬਰੂਨਈ ਡਾਰੂਸ਼ਲਾਮ" CommonName="" OfficialName="" />
+  <Country Code="100" Alpha2="BG" Alpha3="BGR" Name="ਬੁਲਗਾਰੀਆ" CommonName="" OfficialName="ਬੁਲਗਾਰੀਆ ਗਣਰਾਜ" />
+  <Country Code="104" Alpha2="MM" Alpha3="MMR" Name="ਮਿਆਂਮਾਰ" CommonName="" OfficialName="ਗੁਆਨਾ ਗਣਰਾਜ" />
+  <Country Code="108" Alpha2="BI" Alpha3="BDI" Name="ਬੂਰੂਮਾਡੀ" CommonName="" OfficialName="ਬੂਰੂਮਾਡੀ ਗਣਰਾਜ" />
+  <Country Code="112" Alpha2="BY" Alpha3="BLR" Name="ਬੇਲਾਰੂਸ" CommonName="" OfficialName="ਬੇਲਾਰੂਸ ਗਣਰਾਜ" />
+  <Country Code="116" Alpha2="KH" Alpha3="KHM" Name="ਕੋਲੰਬੀਆ" CommonName="" OfficialName="ਕੋਲੰਬੀਆ ਰਾਜ" />
+  <Country Code="120" Alpha2="CM" Alpha3="CMR" Name="ਕੈਮਰੂਨ" CommonName="" OfficialName="ਕੈਮਰੂਨ ਗਣਰਾਜ" />
+  <Country Code="124" Alpha2="CA" Alpha3="CAN" Name="ਕੈਨੇਡਾ" CommonName="" OfficialName="" />
+  <Country Code="132" Alpha2="CV" Alpha3="CPV" Name="ਕੇਪ ਵਾਰਡੀ" CommonName="" OfficialName="ਕੇਪ ਵਾਰਡੀ ਗਣਰਾਜ" />
+  <Country Code="136" Alpha2="KY" Alpha3="CYM" Name="ਕਾਯਮਨ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="140" Alpha2="CF" Alpha3="CAF" Name="ਕੇਂਦਰੀ ਅਫਰੀਕਾ ਗਣਰਾਜ" CommonName="" OfficialName="" />
+  <Country Code="144" Alpha2="LK" Alpha3="LKA" Name="ਸ੍ਰੀਲੰਕਾ" CommonName="" OfficialName="ਸ੍ਰੀਲੰਕਾ ਸਮਾਜਵਾਦੀ ਗਣਰਾਜ" />
+  <Country Code="148" Alpha2="TD" Alpha3="TCD" Name="ਚਾਦ" CommonName="" OfficialName="ਚਾਦ ਗਣਰਾਜ" />
+  <Country Code="152" Alpha2="CL" Alpha3="CHL" Name="ਚਿੱਲੀ" CommonName="" OfficialName="ਚਿੱਲੀ ਗਣਰਾਜ" />
+  <Country Code="156" Alpha2="CN" Alpha3="CHN" Name="ਚੀਨ" CommonName="" OfficialName="ਚੀਨ ਗਣਰਾਜ" />
+  <Country Code="158" Alpha2="TW" Alpha3="TWN" Name="ਤਾਈਵਾਨ, ਚੀਨੀ ਖੇਤਰ" CommonName="ਤਾਈਵਾਨ" OfficialName="ਤਾਈਵਾਨ, ਚੀਨੀ ਖੇਤਰ" />
+  <Country Code="162" Alpha2="CX" Alpha3="CXR" Name="ਕ੍ਰਿਸਮਿਸ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="166" Alpha2="CC" Alpha3="CCK" Name="ਕੋਕੋਸ(ਕਿਲਿੰਗ) ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="170" Alpha2="CO" Alpha3="COL" Name="ਕੋਲੰਬੀਆ" CommonName="" OfficialName="ਕੋਲੰਬੀਆ ਗਣਰਾਜ" />
+  <Country Code="174" Alpha2="KM" Alpha3="COM" Name="ਕੋਮੋਰਸ" CommonName="" OfficialName="ਕੋਮੋਰਸ ਸੰਘ" />
+  <Country Code="175" Alpha2="YT" Alpha3="MYT" Name="ਮਾਈਟੀ" CommonName="" OfficialName="" />
+  <Country Code="178" Alpha2="CG" Alpha3="COG" Name="ਕਾਂਗੋ" CommonName="" OfficialName="ਕਾਂਗੋ ਗਣਰਾਜ" />
+  <Country Code="180" Alpha2="CD" Alpha3="COD" Name="ਕੌਂਗੋ, ਇਸ ਦਾ ਜਮਹੂਰੀ ਲੋਕਤੰਤਰ" CommonName="" OfficialName="" />
+  <Country Code="184" Alpha2="CK" Alpha3="COK" Name="ਕੁੱਕ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="188" Alpha2="CR" Alpha3="CRI" Name="ਕਾਸਟ ਰੀਕਾ" CommonName="" OfficialName="ਕਾਸਟ ਰੀਕਾ ਗਣਰਾਜ" />
+  <Country Code="191" Alpha2="HR" Alpha3="HRV" Name="ਕਰੋਟੀਆ" CommonName="" OfficialName="ਕਰੋਟੀਆ ਗਣਰਾਜ" />
+  <Country Code="192" Alpha2="CU" Alpha3="CUB" Name="ਕਿਊਬਾ" CommonName="" OfficialName="ਕਿਊਬਾ ਗਣਰਾਜ" />
+  <Country Code="196" Alpha2="CY" Alpha3="CYP" Name="ਕਿਊਰੂਸ" CommonName="" OfficialName="ਕਿਊਰੂਸ ਗਣਰਾਜ" />
+  <Country Code="203" Alpha2="CZ" Alpha3="CZE" Name="ਚੈੱਕ ਗਣਰਾਜ" CommonName="" OfficialName="" />
+  <Country Code="204" Alpha2="BJ" Alpha3="BEN" Name="ਬੀਨਾਨ" CommonName="" OfficialName="ਬੀਨਾਨ ਗਣਰਾਜ" />
+  <Country Code="208" Alpha2="DK" Alpha3="DNK" Name="ਡੈਨਮਾਰਕ" CommonName="" OfficialName="ਡੈਨਮਾਰਕ ਰਾਜ" />
+  <Country Code="212" Alpha2="DM" Alpha3="DMA" Name="ਡੋਮੀਨੀਆ" CommonName="" OfficialName="ਡੋਮੀਨੀਆ ਸੰਘ" />
+  <Country Code="214" Alpha2="DO" Alpha3="DOM" Name="ਡੋਮੀਨੀਆਨ ਗਣਰਾਜ" CommonName="" OfficialName="" />
+  <Country Code="218" Alpha2="EC" Alpha3="ECU" Name="ਏਕਵੇਡਰ" CommonName="" OfficialName="ਏਕਵੇਡਰ ਗਣਰਾਜ" />
+  <Country Code="222" Alpha2="SV" Alpha3="SLV" Name="ਈਲ ਸਾਲੇਵਡੋਰ" CommonName="" OfficialName="ਈਲ ਸਾਲੇਵਡੋਰ ਗਣਰਾਜ" />
+  <Country Code="226" Alpha2="GQ" Alpha3="GNQ" Name="ਭੂ-ਖੰਡੀ ਗੁਆਨਾ" CommonName="" OfficialName="ਭੂ-ਖੰਡੀ ਗੁਆਨਾ ਗਣਰਾਜ" />
+  <Country Code="231" Alpha2="ET" Alpha3="ETH" Name="ਈਥੋਪਈਆ" CommonName="" OfficialName="ਈਥੋਪਈਆ ਦਾ ਸੰਘੀ ਗਣਰਾਜ" />
+  <Country Code="232" Alpha2="ER" Alpha3="ERI" Name="ਈਰਟੀਰਆ" CommonName="" OfficialName="ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ" />
+  <Country Code="233" Alpha2="EE" Alpha3="EST" Name="ਈਸਟੋਨੀਆ" CommonName="" OfficialName="ਈਸਟੋਨੀਆ ਗਣਰਾਜ" />
+  <Country Code="234" Alpha2="FO" Alpha3="FRO" Name="ਫਾਰੀਓ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="238" Alpha2="FK" Alpha3="FLK" Name="ਫਾਕਲੈਂਡ ਟਾਪੂ (ਮਾਲਵੀਨਸ)" CommonName="" OfficialName="" />
+  <Country Code="239" Alpha2="GS" Alpha3="SGS" Name="ਦੱਖਣੀ ਜਾਰਜੀਆ ਅਤੇ ਦੱਖਣੀ ਸੈਂਡਵਿਚ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="242" Alpha2="FJ" Alpha3="FJI" Name="ਫਿਜ਼ੀ" CommonName="" OfficialName="ਹਾਈਟੀ ਗਣਰਾਜ" />
+  <Country Code="246" Alpha2="FI" Alpha3="FIN" Name="ਫ਼ਿਨਲੈਂਡ" CommonName="" OfficialName="ਫਿਨਲੈਂਡ ਗਣਰਾਜ" />
+  <Country Code="248" Alpha2="AX" Alpha3="ALA" Name="ਏਲੈਂਡ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="250" Alpha2="FR" Alpha3="FRA" Name="ਫਰਾਂਸ" CommonName="" OfficialName="ਫਰੈਂਚ ਗਣਰਾਜ" />
+  <Country Code="254" Alpha2="GF" Alpha3="GUF" Name="ਫਰੈਂਚ ਗੁਆਨਾ" CommonName="" OfficialName="" />
+  <Country Code="258" Alpha2="PF" Alpha3="PYF" Name="ਫਰੈਚ ਪੋਲੀਸੇਲੇਵੀਆ" CommonName="" OfficialName="" />
+  <Country Code="260" Alpha2="TF" Alpha3="ATF" Name="ਫਰੈਂਚ ਦੱਖਣੀ ਖੇਤਰ" CommonName="" OfficialName="" />
+  <Country Code="262" Alpha2="DJ" Alpha3="DJI" Name="ਡਜੀਬੂਟੀ" CommonName="" OfficialName="ਡਜੀਬੂਟੀ ਗਣਰਾਜ" />
+  <Country Code="266" Alpha2="GA" Alpha3="GAB" Name="ਗਾਬੋਨ" CommonName="" OfficialName="ਗਬੋਨੀਸੀ ਗਣਰਾਜ" />
+  <Country Code="268" Alpha2="GE" Alpha3="GEO" Name="ਜਾਰਜੀਆ" CommonName="" OfficialName="" />
+  <Country Code="270" Alpha2="GM" Alpha3="GMB" Name="ਗਾਬੀਆ" CommonName="" OfficialName="ਗੈਂਬੀਆ ਗਣਰਾਜ" />
+  <Country Code="275" Alpha2="PS" Alpha3="PSE" Name="" CommonName="" OfficialName="ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ" />
+  <Country Code="276" Alpha2="DE" Alpha3="DEU" Name="ਜਰਮਨੀ" CommonName="" OfficialName="ਸੰਘੀ ਜਰਮਨੀ" />
+  <Country Code="288" Alpha2="GH" Alpha3="GHA" Name="ਘਾਨਾ" CommonName="" OfficialName="ਘਾਨਾ ਗਣਰਾਜ" />
+  <Country Code="292" Alpha2="GI" Alpha3="GIB" Name="ਗੀਬਰਾਲਟਰ" CommonName="" OfficialName="" />
+  <Country Code="296" Alpha2="KI" Alpha3="KIR" Name="ਕੀਰੀਬਾਟੀ" CommonName="" OfficialName="ਕੀਰੀਬਾਟੀ ਗਣਰਾਜ" />
+  <Country Code="300" Alpha2="GR" Alpha3="GRC" Name="ਗਰੀਸ" CommonName="" OfficialName="ਹਿੱਲਨਿਕ ਗਣਰਾਜ" />
+  <Country Code="304" Alpha2="GL" Alpha3="GRL" Name="ਗਰੀਨਲੈਂਡ" CommonName="" OfficialName="" />
+  <Country Code="308" Alpha2="GD" Alpha3="GRD" Name="ਗਰੀਨਾਡਾਆ" CommonName="" OfficialName="" />
+  <Country Code="312" Alpha2="GP" Alpha3="GLP" Name="ਗੁਆਡੀਲੂਪੀ" CommonName="" OfficialName="" />
+  <Country Code="316" Alpha2="GU" Alpha3="GUM" Name="ਗੁਆਮ" CommonName="" OfficialName="" />
+  <Country Code="320" Alpha2="GT" Alpha3="GTM" Name="ਗੁਆਟੇਮਾਲਾ" CommonName="" OfficialName="ਗੁਆਟੇਮਾਲਾ ਗਣਰਾਜ" />
+  <Country Code="324" Alpha2="GN" Alpha3="GIN" Name="ਗੂਈਨੀਆ" CommonName="" OfficialName="ਗੂਈਨੀਆ ਗਣਰਾਜ" />
+  <Country Code="328" Alpha2="GY" Alpha3="GUY" Name="ਗੁਆਨਾ" CommonName="" OfficialName="ਗੁਆਨਾ ਗਣਰਾਜ" />
+  <Country Code="332" Alpha2="HT" Alpha3="HTI" Name="ਹਾਈਟੀ" CommonName="" OfficialName="ਹਾਈਟੀ ਗਣਰਾਜ" />
+  <Country Code="334" Alpha2="HM" Alpha3="HMD" Name="ਹਾਰਡ ਟਾਪੂ ਅਤੇ ਮੈਕਡਾਨਲਡ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="336" Alpha2="VA" Alpha3="VAT" Name="ਹੋਲੀ ਸੀ (ਵੇਟੀਕੈਨ ਸਿਟੀ ਪ੍ਰਾਂਤ)" CommonName="" OfficialName="" />
+  <Country Code="340" Alpha2="HN" Alpha3="HND" Name="ਹਾਨਡੂਰਸ" CommonName="" OfficialName="ਹਾਨਡੂਰਸ ਗਣਰਾਜ" />
+  <Country Code="344" Alpha2="HK" Alpha3="HKG" Name="ਹਾਂਗ ਕਾਂਗ" CommonName="" OfficialName="ਹਾਂਗ ਕਾਂਗ ਖਾਸ ਚੀਨੀ ਪਰਸ਼ਾਸਕੀ ਖੇਤਰ" />
+  <Country Code="348" Alpha2="HU" Alpha3="HUN" Name="ਹੰਗਰੀ" CommonName="" OfficialName="ਹੰਗਰੀ" />
+  <Country Code="352" Alpha2="IS" Alpha3="ISL" Name="ਆਈਸਲੈਂਡ" CommonName="" OfficialName="ਆਈਸਲੈਂਡ ਗਣਰਾਜ" />
+  <Country Code="356" Alpha2="IN" Alpha3="IND" Name="ਭਾਰਤ" CommonName="" OfficialName="ਭਾਰਤ ਗਣਰਾਜ" />
+  <Country Code="360" Alpha2="ID" Alpha3="IDN" Name="ਇੰਡੋਨੇਸ਼ੀਆ" CommonName="" OfficialName="ਇੰਡੋਨੇਸ਼ੀਆ ਗਣਰਾਜ" />
+  <Country Code="364" Alpha2="IR" Alpha3="IRN" Name="ਈਰਾਨ, ਮੁਸਲਮਾਨ ਗਣਰਾਜ" CommonName="" OfficialName="ਈਰਾਨ ਇਸਲਾਮਿਕ ਗਣਰਾਜ" />
+  <Country Code="368" Alpha2="IQ" Alpha3="IRQ" Name="ਇਰਾਕ" CommonName="" OfficialName="ਇਰਾਕ ਗਣਰਾਜ" />
+  <Country Code="372" Alpha2="IE" Alpha3="IRL" Name="ਆਈਰਲੈਂਡ" CommonName="" OfficialName="" />
+  <Country Code="376" Alpha2="IL" Alpha3="ISR" Name="ਇਜ਼ਰਾਈਲ" CommonName="" OfficialName="ਇਸਰਾਇਲ ਸੂਬਾ" />
+  <Country Code="380" Alpha2="IT" Alpha3="ITA" Name="ਇਟਲੀ" CommonName="" OfficialName="ਇਤਾਲਵੀ ਗਣਰਾਜ" />
+  <Country Code="384" Alpha2="CI" Alpha3="CIV" Name="ਕੋਟ ਡੀਵੋਈਰੀ" CommonName="" OfficialName="ਕੋਟ ਡੀਵੋਈਰੀ ਗਣਰਾਜ" />
+  <Country Code="388" Alpha2="JM" Alpha3="JAM" Name="ਜੈਮਾਈਕਾ" CommonName="" OfficialName="" />
+  <Country Code="392" Alpha2="JP" Alpha3="JPN" Name="ਜਾਪਾਨ" CommonName="" OfficialName="" />
+  <Country Code="398" Alpha2="KZ" Alpha3="KAZ" Name="ਕਜ਼ਾਕਸਤਾਨ" CommonName="" OfficialName="ਕਜ਼ਾਕਸਤਾਨ ਗਣਰਾਜ" />
+  <Country Code="400" Alpha2="JO" Alpha3="JOR" Name="ਜਾਰਡਨ" CommonName="" OfficialName="ਜਾਰਡਨ ਦਾ ਹਾਸ਼ੀਮਿਟੀ ਖੇਤਰ" />
+  <Country Code="404" Alpha2="KE" Alpha3="KEN" Name="ਕੀਨੀਆ" CommonName="" OfficialName="ਕੀਨੀਆ ਗਣਰਾਜ" />
+  <Country Code="408" Alpha2="KP" Alpha3="PRK" Name="ਕੋਰੀਆ, ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ" CommonName="" OfficialName="ਕੋਰੀਆ ਦਾ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ" />
+  <Country Code="410" Alpha2="KR" Alpha3="KOR" Name="ਕੋਰੀਆ ਗਣਰਾਜ" CommonName="" OfficialName="" />
+  <Country Code="414" Alpha2="KW" Alpha3="KWT" Name="ਕੁਵੈਤ" CommonName="" OfficialName="ਕੁਵੈਤ ਸੂਬਾ" />
+  <Country Code="417" Alpha2="KG" Alpha3="KGZ" Name="ਕਿਰਗਸਤਾਨ" CommonName="" OfficialName="ਕਿਰਗਸਤਾਨ ਗਣਰਾਜ" />
+  <Country Code="418" Alpha2="LA" Alpha3="LAO" Name="ਲਿਓ ਪੀਪਲ ਦਾ ਗਣਰਾਜ" CommonName="" OfficialName="" />
+  <Country Code="422" Alpha2="LB" Alpha3="LBN" Name="ਲੀਬਨਾਨ" CommonName="" OfficialName="ਲੀਬਾਂਈਸ ਗਣਰਾਜ" />
+  <Country Code="426" Alpha2="LS" Alpha3="LSO" Name="ਲੀਸੋਥੋ" CommonName="" OfficialName="ਲੀਸੋਥੋ ਗਣਰਾਜ" />
+  <Country Code="428" Alpha2="LV" Alpha3="LVA" Name="ਲਾਟੀਵਾਆ" CommonName="" OfficialName="ਲਾਟੀਵਾਆ ਗਣਰਾਜ" />
+  <Country Code="430" Alpha2="LR" Alpha3="LBR" Name="ਲੀਬਾਰੀਆ" CommonName="" OfficialName="ਲੀਬਾਰੀਆ ਗਣਰਾਜ" />
+  <Country Code="434" Alpha2="LY" Alpha3="LBY" Name="ਲੀਬਾਰੀਆ" CommonName="" OfficialName="ਲੀਬਾਰੀਆ" />
+  <Country Code="438" Alpha2="LI" Alpha3="LIE" Name="ਲੀਚਟੀਨੀਆ" CommonName="" OfficialName="ਲੀਚਟੀਨੀਆ ਖੇਤਰ" />
+  <Country Code="440" Alpha2="LT" Alpha3="LTU" Name="ਲੀਥੂਨੀਆ" CommonName="" OfficialName="ਲੀਥੂਨੀਆ ਗਣਰਾਜ" />
+  <Country Code="442" Alpha2="LU" Alpha3="LUX" Name="ਲ਼ਕਸ਼ਬਰਗ" CommonName="" OfficialName="ਲ਼ਕਸ਼ਬਰਗ ਦਾ ਖੇਤਰ" />
+  <Country Code="446" Alpha2="MO" Alpha3="MAC" Name="ਮੈਕੋ" CommonName="" OfficialName="ਮੈਕੋ ਚੀਨ ਦਾ ਖਾਸ ਪਰਸ਼ਾਸਕੀ ਖੇਤਰ" />
+  <Country Code="450" Alpha2="MG" Alpha3="MDG" Name="ਮੈਡਾਗਾਸਕਰ" CommonName="" OfficialName="ਮੈਡਾਗਾਸਕਰ ਗਣਰਾਜ" />
+  <Country Code="454" Alpha2="MW" Alpha3="MWI" Name="ਮਾਲਾਵੀਆ" CommonName="" OfficialName="ਮਾਲਾਵੀਆ ਗਣਰਾਜ" />
+  <Country Code="458" Alpha2="MY" Alpha3="MYS" Name="ਮਲੇਸ਼ੀਆ" CommonName="" OfficialName="" />
+  <Country Code="462" Alpha2="MV" Alpha3="MDV" Name="ਮਾਲਦੀਵ" CommonName="" OfficialName="ਮਾਲਦੀਵ ਗਣਰਾਜ" />
+  <Country Code="466" Alpha2="ML" Alpha3="MLI" Name="ਮਾਲੀ" CommonName="" OfficialName="ਮਾਲੀ ਗਣਰਾਜ" />
+  <Country Code="470" Alpha2="MT" Alpha3="MLT" Name="ਮਾਲਟਾ" CommonName="" OfficialName="ਮਾਲਟਾ ਗਣਰਾਜ" />
+  <Country Code="474" Alpha2="MQ" Alpha3="MTQ" Name="ਮਾਰਟੀਨੀਕਿਊ" CommonName="" OfficialName="" />
+  <Country Code="478" Alpha2="MR" Alpha3="MRT" Name="ਮਾਓਰੀਟਆਨਾ" CommonName="" OfficialName="ਮਾਓਰੀਟਆਨਾ ਇਸਲਾਮੀ ਗਣਰਾਜ" />
+  <Country Code="480" Alpha2="MU" Alpha3="MUS" Name="ਮਾਓਟੀਸ" CommonName="" OfficialName="ਮਾਓਟੀਸ ਗਣਰਾਜ" />
+  <Country Code="484" Alpha2="MX" Alpha3="MEX" Name="ਮੈਕਸੀਕੋ" CommonName="" OfficialName="ਸੰਯੁਕਤ ਮੈਕਸਕੀ ਸੂਬੇ" />
+  <Country Code="492" Alpha2="MC" Alpha3="MCO" Name="ਮੋਨਕੋ" CommonName="" OfficialName="ਮੋਨਕੋ ਖੇਤਰ" />
+  <Country Code="496" Alpha2="MN" Alpha3="MNG" Name="ਮੰਗੋਲੀਆ" CommonName="" OfficialName="" />
+  <Country Code="498" Alpha2="MD" Alpha3="MDA" Name="ਮੋਲਡੋਵਾ ਗਣਰਾਜ" CommonName="ਮੋਲਡੀਵਾ" OfficialName="ਮੋਲਡੋਵਾ ਗਣਰਾਜ" />
+  <Country Code="499" Alpha2="ME" Alpha3="MNE" Name="ਮੋਨਟੇਨੇਗਰੋ" CommonName="" OfficialName="ਮੋਨਟੇਨੇਗਰੋ" />
+  <Country Code="500" Alpha2="MS" Alpha3="MSR" Name="ਮੋਨਟਸ਼ਟੀਟ" CommonName="" OfficialName="" />
+  <Country Code="504" Alpha2="MA" Alpha3="MAR" Name="ਮੋਰੋਸ਼ਸੋ" CommonName="" OfficialName="ਮੋਰੋਸ਼ਸੋ ਰਾਜ" />
+  <Country Code="508" Alpha2="MZ" Alpha3="MOZ" Name="ਮੋਜ਼ਾਮਬੀਕਿਉ" CommonName="" OfficialName="ਮੋਜ਼ਾਮਬੀਕਿਉ ਗਣਰਾਜ" />
+  <Country Code="512" Alpha2="OM" Alpha3="OMN" Name="ਓਮਾਨ" CommonName="" OfficialName="ਓਮਾਨ ਦਾ ਸਲਨਾਟੀ" />
+  <Country Code="516" Alpha2="NA" Alpha3="NAM" Name="ਨੀਮੀਬੀਆ" CommonName="" OfficialName="ਨੀਮੀਬੀਆ ਗਣਰਾਜ" />
+  <Country Code="520" Alpha2="NR" Alpha3="NRU" Name="ਨੀਓਰੂ" CommonName="" OfficialName="ਨੀਓਰੂ ਗਣਰਾਜ" />
+  <Country Code="524" Alpha2="NP" Alpha3="NPL" Name="ਨੇਪਾਲ" CommonName="" OfficialName="ਨੇਪਾਲ ਸੰਘੀ ਗਣਰਾਜ" />
+  <Country Code="528" Alpha2="NL" Alpha3="NLD" Name="ਨੀਂਦਰਲੈਂਡ" CommonName="" OfficialName="ਨੀਂਦਰਲੈਂਡ " />
+  <Country Code="531" Alpha2="CW" Alpha3="CUW" Name="" CommonName="" OfficialName="" />
+  <Country Code="533" Alpha2="AW" Alpha3="ABW" Name="ਅਰੂਬਾ" CommonName="" OfficialName="" />
+  <Country Code="534" Alpha2="SX" Alpha3="SXM" Name="ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)" CommonName="" OfficialName="ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)" />
+  <Country Code="535" Alpha2="BQ" Alpha3="BES" Name="" CommonName="" OfficialName="" />
+  <Country Code="540" Alpha2="NC" Alpha3="NCL" Name="ਨਵਾਂ ਕਾਲੀਡੋਨੀਆਂ" CommonName="" OfficialName="" />
+  <Country Code="548" Alpha2="VU" Alpha3="VUT" Name="ਵਾਨੂਟੂ" CommonName="" OfficialName="ਵਾਨੂਟੂ ਗਣਰਾਜ" />
+  <Country Code="554" Alpha2="NZ" Alpha3="NZL" Name="ਨਿਊਜ਼ੀਲੈਂਡ" CommonName="" OfficialName="" />
+  <Country Code="558" Alpha2="NI" Alpha3="NIC" Name="ਨਿਕਾਰਗੁਆ" CommonName="" OfficialName="ਨਿਕਾਰਗੁਆ ਗਣਰਾਜ" />
+  <Country Code="562" Alpha2="NE" Alpha3="NER" Name="ਨੀਜ਼ਰ" CommonName="" OfficialName="ਨੀਜ਼ਰ ਗਣਰਾਜ" />
+  <Country Code="566" Alpha2="NG" Alpha3="NGA" Name="ਨੀਜ਼ੀਰਆ" CommonName="" OfficialName="ਨੀਜ਼ੀਰਆ ਸੰਘੀ ਗਣਰਾਜ" />
+  <Country Code="570" Alpha2="NU" Alpha3="NIU" Name="ਨੀਊਈ" CommonName="" OfficialName="ਨੀਊਈ" />
+  <Country Code="574" Alpha2="NF" Alpha3="NFK" Name="ਨੋਰਫੋਕ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="578" Alpha2="NO" Alpha3="NOR" Name="ਨਾਰਵੇ" CommonName="" OfficialName="ਨਾਰਵੇ ਰਾਜ" />
+  <Country Code="580" Alpha2="MP" Alpha3="MNP" Name="ਉੱਤਰੀ ਮਰੀਵੀਆਨਾ ਟਾਪੂ" CommonName="" OfficialName="ਸੰਘੀ ਉੱਤਰੀ ਮਰੀਵੀਆਨਾ ਟਾਪੂ" />
+  <Country Code="581" Alpha2="UM" Alpha3="UMI" Name="ਅਮਰੀਕਾ ਦੇ ਛੋਟੇ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="583" Alpha2="FM" Alpha3="FSM" Name="ਮਾਈਕਰੋਨੇਸਿਆ, ਸੰਘ" CommonName="" OfficialName="ਮਾਈਕਰੋਨੇਸਿਆ ਦੇ ਸੰਘੀ ਸੂਬੇ" />
+  <Country Code="584" Alpha2="MH" Alpha3="MHL" Name="ਮਾਰਸ਼ਲ ਟਾਪੂ" CommonName="" OfficialName="ਮਾਰਸ਼ਲ ਟਾਪੂ ਗਣਰਾਜ" />
+  <Country Code="585" Alpha2="PW" Alpha3="PLW" Name="ਪਲਾਊ" CommonName="" OfficialName="ਪਲਾਊ ਗਣਰਾਜ" />
+  <Country Code="586" Alpha2="PK" Alpha3="PAK" Name="ਪਾਕਿਸਤਾਨ" CommonName="" OfficialName="ਪਾਕਿਸਤਾਨ ਇਸਲਾਮੀ ਗਣਰਾਜ" />
+  <Country Code="591" Alpha2="PA" Alpha3="PAN" Name="ਪੈਨਾਮਾ" CommonName="" OfficialName="ਪੈਨਾਮਾ ਗਣਰਾਜ" />
+  <Country Code="598" Alpha2="PG" Alpha3="PNG" Name="ਪਾਪੂਆ ਨਵਾਂ ਗੂਈਨਿਆ" CommonName="" OfficialName="ਸਮੋਆ ਦਾ ਅਜ਼ਾਦ ਸੂਬਾ" />
+  <Country Code="600" Alpha2="PY" Alpha3="PRY" Name="ਪੇਰੂਗਵੇ" CommonName="" OfficialName="ਪੇਰੂਗਵੇ ਗਣਰਾਜ" />
+  <Country Code="604" Alpha2="PE" Alpha3="PER" Name="ਪੇਰੂ" CommonName="" OfficialName="ਪੇਰੂ ਗਣਰਾਜ" />
+  <Country Code="608" Alpha2="PH" Alpha3="PHL" Name="ਫਿਲਿਪੀਨੀਜ਼" CommonName="" OfficialName="ਫਿਲਿਪੀਨੀਜ਼ ਗਣਰਾਜ" />
+  <Country Code="612" Alpha2="PN" Alpha3="PCN" Name="ਪਿਟਸਾਰਨ" CommonName="" OfficialName="" />
+  <Country Code="616" Alpha2="PL" Alpha3="POL" Name="ਪੋਲੈਂਡ" CommonName="" OfficialName="ਪੋਲੈਂਡ ਗਣਰਾਜ" />
+  <Country Code="620" Alpha2="PT" Alpha3="PRT" Name="ਪੁਰਤਗਾਲ" CommonName="" OfficialName="ਪੁਰਤਗਾਲ ਗਣਰਾਜ" />
+  <Country Code="624" Alpha2="GW" Alpha3="GNB" Name="ਗੁਨੇਆ-ਬਿਸਾਉ" CommonName="" OfficialName="ਗੁਨੇਆ-ਬਿਸਾਉ ਗਣਰਾਜ" />
+  <Country Code="626" Alpha2="TL" Alpha3="TLS" Name="ਟੀਮੁਰ-ਲੀਸਟੀ" CommonName="" OfficialName="ਵਟੀਮੁਰ-ਲੀਸਟੀ ਦਾ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ" />
+  <Country Code="630" Alpha2="PR" Alpha3="PRI" Name="ਪੁਈਰਟੋ ਰੀਸੋ" CommonName="" OfficialName="" />
+  <Country Code="634" Alpha2="QA" Alpha3="QAT" Name="ਕਤਰ" CommonName="" OfficialName="ਕਤਰ ਸੂਬਾ" />
+  <Country Code="638" Alpha2="RE" Alpha3="REU" Name="ਰੀਯੁਨੀਅਨ" CommonName="" OfficialName="" />
+  <Country Code="642" Alpha2="RO" Alpha3="ROU" Name="ਰੋਮਾਨੀਆ" CommonName="" OfficialName="" />
+  <Country Code="643" Alpha2="RU" Alpha3="RUS" Name="ਰੂਸੀ ਗਣਰਾਜ" CommonName="" OfficialName="" />
+  <Country Code="646" Alpha2="RW" Alpha3="RWA" Name="ਰਵਾਂਡਾ" CommonName="" OfficialName="ਰਵਾਂਡਾ ਗਣਰਾਜ" />
+  <Country Code="652" Alpha2="BL" Alpha3="BLM" Name="ਸੇਂਟ ਬਰਥੀਲੀਮੇ" CommonName="" OfficialName="" />
+  <Country Code="654" Alpha2="SH" Alpha3="SHN" Name="" CommonName="" OfficialName="" />
+  <Country Code="659" Alpha2="KN" Alpha3="KNA" Name="ਸੇਂਟ ਕਿਟਸ ਅਤੇ ਨੇਵੀਸ" CommonName="" OfficialName="" />
+  <Country Code="660" Alpha2="AI" Alpha3="AIA" Name="ਅੰਗੂਲੀਆਂ" CommonName="" OfficialName="" />
+  <Country Code="662" Alpha2="LC" Alpha3="LCA" Name="ਸੇਂਟ ਲੂਸੀਆ" CommonName="" OfficialName="" />
+  <Country Code="663" Alpha2="MF" Alpha3="MAF" Name="ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)" CommonName="" OfficialName="" />
+  <Country Code="666" Alpha2="PM" Alpha3="SPM" Name="ਸੇਂਟ ਪਿੱਰੇ ਅਤੇ ਮੀਕੇਲੋਨ" CommonName="" OfficialName="" />
+  <Country Code="670" Alpha2="VC" Alpha3="VCT" Name="ਸੇਂਟ ਵਿਨਸਨਟ ਅਤੇ ਗਰੇਨਾਡਾਈਨਸ" CommonName="" OfficialName="" />
+  <Country Code="674" Alpha2="SM" Alpha3="SMR" Name="ਸਾਨ ਮਾਰੀਨੂ" CommonName="" OfficialName="ਸਾਨ ਮਾਰੀਨੂ ਗਣਰਾਜ" />
+  <Country Code="678" Alpha2="ST" Alpha3="STP" Name="ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿਨਸਾਈਪ" CommonName="" OfficialName="ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿਨਸਾਈਪ ਦਾ ਗਣਰਾਜ" />
+  <Country Code="682" Alpha2="SA" Alpha3="SAU" Name="ਸਾਊਦੀ ਅਰਬ" CommonName="" OfficialName="ਸਾਊਦੀ ਅਰਬ" />
+  <Country Code="686" Alpha2="SN" Alpha3="SEN" Name="ਸੈਨੇਗਾਲ" CommonName="" OfficialName="ਸੈਨੇਗਾਲ ਗਣਰਾਜ" />
+  <Country Code="688" Alpha2="RS" Alpha3="SRB" Name="ਸੀਰਬੀਆ" CommonName="" OfficialName="ਸੀਰਬੀਆ ਗਣਰਾਜ" />
+  <Country Code="690" Alpha2="SC" Alpha3="SYC" Name="ਸੀਆਚਿਲਸ" CommonName="" OfficialName="ਸੀਆਚਿਲਸ ਗਣਰਾਜ" />
+  <Country Code="694" Alpha2="SL" Alpha3="SLE" Name="ਸੀਈਰਆ ਲਿਏਨ" CommonName="" OfficialName="ਸੀਈਰਆ ਲਿਏਨ ਗਣਰਾਜ" />
+  <Country Code="702" Alpha2="SG" Alpha3="SGP" Name="ਸਿੰਘਾਪੁਰ" CommonName="" OfficialName="ਸਿੰਘਾਪੁਰ ਗਣਰਾਜ" />
+  <Country Code="703" Alpha2="SK" Alpha3="SVK" Name="ਸਲੋਵਾਕੀਆ" CommonName="" OfficialName="ਸਲੋਵਾਕ ਲੋਕਤੰਤਰ" />
+  <Country Code="704" Alpha2="VN" Alpha3="VNM" Name="ਵੀਅਤਨਾਮ" CommonName="" OfficialName="ਵੀਅਤਨਾਮ ਸਮਾਜਵਾਦੀ ਗਣਰਾਜ" />
+  <Country Code="705" Alpha2="SI" Alpha3="SVN" Name="ਸਲੋਵੀਨੀਆ" CommonName="" OfficialName="ਸਲੋਵੀਨੀਆ ਗਣਰਾਜ" />
+  <Country Code="706" Alpha2="SO" Alpha3="SOM" Name="ਸੋਮਾਲੀਆ" CommonName="" OfficialName="ਸੰਘੀ ਜਰਮਨੀ" />
+  <Country Code="710" Alpha2="ZA" Alpha3="ZAF" Name="ਦੱਖਣੀ ਅਫਰੀਕਾ" CommonName="" OfficialName="ਦੱਖਣੀ ਅਫਰੀਕਾ ਗਣਰਾਜ" />
+  <Country Code="716" Alpha2="ZW" Alpha3="ZWE" Name="ਜਿੰਬਾਬਾਵੇ" CommonName="" OfficialName="ਜਿੰਬਾਬਵੇ ਗਣਰਾਜ" />
+  <Country Code="724" Alpha2="ES" Alpha3="ESP" Name="ਸਪੇਨ" CommonName="" OfficialName="ਸਪੇਨ ਦੇਸ਼" />
+  <Country Code="728" Alpha2="SS" Alpha3="SSD" Name="ਸੂਡਾਨ ਗਣਰਾਜ" CommonName="" OfficialName="ਸੂਡਾਨ ਗਣਰਾਜ" />
+  <Country Code="729" Alpha2="SD" Alpha3="SDN" Name="ਸੂਡਾਨ" CommonName="" OfficialName="ਸੂਡਾਨ ਗਣਰਾਜ" />
+  <Country Code="732" Alpha2="EH" Alpha3="ESH" Name="ਦੱਖਣੀ ਸਹਾਰਾ" CommonName="" OfficialName="" />
+  <Country Code="740" Alpha2="SR" Alpha3="SUR" Name="ਸੂਰੀਨੇਮ" CommonName="" OfficialName="ਸੂਰੀਨੇਮ ਗਣਰਾਜ" />
+  <Country Code="744" Alpha2="SJ" Alpha3="SJM" Name="ਸਵਾਲਬਰਡ ਅਤੇ ਜਨ ਮਾਯੀਨ" CommonName="" OfficialName="" />
+  <Country Code="748" Alpha2="SZ" Alpha3="SWZ" Name="ਸਵਰਜ਼ਲੈਂਡ" CommonName="" OfficialName="ਸਵਰਜ਼ਲੈਂਡ ਟਾਪੂ" />
+  <Country Code="752" Alpha2="SE" Alpha3="SWE" Name="ਸਵੀਡਨ" CommonName="" OfficialName="ਸਵੀਡਨ ਖੇਤਰ" />
+  <Country Code="756" Alpha2="CH" Alpha3="CHE" Name="ਸਵਿਟਰਜ਼ਰਲੈਂਡ" CommonName="" OfficialName="ਸਵਿਸ ਕੰਫੈਡਰੇਸ਼ਨ" />
+  <Country Code="760" Alpha2="SY" Alpha3="SYR" Name="ਸੀਰੀਅਨ ਅਰਬ ਗਣਰਾਜ" CommonName="" OfficialName="" />
+  <Country Code="762" Alpha2="TJ" Alpha3="TJK" Name="ਤਜ਼ਾਕਸਤਾਨ" CommonName="" OfficialName="ਤਜ਼ਾਕਸਤਾਨ ਗਣਰਾਜ" />
+  <Country Code="764" Alpha2="TH" Alpha3="THA" Name="ਥਾਈਲੈਂਡ" CommonName="" OfficialName="ਥਾਈਲੈਂਡ ਦੇਸ਼" />
+  <Country Code="768" Alpha2="TG" Alpha3="TGO" Name="ਟੋਗੋ" CommonName="" OfficialName="ਟੋਗੋ ਗਣਰਾਜ" />
+  <Country Code="772" Alpha2="TK" Alpha3="TKL" Name="ਟੂਕੀਲਾਊ" CommonName="" OfficialName="" />
+  <Country Code="776" Alpha2="TO" Alpha3="TON" Name="ਟਾਂਗਾ" CommonName="" OfficialName="ਟਾਂਗਾ ਗਣਰਾਜ" />
+  <Country Code="780" Alpha2="TT" Alpha3="TTO" Name="ਟਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੇਗੋ" CommonName="" OfficialName="ਟਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੇਗੋ ਦਾ ਗਣਰਾਜ" />
+  <Country Code="784" Alpha2="AE" Alpha3="ARE" Name="ਸੰਯੁਕਤ ਰਾਜ ਅਮੀਰਾਤ" CommonName="" OfficialName="" />
+  <Country Code="788" Alpha2="TN" Alpha3="TUN" Name="ਟਿਊਨੀਸ਼ੀਆ" CommonName="" OfficialName="ਟਿਊਨੀਸ਼ੀਆ ਗਣਰਾਜ" />
+  <Country Code="792" Alpha2="TR" Alpha3="TUR" Name="ਤੁਰਕੀ" CommonName="" OfficialName="ਤੁਰਕ ਗਣਰਾਜ" />
+  <Country Code="795" Alpha2="TM" Alpha3="TKM" Name="ਤੁਰਕਮਸਤਾਨ" CommonName="" OfficialName="" />
+  <Country Code="796" Alpha2="TC" Alpha3="TCA" Name="ਤੁਰਕਸ ਅਤੇ ਕੇਈਕੋਸ ਟਾਪੂ" CommonName="" OfficialName="" />
+  <Country Code="798" Alpha2="TV" Alpha3="TUV" Name="ਟੂਵਾਲੂ" CommonName="" OfficialName="" />
+  <Country Code="800" Alpha2="UG" Alpha3="UGA" Name="ਯੂਗਾਂਡਾ" CommonName="" OfficialName="ਯੂਗਾਂਡਾ ਗਣਰਾਜ" />
+  <Country Code="804" Alpha2="UA" Alpha3="UKR" Name="ਯੂਕਰੇਨ" CommonName="" OfficialName="" />
+  <Country Code="807" Alpha2="MK" Alpha3="MKD" Name="ਮੈਕਡੋਨੀਆ ਗਣਰਾਜ" CommonName="" OfficialName="ਮੈਕਡੋਨੀਆ ਦਾ ਪੁਰਾਣਾ ਯੂਗੋਸਲਾਵ ਗਣਰਾਜ" />
+  <Country Code="818" Alpha2="EG" Alpha3="EGY" Name="ਮਿਸਰ" CommonName="" OfficialName="ਮਿਸਰ ਅਰਬ ਗਣਰਾਜ" />
+  <Country Code="826" Alpha2="GB" Alpha3="GBR" Name="ਬਰਤਾਨੀਆ" CommonName="" OfficialName="ਬਰਤਾਨੀਆ ਅਤੇ ਉੱਤਰੀ ਆਈਰਲੈਂਡ ਦਾ ਸੰਯੁਕਤ ਦੇਸ਼" />
+  <Country Code="831" Alpha2="GG" Alpha3="GGY" Name="ਗੁਰੀਨਸੇ" CommonName="" OfficialName="" />
+  <Country Code="832" Alpha2="JE" Alpha3="JEY" Name="ਜਰਸੀ" CommonName="" OfficialName="" />
+  <Country Code="833" Alpha2="IM" Alpha3="IMN" Name="ਇਸਲੇ ਆਫ ਮੈਨ" CommonName="" OfficialName="" />
+  <Country Code="834" Alpha2="TZ" Alpha3="TZA" Name="ਤਨਜ਼ਾਨੀਆ, ਸੰਯੁਕਤ ਗਣਰਾਜ" CommonName="" OfficialName="ਤਨਜ਼ਾਨੀਆ ਸੰਯੁਕਤ ਗਣਰਾਜ" />
+  <Country Code="840" Alpha2="US" Alpha3="USA" Name="ਅਮਰੀਕਾ" CommonName="" OfficialName="ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ" />
+  <Country Code="850" Alpha2="VI" Alpha3="VIR" Name="ਵਿਰਗਿਨ ਟਾਪੂ, ਅਮਰੀਕਾ" CommonName="" OfficialName="ਅਮਰੀਕੀ ਵੀਰਗੀਨ ਟਾਪੂ" />
+  <Country Code="854" Alpha2="BF" Alpha3="BFA" Name="ਬੂਪਕੀਨਾ ਫਾਸੋ" CommonName="" OfficialName="" />
+  <Country Code="858" Alpha2="UY" Alpha3="URY" Name="ਉਰੂਗਵੇ" CommonName="" OfficialName="ਉਰੂਗਵੇ ਪੂਰਬੀ ਗਣਰਾਜ" />
+  <Country Code="860" Alpha2="UZ" Alpha3="UZB" Name="ਉਜ਼ੇਬਕਸਤਾਨ" CommonName="" OfficialName="ਉਜ਼ੇਬਕਸਤਾਨ ਗਣਰਾਜ" />
+  <Country Code="862" Alpha2="VE" Alpha3="VEN" Name="ਵੈਨੂਜੇਏਲਾ, ਬੋਲੀਵਾਰੀਆ ਗਣਰਾਜ" CommonName="ਵੈਨੂਜੇਏਲਾ" OfficialName="ਵੈਨੂਜੇਏਲਾ ਦਾ ਬੋਲੀਵਾਰੀਆ ਗਣਰਾਜ" />
+  <Country Code="876" Alpha2="WF" Alpha3="WLF" Name="ਵਿੱਲਸ ਅਤੇ ਫੂਟੂਨਾ" CommonName="" OfficialName="" />
+  <Country Code="882" Alpha2="WS" Alpha3="WSM" Name="ਸਾਮੀਆ" CommonName="" OfficialName="ਸਮੋਆ ਦਾ ਅਜ਼ਾਦ ਸੂਬਾ" />
+  <Country Code="887" Alpha2="YE" Alpha3="YEM" Name="ਯਮਨ" CommonName="" OfficialName="ਯਮਨ ਗਣਰਾਜ" />
+  <Country Code="894" Alpha2="ZM" Alpha3="ZMB" Name="ਜ਼ੈਬੀਆ" CommonName="" OfficialName="ਜੈਂਬੀਆ ਗਣਰਾਜ" />
+</Countries>

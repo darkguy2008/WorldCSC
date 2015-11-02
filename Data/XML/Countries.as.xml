@@ -1,0 +1,251 @@
+<Countries>
+  <Country Code="004" Alpha2="AF" Alpha3="AFG" Name="আফগানিস্থান" CommonName="" OfficialName="আফগানিস্থানৰ ইছ্‌লামিক প্ৰজাতন্ত্ৰ" />
+  <Country Code="008" Alpha2="AL" Alpha3="ALB" Name="আলবেনিয়া" CommonName="" OfficialName="আলবেনিয়াৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="010" Alpha2="AQ" Alpha3="ATA" Name="আনটাৰ্কটিকা" CommonName="" OfficialName="" />
+  <Country Code="012" Alpha2="DZ" Alpha3="DZA" Name="আলজেৰিযা " CommonName="" OfficialName="পিপল্চ ডেমক্ৰেটিক ৰিপাব্লিক অফ আলজেৰিয়া" />
+  <Country Code="016" Alpha2="AS" Alpha3="ASM" Name="আমেৰিকান ছামোআ" CommonName="" OfficialName="" />
+  <Country Code="020" Alpha2="AD" Alpha3="AND" Name="এণ্ডোৰা   " CommonName="" OfficialName="প্ৰিঞ্চিপালিটি অফ এণ্ডোৰা   " />
+  <Country Code="024" Alpha2="AO" Alpha3="AGO" Name="এংগোলা" CommonName="" OfficialName="এঙ্গোলাৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="028" Alpha2="AG" Alpha3="ATG" Name="এন্টিগুৱা আৰু বাৰবুডা" CommonName="" OfficialName="" />
+  <Country Code="031" Alpha2="AZ" Alpha3="AZE" Name="আজেৰ্বেইজান" CommonName="" OfficialName="আজেৰ্বেইজানৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="032" Alpha2="AR" Alpha3="ARG" Name="আৰ্জেনটিনা" CommonName="" OfficialName="আৰ্জেন্টাইন প্ৰজাতন্ত্ৰ" />
+  <Country Code="036" Alpha2="AU" Alpha3="AUS" Name="অস্ট্ৰেলিয়া" CommonName="" OfficialName="" />
+  <Country Code="040" Alpha2="AT" Alpha3="AUT" Name="অস্ট্ৰিয়া" CommonName="" OfficialName="অস্ট্ৰিয়াৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="044" Alpha2="BS" Alpha3="BHS" Name="বাহামাছ" CommonName="" OfficialName="বাহামাছৰ ৰাষ্ট্ৰমণ্ডল" />
+  <Country Code="048" Alpha2="BH" Alpha3="BHR" Name="বাহৰেইন" CommonName="" OfficialName="বাহৰেইৰ ৰাজ্য" />
+  <Country Code="050" Alpha2="BD" Alpha3="BGD" Name="বাংলাদেশ" CommonName="" OfficialName="পিপলছ্ ৰিপাব্লিক অফ বাংলাদেশ" />
+  <Country Code="051" Alpha2="AM" Alpha3="ARM" Name="আৰ্মেনিয়া" CommonName="" OfficialName="আৰ্মেনিয়াৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="052" Alpha2="BB" Alpha3="BRB" Name="বাৰ্বাডোছ " CommonName="" OfficialName="" />
+  <Country Code="056" Alpha2="BE" Alpha3="BEL" Name="বেলজিয়াম" CommonName="" OfficialName="বেলজিয়াম ৰাজ্য" />
+  <Country Code="060" Alpha2="BM" Alpha3="BMU" Name="বাৰ্মুডা" CommonName="" OfficialName="" />
+  <Country Code="064" Alpha2="BT" Alpha3="BTN" Name="ভুটান" CommonName="" OfficialName="ভুটান ৰাজ্য" />
+  <Country Code="068" Alpha2="BO" Alpha3="BOL" Name="বোলিভিয়া, প্লুৰিনেছনেল ৰাষ্ট্ৰ" CommonName="বলীভিয়া" OfficialName="প্লুৰিনেছনেল ৰাষ্ট্ৰ বোলিভিয়া" />
+  <Country Code="070" Alpha2="BA" Alpha3="BIH" Name="বোছনীযা আৰু হাৰজেগোইনা" CommonName="" OfficialName="বোছনীযা আৰু হাৰজেগোইনাৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="072" Alpha2="BW" Alpha3="BWA" Name="বটছোৱানা" CommonName="" OfficialName="বটছোৱানাৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="074" Alpha2="BV" Alpha3="BVT" Name="বোভেট দ্বীপ" CommonName="" OfficialName="" />
+  <Country Code="076" Alpha2="BR" Alpha3="BRA" Name="ব্ৰাজিল" CommonName="" OfficialName="প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ ব্ৰাজিল" />
+  <Country Code="084" Alpha2="BZ" Alpha3="BLZ" Name="বেলিজ" CommonName="" OfficialName="" />
+  <Country Code="086" Alpha2="IO" Alpha3="IOT" Name="ব্ৰিটিশ্ব ভাৰতীয় মহাসাগৰীয় অঞ্চল" CommonName="" OfficialName="" />
+  <Country Code="090" Alpha2="SB" Alpha3="SLB" Name="ছলোমন দ্বীপ" CommonName="" OfficialName="" />
+  <Country Code="092" Alpha2="VG" Alpha3="VGB" Name="ব্ৰিটিশ্ব ভাৰ্জিন দ্বীপ" CommonName="" OfficialName="ব্ৰিটিশ্ব ভাৰ্জিন দ্বীপ" />
+  <Country Code="096" Alpha2="BN" Alpha3="BRN" Name="ব্ইচ্‌লামিকুনেই ডাৰুছালাম" CommonName="" OfficialName="" />
+  <Country Code="100" Alpha2="BG" Alpha3="BGR" Name="বুলগাৰিয়া" CommonName="" OfficialName="বুলগাৰিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="104" Alpha2="MM" Alpha3="MMR" Name="মায়ান্মাৰ" CommonName="" OfficialName="গায়ানা প্ৰজাতন্ত্ৰ" />
+  <Country Code="108" Alpha2="BI" Alpha3="BDI" Name="বুৰুন্ডি" CommonName="" OfficialName="বুৰুন্ডি প্ৰজাতন্ত্ৰ" />
+  <Country Code="112" Alpha2="BY" Alpha3="BLR" Name="বেলাৰছ" CommonName="" OfficialName="বেলাৰছৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="116" Alpha2="KH" Alpha3="KHM" Name="কম্বোডিয়া" CommonName="" OfficialName="কম্বোডিয়া ৰাজ্য" />
+  <Country Code="120" Alpha2="CM" Alpha3="CMR" Name="কেমেৰুণ " CommonName="" OfficialName="কেমেৰুণ প্ৰজাতন্ত্ৰ" />
+  <Country Code="124" Alpha2="CA" Alpha3="CAN" Name="কানাডা" CommonName="" OfficialName="" />
+  <Country Code="132" Alpha2="CV" Alpha3="CPV" Name="কেপ ভাৰ্ডি" CommonName="" OfficialName="কেপ ভাৰ্ডি প্ৰজাতন্ত্ৰ" />
+  <Country Code="136" Alpha2="KY" Alpha3="CYM" Name="কেমেন দ্বীপ" CommonName="" OfficialName="" />
+  <Country Code="140" Alpha2="CF" Alpha3="CAF" Name="মধ্য আফ্ৰিকান প্ৰজাতন্ত্ৰ" CommonName="" OfficialName="" />
+  <Country Code="144" Alpha2="LK" Alpha3="LKA" Name="শ্ৰীলঙ্কা" CommonName="" OfficialName="গণতান্ত্ৰিক সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰ শ্ৰীলঙ্কা" />
+  <Country Code="148" Alpha2="TD" Alpha3="TCD" Name="চাড" CommonName="" OfficialName="চাড প্ৰজাতন্ত্ৰ" />
+  <Country Code="152" Alpha2="CL" Alpha3="CHL" Name="চিলি" CommonName="" OfficialName="চিলি প্ৰজাতন্ত্ৰ" />
+  <Country Code="156" Alpha2="CN" Alpha3="CHN" Name="চীন" CommonName="" OfficialName="গণপ্ৰজাতন্ত্ৰী চীন" />
+  <Country Code="158" Alpha2="TW" Alpha3="TWN" Name="তাইৱান, চীনৰ প্ৰদেশ" CommonName="তাইৱান" OfficialName="তাইৱান, চীনৰ প্ৰদেশ" />
+  <Country Code="162" Alpha2="CX" Alpha3="CXR" Name="ক্ৰিস্টমাছ দ্বীপপুঞ্জ" CommonName="" OfficialName="" />
+  <Country Code="166" Alpha2="CC" Alpha3="CCK" Name="কোকোচ (কিলিং) দ্বীপ" CommonName="" OfficialName="" />
+  <Country Code="170" Alpha2="CO" Alpha3="COL" Name="কোলোম্বিয়া" CommonName="" OfficialName="কোলোম্বিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="174" Alpha2="KM" Alpha3="COM" Name="কমোৰছ" CommonName="" OfficialName="সংযুক্ত কোমোৰোছ" />
+  <Country Code="175" Alpha2="YT" Alpha3="MYT" Name="মেওতে" CommonName="" OfficialName="" />
+  <Country Code="178" Alpha2="CG" Alpha3="COG" Name="কঙ্গো" CommonName="" OfficialName="কঙ্গো প্ৰজাতন্ত্ৰ" />
+  <Country Code="180" Alpha2="CD" Alpha3="COD" Name="কঙ্গো, গণতান্ত্ৰিক প্ৰজাতন্ত্ৰ" CommonName="" OfficialName="" />
+  <Country Code="184" Alpha2="CK" Alpha3="COK" Name="কুক দ্বীপপুঞ্জ" CommonName="" OfficialName="" />
+  <Country Code="188" Alpha2="CR" Alpha3="CRI" Name="কোস্টা ৰিকা" CommonName="" OfficialName="কোস্টা ৰিকা প্ৰজাতন্ত্ৰ" />
+  <Country Code="191" Alpha2="HR" Alpha3="HRV" Name="ক্ৰোয়েছিয়া" CommonName="" OfficialName="ক্ৰোয়েছিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="192" Alpha2="CU" Alpha3="CUB" Name="কিউবা" CommonName="" OfficialName="কিউবা প্ৰজাতন্ত্ৰ" />
+  <Country Code="196" Alpha2="CY" Alpha3="CYP" Name="ছাইপ্ৰাছ" CommonName="" OfficialName="ছাইপ্ৰাছ প্ৰজাতন্ত্ৰ" />
+  <Country Code="203" Alpha2="CZ" Alpha3="CZE" Name="চেক প্ৰজাতন্ত্ৰৰ" CommonName="" OfficialName="" />
+  <Country Code="204" Alpha2="BJ" Alpha3="BEN" Name="বেনিন" CommonName="" OfficialName="বেনিন প্ৰজাতন্ত্ৰ" />
+  <Country Code="208" Alpha2="DK" Alpha3="DNK" Name="ডেনমাৰ্ক" CommonName="" OfficialName="ডেনমাৰ্ক ৰাজ্য" />
+  <Country Code="212" Alpha2="DM" Alpha3="DMA" Name="ডোমিনিকা" CommonName="" OfficialName="ডেমিনিকা ৰাষ্ট্ৰমণ্ডল" />
+  <Country Code="214" Alpha2="DO" Alpha3="DOM" Name="ডোমিনিকান প্ৰজান্ত্ৰ্ৰ" CommonName="" OfficialName="" />
+  <Country Code="218" Alpha2="EC" Alpha3="ECU" Name="ইকোৱেড'ৰ" CommonName="" OfficialName="ইকোৱেড'ৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="222" Alpha2="SV" Alpha3="SLV" Name="এল ছেলভেড'ৰ" CommonName="" OfficialName="এল ছেলভেড'ৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="226" Alpha2="GQ" Alpha3="GNQ" Name="বিষুবীয় গিনি" CommonName="" OfficialName="বিষুবীয় গিনি প্ৰজাতন্ত্ৰ" />
+  <Country Code="231" Alpha2="ET" Alpha3="ETH" Name="ইথিওপিয়া" CommonName="" OfficialName="গণতান্ত্ৰিক প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ ইথিওপিয়া" />
+  <Country Code="232" Alpha2="ER" Alpha3="ERI" Name="এৰিট্ৰিয়া" CommonName="" OfficialName="আমেৰিকা মাৰ্কিন যুক্তৰাষ্ট্ৰ" />
+  <Country Code="233" Alpha2="EE" Alpha3="EST" Name="এস্তোনিয়া" CommonName="" OfficialName="এস্তোনিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="234" Alpha2="FO" Alpha3="FRO" Name="ফাৰো দ্বীপপুঞ্জ" CommonName="" OfficialName="" />
+  <Country Code="238" Alpha2="FK" Alpha3="FLK" Name="ফাকলেণ্ড দ্বীপ (মাল্‌ভিনাছ)" CommonName="" OfficialName="" />
+  <Country Code="239" Alpha2="GS" Alpha3="SGS" Name="দক্ষিণ জৰ্জিয়া আৰু দক্ষিণ চেন্ডউইচ দ্বীপপুঞ্জ" CommonName="" OfficialName="" />
+  <Country Code="242" Alpha2="FJ" Alpha3="FJI" Name="ফিজি" CommonName="" OfficialName="হাইতি প্ৰজাতন্ত্ৰ" />
+  <Country Code="246" Alpha2="FI" Alpha3="FIN" Name="ফিনলেণ্ড" CommonName="" OfficialName="ফিনলেণ্ড প্ৰজাতন্ত্ৰ" />
+  <Country Code="248" Alpha2="AX" Alpha3="ALA" Name="আলান্ড দ্বীপপুঞ্জ" CommonName="" OfficialName="" />
+  <Country Code="250" Alpha2="FR" Alpha3="FRA" Name="ফ্ইচ্‌লামিকান্স " CommonName="" OfficialName="ফ্ৰেঞ্চ প্ৰজাতন্ত্ৰ" />
+  <Country Code="254" Alpha2="GF" Alpha3="GUF" Name="ফ্ৰেঞ্চ গায়ানা" CommonName="" OfficialName="" />
+  <Country Code="258" Alpha2="PF" Alpha3="PYF" Name="ফ্ৰেঞ্চ পলিনেছিয়া" CommonName="" OfficialName="" />
+  <Country Code="260" Alpha2="TF" Alpha3="ATF" Name="ফ্ৰেঞ্চ দক্ষিণ অঞ্চল" CommonName="" OfficialName="" />
+  <Country Code="262" Alpha2="DJ" Alpha3="DJI" Name="জিবুতি" CommonName="" OfficialName="জিবুতি প্ৰজাতন্ত্ৰ" />
+  <Country Code="266" Alpha2="GA" Alpha3="GAB" Name="গেবন" CommonName="" OfficialName="গেবনিছ প্ৰজাতন্ত্ৰ" />
+  <Country Code="268" Alpha2="GE" Alpha3="GEO" Name="জৰ্জিয়া" CommonName="" OfficialName="" />
+  <Country Code="270" Alpha2="GM" Alpha3="GMB" Name="গাম্বিয়া" CommonName="" OfficialName="গাম্বিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="275" Alpha2="PS" Alpha3="PSE" Name="" CommonName="" OfficialName="আমেৰিকা মাৰ্কিন যুক্তৰাষ্ট্ৰ" />
+  <Country Code="276" Alpha2="DE" Alpha3="DEU" Name="জাইচ্‌লামিক্মানী" CommonName="" OfficialName="প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ জাইচ্‌লামিক্মানী" />
+  <Country Code="288" Alpha2="GH" Alpha3="GHA" Name="ঘানা" CommonName="" OfficialName="ঘানা প্ৰজাতন্ত্ৰ" />
+  <Country Code="292" Alpha2="GI" Alpha3="GIB" Name="জিব্ৰাল্টাৰ" CommonName="" OfficialName="" />
+  <Country Code="296" Alpha2="KI" Alpha3="KIR" Name="কিৰিবাটি" CommonName="" OfficialName="কিৰিবাটি প্ৰজাতন্ত্ৰ" />
+  <Country Code="300" Alpha2="GR" Alpha3="GRC" Name="গ্ইচ্‌লামিকীচ" CommonName="" OfficialName="হেলেনিক প্ৰজাতন্ত্ৰ" />
+  <Country Code="304" Alpha2="GL" Alpha3="GRL" Name="গ্ৰীনলেণ্ড" CommonName="" OfficialName="" />
+  <Country Code="308" Alpha2="GD" Alpha3="GRD" Name="গ্ৰেনাডা" CommonName="" OfficialName="" />
+  <Country Code="312" Alpha2="GP" Alpha3="GLP" Name="গুৱাডেলোপ" CommonName="" OfficialName="" />
+  <Country Code="316" Alpha2="GU" Alpha3="GUM" Name="গুৱাম" CommonName="" OfficialName="" />
+  <Country Code="320" Alpha2="GT" Alpha3="GTM" Name="গুৱাটেমালা" CommonName="" OfficialName="গুৱাটেমালা প্ৰজাতন্ত্ৰ" />
+  <Country Code="324" Alpha2="GN" Alpha3="GIN" Name="গিনি" CommonName="" OfficialName="গিনি প্ৰজাতন্ত্ৰ" />
+  <Country Code="328" Alpha2="GY" Alpha3="GUY" Name="গায়ানা" CommonName="" OfficialName="গায়ানা প্ৰজাতন্ত্ৰ" />
+  <Country Code="332" Alpha2="HT" Alpha3="HTI" Name="হাইতি" CommonName="" OfficialName="হাইতি প্ৰজাতন্ত্ৰ" />
+  <Country Code="334" Alpha2="HM" Alpha3="HMD" Name="হাৰ্ড দ্বীপ আৰু মেকডোনাল্ড দ্বীপপুঞ্জ" CommonName="" OfficialName="" />
+  <Country Code="336" Alpha2="VA" Alpha3="VAT" Name="হোলি ছি (ভেটিকান)" CommonName="" OfficialName="" />
+  <Country Code="340" Alpha2="HN" Alpha3="HND" Name="হণ্ডুৰাছ" CommonName="" OfficialName="হণ্ডুৰাছ প্ৰজাতন্ত্ৰ" />
+  <Country Code="344" Alpha2="HK" Alpha3="HKG" Name="হংকং" CommonName="" OfficialName="হংকং, চীনৰ বিশেষ প্ৰশাসনিক অঞ্চল" />
+  <Country Code="348" Alpha2="HU" Alpha3="HUN" Name="হাংগেৰী" CommonName="" OfficialName="হাংগেৰী" />
+  <Country Code="352" Alpha2="IS" Alpha3="ISL" Name="আইচলেণ্ড" CommonName="" OfficialName="আইচলেণ্ড প্ৰজাতন্ত্ৰ" />
+  <Country Code="356" Alpha2="IN" Alpha3="IND" Name="ভাৰত" CommonName="" OfficialName="ভাৰতীয় প্ৰজাতন্ত্ৰ" />
+  <Country Code="360" Alpha2="ID" Alpha3="IDN" Name="ইণ্ডোনেছিয়া" CommonName="" OfficialName="ইণ্ডোনেছিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="364" Alpha2="IR" Alpha3="IRN" Name="ইৰান, ইচ্‌লামিক প্ৰজাতন্ত্ৰ" CommonName="" OfficialName="ইচ্‌লামিক প্ৰজাতন্ত্ৰ ইৰান" />
+  <Country Code="368" Alpha2="IQ" Alpha3="IRQ" Name="ইৰাক" CommonName="" OfficialName="ইৰাক প্ৰজাতন্ত্ৰ" />
+  <Country Code="372" Alpha2="IE" Alpha3="IRL" Name="আয়াৰ্লেণ্ড" CommonName="" OfficialName="" />
+  <Country Code="376" Alpha2="IL" Alpha3="ISR" Name="ইজ্ৰাইল" CommonName="" OfficialName="ইজ্ৰাইল ৰাষ্ট্ৰ" />
+  <Country Code="380" Alpha2="IT" Alpha3="ITA" Name="ইটালি" CommonName="" OfficialName="ইটালিয়ান প্ৰজান্ত্ৰ" />
+  <Country Code="384" Alpha2="CI" Alpha3="CIV" Name="আইভৰি কোস্ট" CommonName="" OfficialName="আইভৰি কোস্ট প্ৰজাতন্ত্ৰ" />
+  <Country Code="388" Alpha2="JM" Alpha3="JAM" Name="জামাইকা" CommonName="" OfficialName="" />
+  <Country Code="392" Alpha2="JP" Alpha3="JPN" Name="জাপান" CommonName="" OfficialName="" />
+  <Country Code="398" Alpha2="KZ" Alpha3="KAZ" Name="কাজাখিস্তান" CommonName="" OfficialName="কাজাখিস্তান প্ৰজাতন্ত্ৰ" />
+  <Country Code="400" Alpha2="JO" Alpha3="JOR" Name="জৰ্ডান" CommonName="" OfficialName="হাছেমাইট ৰাজ্য জৰ্ডান" />
+  <Country Code="404" Alpha2="KE" Alpha3="KEN" Name="কেনিয়া" CommonName="" OfficialName="কেনিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="408" Alpha2="KP" Alpha3="PRK" Name="কোৰিয়া, গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী" CommonName="" OfficialName="গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী কোৰিয়া" />
+  <Country Code="410" Alpha2="KR" Alpha3="KOR" Name="কোৰিয়া প্ৰজাতন্ত্ৰ" CommonName="" OfficialName="" />
+  <Country Code="414" Alpha2="KW" Alpha3="KWT" Name="কুৱেইট" CommonName="" OfficialName="কুৱেইট ৰাষ্ট্ৰ" />
+  <Country Code="417" Alpha2="KG" Alpha3="KGZ" Name="কিৰ্গিজস্তান" CommonName="" OfficialName="কিৰ্গিজ প্ৰজাতন্ত্ৰ" />
+  <Country Code="418" Alpha2="LA" Alpha3="LAO" Name="গণপ্ৰজাতন্ত্ৰী লাও" CommonName="" OfficialName="" />
+  <Country Code="422" Alpha2="LB" Alpha3="LBN" Name="লেবানন" CommonName="" OfficialName="লেবানিচ প্ৰজাতন্ত্ৰ" />
+  <Country Code="426" Alpha2="LS" Alpha3="LSO" Name="লেছোথো" CommonName="" OfficialName="লেছোথো ৰাজ্য" />
+  <Country Code="428" Alpha2="LV" Alpha3="LVA" Name="লাটভিয়া" CommonName="" OfficialName="লাটভিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="430" Alpha2="LR" Alpha3="LBR" Name="লাইবেৰিয়া" CommonName="" OfficialName="লাইবেৰিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="434" Alpha2="LY" Alpha3="LBY" Name="লিবিয়া" CommonName="" OfficialName="লিবিয়া" />
+  <Country Code="438" Alpha2="LI" Alpha3="LIE" Name="লাইচেষ্টেইন" CommonName="" OfficialName="সাংবিধানিক ৰাজতন্ত্ৰ লাইচেষ্টেইন" />
+  <Country Code="440" Alpha2="LT" Alpha3="LTU" Name="লিথুৱানিয়া" CommonName="" OfficialName="লিথুৱানিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="442" Alpha2="LU" Alpha3="LUX" Name="লাক্সেমবুৰ্গ" CommonName="" OfficialName="লাক্সেমবুৰ্গ গ্ৰেন্ড ডাচি" />
+  <Country Code="446" Alpha2="MO" Alpha3="MAC" Name="মেকাও" CommonName="" OfficialName="মেকাও, চীনৰ বিশেষ প্ৰশাসনিক অঞ্চল" />
+  <Country Code="450" Alpha2="MG" Alpha3="MDG" Name="মাডাগাস্কাৰ" CommonName="" OfficialName="মাডাগাস্কাৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="454" Alpha2="MW" Alpha3="MWI" Name="মালাৱী" CommonName="" OfficialName="মালাউই প্ৰজাতন্ত্ৰ" />
+  <Country Code="458" Alpha2="MY" Alpha3="MYS" Name="মালেছিয়া" CommonName="" OfficialName="" />
+  <Country Code="462" Alpha2="MV" Alpha3="MDV" Name="মালডিভ্‌চ" CommonName="" OfficialName="মালডিভ্‌চ প্ৰজাতন্ত্ৰ" />
+  <Country Code="466" Alpha2="ML" Alpha3="MLI" Name="মালি" CommonName="" OfficialName="মালি প্ৰজাতন্ত্ৰ" />
+  <Country Code="470" Alpha2="MT" Alpha3="MLT" Name="মাল্টা" CommonName="" OfficialName="মাল্টা প্ৰজাতন্ত্ৰ" />
+  <Country Code="474" Alpha2="MQ" Alpha3="MTQ" Name="মাৰ্টিনিক" CommonName="" OfficialName="" />
+  <Country Code="478" Alpha2="MR" Alpha3="MRT" Name="ম'ৰিটানিয়া" CommonName="" OfficialName="ইসলামিক প্ৰজাতন্ত্ৰ মৰিটানিয়া" />
+  <Country Code="480" Alpha2="MU" Alpha3="MUS" Name="মৰিছাছ" CommonName="" OfficialName="মৰিছাছ প্ৰজাতন্ত্ৰ" />
+  <Country Code="484" Alpha2="MX" Alpha3="MEX" Name="মেক্সিকো" CommonName="" OfficialName="মেক্সিকান যুক্তৰাষ্ট্ৰ" />
+  <Country Code="492" Alpha2="MC" Alpha3="MCO" Name="মোনাকো" CommonName="" OfficialName="সাংবিধানিক ৰাজতন্ত্ৰ মোনাকো" />
+  <Country Code="496" Alpha2="MN" Alpha3="MNG" Name="মঙ্গোলিয়া" CommonName="" OfficialName="" />
+  <Country Code="498" Alpha2="MD" Alpha3="MDA" Name="মোলডোভা, প্ৰজাতন্ত্ৰ" CommonName="মোলডোভা" OfficialName="মোলডোভা প্ৰজাতন্ত্ৰ" />
+  <Country Code="499" Alpha2="ME" Alpha3="MNE" Name="মন্টেনেগ্ৰো" CommonName="" OfficialName="মন্টেনেগ্ৰো" />
+  <Country Code="500" Alpha2="MS" Alpha3="MSR" Name="মন্টছেৰাট" CommonName="" OfficialName="" />
+  <Country Code="504" Alpha2="MA" Alpha3="MAR" Name="মৰোক্কো" CommonName="" OfficialName="মৰোক্কো ৰাজ্য" />
+  <Country Code="508" Alpha2="MZ" Alpha3="MOZ" Name="মোজাম্বিক" CommonName="" OfficialName="মোজাম্বিক প্ৰজাতন্ত্ৰ" />
+  <Country Code="512" Alpha2="OM" Alpha3="OMN" Name="ওমান" CommonName="" OfficialName="ওমান চুলতানত" />
+  <Country Code="516" Alpha2="NA" Alpha3="NAM" Name="নামিবিয়া" CommonName="" OfficialName="নামিবিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="520" Alpha2="NR" Alpha3="NRU" Name="নাউৰু" CommonName="" OfficialName="নাউৰু প্ৰজাতন্ত্ৰ" />
+  <Country Code="524" Alpha2="NP" Alpha3="NPL" Name="নেপাল" CommonName="" OfficialName="গণতান্ত্ৰিক প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ নেপাল" />
+  <Country Code="528" Alpha2="NL" Alpha3="NLD" Name="নেডাৰলেণ্ড" CommonName="" OfficialName="নেডাৰলেণ্ড ৰাজ্য" />
+  <Country Code="531" Alpha2="CW" Alpha3="CUW" Name="" CommonName="" OfficialName="" />
+  <Country Code="533" Alpha2="AW" Alpha3="ABW" Name="আৰুবা" CommonName="" OfficialName="" />
+  <Country Code="534" Alpha2="SX" Alpha3="SXM" Name="চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)" CommonName="" OfficialName="চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)" />
+  <Country Code="535" Alpha2="BQ" Alpha3="BES" Name="" CommonName="" OfficialName="" />
+  <Country Code="540" Alpha2="NC" Alpha3="NCL" Name="নিউ কেলেডনিয়া" CommonName="" OfficialName="" />
+  <Country Code="548" Alpha2="VU" Alpha3="VUT" Name="ভানুৱাটুুু" CommonName="" OfficialName="ভানুৱাটুুু প্ৰজাতন্ত্ৰ" />
+  <Country Code="554" Alpha2="NZ" Alpha3="NZL" Name="নিউজিলেণ্ড" CommonName="" OfficialName="" />
+  <Country Code="558" Alpha2="NI" Alpha3="NIC" Name="নিকৰ্গুৱা" CommonName="" OfficialName="নিকৰ্গুৱা প্ৰজাতন্ত্ৰ" />
+  <Country Code="562" Alpha2="NE" Alpha3="NER" Name="নাইজাৰ" CommonName="" OfficialName="নাইজাৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="566" Alpha2="NG" Alpha3="NGA" Name="নাইজেৰিয়া" CommonName="" OfficialName="প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ নাইজেৰিয়া" />
+  <Country Code="570" Alpha2="NU" Alpha3="NIU" Name="নিউ" CommonName="" OfficialName="নিউ" />
+  <Country Code="574" Alpha2="NF" Alpha3="NFK" Name="নৰফোল্ক দ্বীপ" CommonName="" OfficialName="" />
+  <Country Code="578" Alpha2="NO" Alpha3="NOR" Name="নৰৱে" CommonName="" OfficialName="নৰৱে ৰাজ্য" />
+  <Country Code="580" Alpha2="MP" Alpha3="MNP" Name="উত্তৰ মাৰিয়ানা দ্বীপ" CommonName="" OfficialName="উত্তৰ মাৰিয়ানা দ্বীপপুঞ্জৰ ৰাষ্ট্ৰমণ্ডল" />
+  <Country Code="581" Alpha2="UM" Alpha3="UMI" Name="মাৰ্কিন যুক্তৰাষ্ট্ৰ বহিস্থিত ক্ষুদ্ৰ দ্বীপপুঞ্জ" CommonName="" OfficialName="" />
+  <Country Code="583" Alpha2="FM" Alpha3="FSM" Name="মাইক্ৰোনেছিয়া যুক্তৰাষ্ট্ৰ" CommonName="" OfficialName="মাইক্ৰোনেছিয়া যুক্তৰাষ্ট্ৰ" />
+  <Country Code="584" Alpha2="MH" Alpha3="MHL" Name="মাৰ্শ্বেল দ্বীপপুঞ্জ" CommonName="" OfficialName="মাৰ্শ্বেল দ্বীপপুঞ্জ প্ৰজাতন্ত্ৰ" />
+  <Country Code="585" Alpha2="PW" Alpha3="PLW" Name="পালাউ" CommonName="" OfficialName="পালাউ প্ৰজাতন্ত্ৰ" />
+  <Country Code="586" Alpha2="PK" Alpha3="PAK" Name="পাকিস্তান" CommonName="" OfficialName="ইচ্‌লামিক প্ৰজাতন্ত্ৰ পাকিস্তান" />
+  <Country Code="591" Alpha2="PA" Alpha3="PAN" Name="পানামা" CommonName="" OfficialName="পানামা প্ৰজাতন্ত্ৰ" />
+  <Country Code="598" Alpha2="PG" Alpha3="PNG" Name="পাপুৱা নিউ গিনি" CommonName="" OfficialName="স্বতন্ত্ৰ ৰাষ্ট্ৰ ছামোৱা" />
+  <Country Code="600" Alpha2="PY" Alpha3="PRY" Name="পাৰাগুৱে" CommonName="" OfficialName="পাৰাগুৱে প্ৰজাতন্ত্ৰ" />
+  <Country Code="604" Alpha2="PE" Alpha3="PER" Name="পেৰু" CommonName="" OfficialName="পেৰু প্ৰজাতন্ত্ৰ" />
+  <Country Code="608" Alpha2="PH" Alpha3="PHL" Name="ফিলিপাইনছ" CommonName="" OfficialName="ফিলিপাইনছ প্ৰজাতন্ত্ৰ" />
+  <Country Code="612" Alpha2="PN" Alpha3="PCN" Name="পিটকেইৰ্ণ" CommonName="" OfficialName="" />
+  <Country Code="616" Alpha2="PL" Alpha3="POL" Name="পলেণ্ড" CommonName="" OfficialName="পলেণ্ড প্ৰজাতন্ত্ৰ" />
+  <Country Code="620" Alpha2="PT" Alpha3="PRT" Name="পোর্টুগাল" CommonName="" OfficialName="প'ৰ্টুগিছ প্ৰজাতন্ত্ৰ" />
+  <Country Code="624" Alpha2="GW" Alpha3="GNB" Name="গিনি-বিছাউ" CommonName="" OfficialName="গিনি-বিছাউ প্ৰজাতন্ত্ৰ" />
+  <Country Code="626" Alpha2="TL" Alpha3="TLS" Name="টিমোৰ-লেস্তে" CommonName="" OfficialName="গণপ্ৰজাতন্ত্ৰী টিমোৰ-লেস্তে" />
+  <Country Code="630" Alpha2="PR" Alpha3="PRI" Name="পূৱেৰ্টো ৰিকো" CommonName="" OfficialName="" />
+  <Country Code="634" Alpha2="QA" Alpha3="QAT" Name="কাটাৰ" CommonName="" OfficialName="কাটাৰ ৰাষ্ট্ৰ" />
+  <Country Code="638" Alpha2="RE" Alpha3="REU" Name="ৰিইউনিয়ান" CommonName="" OfficialName="" />
+  <Country Code="642" Alpha2="RO" Alpha3="ROU" Name="ৰোমানিয়া" CommonName="" OfficialName="" />
+  <Country Code="643" Alpha2="RU" Alpha3="RUS" Name="ৰুচ যুক্তৰাষ্ট্ৰ" CommonName="" OfficialName="" />
+  <Country Code="646" Alpha2="RW" Alpha3="RWA" Name="ৰৱান্ডা" CommonName="" OfficialName="ৰৱান্ডিচ প্ৰজাতন্ত্ৰ" />
+  <Country Code="652" Alpha2="BL" Alpha3="BLM" Name="চেন্ট বাৰ্থেলেমি" CommonName="" OfficialName="" />
+  <Country Code="654" Alpha2="SH" Alpha3="SHN" Name="ছেইন্ট হেলেনা, এচেঞ্চন আৰু ট্ৰিস্টান ডা কুন্হা" CommonName="" OfficialName="" />
+  <Country Code="659" Alpha2="KN" Alpha3="KNA" Name="চেন্ট কিট্‌স আৰু নেভিচ" CommonName="" OfficialName="" />
+  <Country Code="660" Alpha2="AI" Alpha3="AIA" Name="এংগুইলা" CommonName="" OfficialName="" />
+  <Country Code="662" Alpha2="LC" Alpha3="LCA" Name="চেন্ট লুচিয়া" CommonName="" OfficialName="" />
+  <Country Code="663" Alpha2="MF" Alpha3="MAF" Name="চেন্ট মাৰ্টিন (ফ্ৰেঞ্চ অংশ)" CommonName="" OfficialName="" />
+  <Country Code="666" Alpha2="PM" Alpha3="SPM" Name="চেন্ট পিয়েৰ আৰু মিকেলন" CommonName="" OfficialName="" />
+  <Country Code="670" Alpha2="VC" Alpha3="VCT" Name="চেন্ট ভিনচেন্ট আৰু গ্ৰেনাডিনচ" CommonName="" OfficialName="" />
+  <Country Code="674" Alpha2="SM" Alpha3="SMR" Name="চান মাৰিনো" CommonName="" OfficialName="চান মাৰিনো প্ৰজাতন্ত্ৰ" />
+  <Country Code="678" Alpha2="ST" Alpha3="STP" Name="চাও টোমে আৰু প্ৰিন্সিপে" CommonName="" OfficialName="গণতান্ত্ৰিক প্ৰজাতন্ত্ৰ চাও টোমে আৰু প্ৰিন্সিপে" />
+  <Country Code="682" Alpha2="SA" Alpha3="SAU" Name="ছৌডি আৰব" CommonName="" OfficialName="ছৌডি আৰব ৰাজ্য" />
+  <Country Code="686" Alpha2="SN" Alpha3="SEN" Name="ছেনেগাল" CommonName="" OfficialName="ছেনেগাল প্ৰজাতন্ত্ৰ" />
+  <Country Code="688" Alpha2="RS" Alpha3="SRB" Name="চাৰ্বিয়া" CommonName="" OfficialName="চাৰ্বিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="690" Alpha2="SC" Alpha3="SYC" Name="ছেয়চেলছ" CommonName="" OfficialName="ছেয়চেলছ প্ৰজাতন্ত্ৰ" />
+  <Country Code="694" Alpha2="SL" Alpha3="SLE" Name="চিয়েৰা লিওন" CommonName="" OfficialName="চিয়েৰা লিওন প্ৰজাতন্ত্ৰ" />
+  <Country Code="702" Alpha2="SG" Alpha3="SGP" Name="ছিংগাপুৰ" CommonName="" OfficialName="ছিংগাপুৰ প্ৰজাতন্ত্ৰ" />
+  <Country Code="703" Alpha2="SK" Alpha3="SVK" Name="স্লোভাকিয়া" CommonName="" OfficialName="স্লোভাক প্ৰজাতন্ত্ৰ" />
+  <Country Code="704" Alpha2="VN" Alpha3="VNM" Name="ভিয়েতনাম" CommonName="" OfficialName="সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰ ভিয়েতনাম" />
+  <Country Code="705" Alpha2="SI" Alpha3="SVN" Name="স্লোভেনিয়া" CommonName="" OfficialName="স্লোভেনিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="706" Alpha2="SO" Alpha3="SOM" Name="ছোমালিয়া" CommonName="" OfficialName="প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্ৰ জাইচ্‌লামিক্মানী" />
+  <Country Code="710" Alpha2="ZA" Alpha3="ZAF" Name="দক্ষিণ আফ্ৰিকা" CommonName="" OfficialName="দক্ষিণ আফ্ৰিকা প্ৰজাতন্ত্ৰ" />
+  <Country Code="716" Alpha2="ZW" Alpha3="ZWE" Name="জিম্বাবোৱে" CommonName="" OfficialName="জিম্বাবোৱে প্ৰজাতন্ত্ৰ" />
+  <Country Code="724" Alpha2="ES" Alpha3="ESP" Name="স্পেইন" CommonName="" OfficialName="স্পেইন ৰাজ্য" />
+  <Country Code="728" Alpha2="SS" Alpha3="SSD" Name="ছুদান প্ৰজাতন্ত্ৰ" CommonName="" OfficialName="ছুদান প্ৰজাতন্ত্ৰ" />
+  <Country Code="729" Alpha2="SD" Alpha3="SDN" Name="ছুদান" CommonName="" OfficialName="ছুদান প্ৰজাতন্ত্ৰ" />
+  <Country Code="732" Alpha2="EH" Alpha3="ESH" Name="পশ্চিম ছাহাৰা" CommonName="" OfficialName="" />
+  <Country Code="740" Alpha2="SR" Alpha3="SUR" Name="চুৰিনাম" CommonName="" OfficialName="চুৰিনাম প্ৰজাতন্ত্ৰ" />
+  <Country Code="744" Alpha2="SJ" Alpha3="SJM" Name="চয়ালবাৰ্ড আৰু ইয়ানমায়েন" CommonName="" OfficialName="" />
+  <Country Code="748" Alpha2="SZ" Alpha3="SWZ" Name="স্বাজিলেণ্ড" CommonName="" OfficialName="স্বাজিলেণ্ড ৰাজ্য" />
+  <Country Code="752" Alpha2="SE" Alpha3="SWE" Name="ছুইডেন" CommonName="" OfficialName="ছুইডেন ৰাজ্য" />
+  <Country Code="756" Alpha2="CH" Alpha3="CHE" Name="ছুইজাৰলেণ্ড " CommonName="" OfficialName="চুইচ মৈত্ৰীসংঘ" />
+  <Country Code="760" Alpha2="SY" Alpha3="SYR" Name="চিৰিয়ান আৰব প্ৰজাতন্ত্ৰ" CommonName="" OfficialName="" />
+  <Country Code="762" Alpha2="TJ" Alpha3="TJK" Name="তাজিকিস্তান" CommonName="" OfficialName="তাজিকিস্তান প্ৰজাতন্ত্ৰ" />
+  <Country Code="764" Alpha2="TH" Alpha3="THA" Name="থাইলেণ্ড" CommonName="" OfficialName="থাইলেণ্ড ৰাজ্য" />
+  <Country Code="768" Alpha2="TG" Alpha3="TGO" Name="টোগো" CommonName="" OfficialName="টোগোলিচ প্ৰজাতন্ত্ৰ" />
+  <Country Code="772" Alpha2="TK" Alpha3="TKL" Name="টকেলাউ" CommonName="" OfficialName="" />
+  <Country Code="776" Alpha2="TO" Alpha3="TON" Name="টোঙ্গা" CommonName="" OfficialName="টোঙ্গা ৰাজ্য" />
+  <Country Code="780" Alpha2="TT" Alpha3="TTO" Name="ট্ৰিনিডাড আৰু টোবাগো" CommonName="" OfficialName="ট্ৰিনিডাড আৰু টোবাগো প্ৰজাতন্ত্ৰ" />
+  <Country Code="784" Alpha2="AE" Alpha3="ARE" Name="ইউনাইটেড আৰৱ ইমিৰেটছ" CommonName="" OfficialName="" />
+  <Country Code="788" Alpha2="TN" Alpha3="TUN" Name="টিউনিছিয়া" CommonName="" OfficialName="টিউনিছিয়া প্ৰজাতন্ত্ৰ" />
+  <Country Code="792" Alpha2="TR" Alpha3="TUR" Name="তুৰস্ক" CommonName="" OfficialName="তুৰস্ক প্ৰজাতন্ত্ৰ" />
+  <Country Code="795" Alpha2="TM" Alpha3="TKM" Name="তুৰ্কমেনিস্তান" CommonName="" OfficialName="" />
+  <Country Code="796" Alpha2="TC" Alpha3="TCA" Name="টুৰ্কছ আৰু কেইকোছ দ্বীপ" CommonName="" OfficialName="" />
+  <Country Code="798" Alpha2="TV" Alpha3="TUV" Name="টুভালু" CommonName="" OfficialName="" />
+  <Country Code="800" Alpha2="UG" Alpha3="UGA" Name="উগাণ্ডা" CommonName="" OfficialName="উগাণ্ডা প্ৰজাতন্ত্ৰ" />
+  <Country Code="804" Alpha2="UA" Alpha3="UKR" Name="ইউক্ৰেইন" CommonName="" OfficialName="" />
+  <Country Code="807" Alpha2="MK" Alpha3="MKD" Name="মেচিডোনিয়া প্ৰজাতন্ত্ৰ" CommonName="" OfficialName="পূৰ্ববৰ্তী যুগোস্লাভ প্ৰজাতন্ত্ৰ মেচিডোনিয়া" />
+  <Country Code="818" Alpha2="EG" Alpha3="EGY" Name="মিশ্ৰ" CommonName="" OfficialName="আৰব প্ৰজাতন্ত্ৰ মিশ্ৰ" />
+  <Country Code="826" Alpha2="GB" Alpha3="GBR" Name="যুক্তৰাজ্য" CommonName="" OfficialName="গ্ৰেট ব্ৰিটেন আৰু উত্তৰ আয়াৰ্লেন্ড যুক্তৰাজ্য" />
+  <Country Code="831" Alpha2="GG" Alpha3="GGY" Name="গুয়েৰ্ন্সে" CommonName="" OfficialName="" />
+  <Country Code="832" Alpha2="JE" Alpha3="JEY" Name="জাৰ্চী" CommonName="" OfficialName="" />
+  <Country Code="833" Alpha2="IM" Alpha3="IMN" Name="আইল অফ মেন" CommonName="" OfficialName="" />
+  <Country Code="834" Alpha2="TZ" Alpha3="TZA" Name="তাঞ্জানিয়া, সংযুক্ত প্ৰজাতন্ত্ৰ" CommonName="" OfficialName="সংযুক্ত প্ৰজাতন্ত্ৰ তাঞ্জানিয়া" />
+  <Country Code="840" Alpha2="US" Alpha3="USA" Name="মাৰ্কিন যুক্তৰাষ্ট্ৰ" CommonName="" OfficialName="আমেৰিকা মাৰ্কিন যুক্তৰাষ্ট্ৰ" />
+  <Country Code="850" Alpha2="VI" Alpha3="VIR" Name="মাৰ্কিন যুক্তৰাষ্ট্ৰ ভাৰ্জিন দ্বীপ" CommonName="" OfficialName="মাৰ্কিন যুক্তৰাষ্ট্ৰ ভাৰ্জিন দ্বীপ" />
+  <Country Code="854" Alpha2="BF" Alpha3="BFA" Name="বুৰ্কিনা ফাসো" CommonName="" OfficialName="" />
+  <Country Code="858" Alpha2="UY" Alpha3="URY" Name="উৰুগুৱে" CommonName="" OfficialName="পূৰ্বীয় প্ৰজাতন্ত্ৰ উৰুগুৱে" />
+  <Country Code="860" Alpha2="UZ" Alpha3="UZB" Name="উজ্বেকিস্তান" CommonName="" OfficialName="উজ্বেকিস্তান প্ৰজাতন্ত্ৰ" />
+  <Country Code="862" Alpha2="VE" Alpha3="VEN" Name="ভেনেজুৱেলা, বোলিভাৰিয়ান প্ৰজাতন্ত্ৰ" CommonName="ভেনেজুৱেলা" OfficialName="বোলিভাৰিয়ান প্ৰজাতন্ত্ৰ ভেনেজুৱেলা" />
+  <Country Code="876" Alpha2="WF" Alpha3="WLF" Name="ৱালিচ আৰু ফুটুনা" CommonName="" OfficialName="" />
+  <Country Code="882" Alpha2="WS" Alpha3="WSM" Name="ছামোৱা" CommonName="" OfficialName="স্বতন্ত্ৰ ৰাষ্ট্ৰ ছামোৱা" />
+  <Country Code="887" Alpha2="YE" Alpha3="YEM" Name="য়েমেন" CommonName="" OfficialName="য়েমেন প্ৰজাতন্ত্ৰ" />
+  <Country Code="894" Alpha2="ZM" Alpha3="ZMB" Name="জাম্বিয়া" CommonName="" OfficialName="জাম্বিয়া প্ৰজাতন্ত্ৰ" />
+</Countries>

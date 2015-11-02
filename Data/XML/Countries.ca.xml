@@ -1,0 +1,251 @@
+<Countries>
+  <Country Code="004" Alpha2="AF" Alpha3="AFG" Name="Afganistan" CommonName="" OfficialName="República Islàmica d'Afganistan" />
+  <Country Code="008" Alpha2="AL" Alpha3="ALB" Name="Albània" CommonName="" OfficialName="República d'Albània" />
+  <Country Code="010" Alpha2="AQ" Alpha3="ATA" Name="Antàrtida" CommonName="" OfficialName="" />
+  <Country Code="012" Alpha2="DZ" Alpha3="DZA" Name="Algèria" CommonName="" OfficialName="República Democràtica Popular d'Algèria" />
+  <Country Code="016" Alpha2="AS" Alpha3="ASM" Name="Samoa Americana" CommonName="" OfficialName="" />
+  <Country Code="020" Alpha2="AD" Alpha3="AND" Name="Andorra" CommonName="" OfficialName="Principat d'Andorra" />
+  <Country Code="024" Alpha2="AO" Alpha3="AGO" Name="Angola" CommonName="" OfficialName="República d'Angola" />
+  <Country Code="028" Alpha2="AG" Alpha3="ATG" Name="Antigua i Barbuda" CommonName="" OfficialName="" />
+  <Country Code="031" Alpha2="AZ" Alpha3="AZE" Name="Azerbaitjan" CommonName="" OfficialName="República d'Azerbaitjan" />
+  <Country Code="032" Alpha2="AR" Alpha3="ARG" Name="Argentina" CommonName="" OfficialName="República Argentina" />
+  <Country Code="036" Alpha2="AU" Alpha3="AUS" Name="Austràlia" CommonName="" OfficialName="" />
+  <Country Code="040" Alpha2="AT" Alpha3="AUT" Name="Àustria" CommonName="" OfficialName="República d'Àustria" />
+  <Country Code="044" Alpha2="BS" Alpha3="BHS" Name="Bahames" CommonName="" OfficialName="Commonwealth de les Bahames" />
+  <Country Code="048" Alpha2="BH" Alpha3="BHR" Name="Bahrain" CommonName="" OfficialName="Regne de Bahrain" />
+  <Country Code="050" Alpha2="BD" Alpha3="BGD" Name="Bangla Desh" CommonName="" OfficialName="República Popular de Bangla Desh" />
+  <Country Code="051" Alpha2="AM" Alpha3="ARM" Name="Armènia" CommonName="" OfficialName="República d'Armènia" />
+  <Country Code="052" Alpha2="BB" Alpha3="BRB" Name="Barbados" CommonName="" OfficialName="" />
+  <Country Code="056" Alpha2="BE" Alpha3="BEL" Name="Bèlgica" CommonName="" OfficialName="Regne de Bèlgica" />
+  <Country Code="060" Alpha2="BM" Alpha3="BMU" Name="Bermuda" CommonName="" OfficialName="" />
+  <Country Code="064" Alpha2="BT" Alpha3="BTN" Name="Bhutan" CommonName="" OfficialName="Regne de Bhutan" />
+  <Country Code="068" Alpha2="BO" Alpha3="BOL" Name="Bolívia, Estat Plurinacional de" CommonName="Bolívia" OfficialName="Estat Plurinacional de Bolívia" />
+  <Country Code="070" Alpha2="BA" Alpha3="BIH" Name="Bòsnia i Hercegovina" CommonName="" OfficialName="República de Bòsnia i Hercegovina" />
+  <Country Code="072" Alpha2="BW" Alpha3="BWA" Name="Botswana" CommonName="" OfficialName="República de Botswana" />
+  <Country Code="074" Alpha2="BV" Alpha3="BVT" Name="Illa Bouvet" CommonName="" OfficialName="" />
+  <Country Code="076" Alpha2="BR" Alpha3="BRA" Name="Brasil" CommonName="" OfficialName="República Federal del Brasil" />
+  <Country Code="084" Alpha2="BZ" Alpha3="BLZ" Name="Belize" CommonName="" OfficialName="" />
+  <Country Code="086" Alpha2="IO" Alpha3="IOT" Name="Territori Britànic de l'Oceà Índic" CommonName="" OfficialName="" />
+  <Country Code="090" Alpha2="SB" Alpha3="SLB" Name="Illes Salomó" CommonName="" OfficialName="" />
+  <Country Code="092" Alpha2="VG" Alpha3="VGB" Name="Illes Verges, Britàniques" CommonName="" OfficialName="Illes Verges Britàniques" />
+  <Country Code="096" Alpha2="BN" Alpha3="BRN" Name="Brunei (Negara Brunei Darussalam)" CommonName="" OfficialName="" />
+  <Country Code="100" Alpha2="BG" Alpha3="BGR" Name="Bulgària" CommonName="" OfficialName="República de Bulgària" />
+  <Country Code="104" Alpha2="MM" Alpha3="MMR" Name="Myanmar" CommonName="" OfficialName="República de Myanmar" />
+  <Country Code="108" Alpha2="BI" Alpha3="BDI" Name="Burundi" CommonName="" OfficialName="República de Burundi" />
+  <Country Code="112" Alpha2="BY" Alpha3="BLR" Name="Bielorússia" CommonName="" OfficialName="República de Bielorússia" />
+  <Country Code="116" Alpha2="KH" Alpha3="KHM" Name="Cambodja" CommonName="" OfficialName="Regne de Cambodja" />
+  <Country Code="120" Alpha2="CM" Alpha3="CMR" Name="Camerun" CommonName="" OfficialName="República del Camerun" />
+  <Country Code="124" Alpha2="CA" Alpha3="CAN" Name="Canadà" CommonName="" OfficialName="" />
+  <Country Code="132" Alpha2="CV" Alpha3="CPV" Name="Cap Verd" CommonName="" OfficialName="República de Cap Verd" />
+  <Country Code="136" Alpha2="KY" Alpha3="CYM" Name="Illes Caiman" CommonName="" OfficialName="" />
+  <Country Code="140" Alpha2="CF" Alpha3="CAF" Name="República Centreafricana" CommonName="" OfficialName="" />
+  <Country Code="144" Alpha2="LK" Alpha3="LKA" Name="Sri Lanka" CommonName="" OfficialName="República Socialista Democràtica de Sri Lanka" />
+  <Country Code="148" Alpha2="TD" Alpha3="TCD" Name="Txad" CommonName="" OfficialName="República del Txad" />
+  <Country Code="152" Alpha2="CL" Alpha3="CHL" Name="Xile" CommonName="" OfficialName="República de Xile" />
+  <Country Code="156" Alpha2="CN" Alpha3="CHN" Name="Xina" CommonName="" OfficialName="República Popular de la Xina" />
+  <Country Code="158" Alpha2="TW" Alpha3="TWN" Name="Taiwan, Província de Xina" CommonName="Taiwan" OfficialName="Taiwan, Província de Xina" />
+  <Country Code="162" Alpha2="CX" Alpha3="CXR" Name="Illa Christmas" CommonName="" OfficialName="" />
+  <Country Code="166" Alpha2="CC" Alpha3="CCK" Name="Illes Cocos (Keeling)" CommonName="" OfficialName="" />
+  <Country Code="170" Alpha2="CO" Alpha3="COL" Name="Colòmbia" CommonName="" OfficialName="República de Colòmbia" />
+  <Country Code="174" Alpha2="KM" Alpha3="COM" Name="Comores" CommonName="" OfficialName="Unió de les Comores" />
+  <Country Code="175" Alpha2="YT" Alpha3="MYT" Name="Mayotte" CommonName="" OfficialName="" />
+  <Country Code="178" Alpha2="CG" Alpha3="COG" Name="Congo" CommonName="" OfficialName="República del Congo" />
+  <Country Code="180" Alpha2="CD" Alpha3="COD" Name="Congo, La República Democràtica del" CommonName="" OfficialName="" />
+  <Country Code="184" Alpha2="CK" Alpha3="COK" Name="Illes Cook" CommonName="" OfficialName="" />
+  <Country Code="188" Alpha2="CR" Alpha3="CRI" Name="Costa Rica" CommonName="" OfficialName="República de Costa Rica" />
+  <Country Code="191" Alpha2="HR" Alpha3="HRV" Name="Croàcia" CommonName="" OfficialName="República de Croàcia" />
+  <Country Code="192" Alpha2="CU" Alpha3="CUB" Name="Cuba" CommonName="" OfficialName="República de Cuba" />
+  <Country Code="196" Alpha2="CY" Alpha3="CYP" Name="Xipre" CommonName="" OfficialName="República de Xipre" />
+  <Country Code="203" Alpha2="CZ" Alpha3="CZE" Name="República Txeca" CommonName="" OfficialName="" />
+  <Country Code="204" Alpha2="BJ" Alpha3="BEN" Name="Benín" CommonName="" OfficialName="República de Benín" />
+  <Country Code="208" Alpha2="DK" Alpha3="DNK" Name="Dinamarca" CommonName="" OfficialName="Regne de Dinamarca" />
+  <Country Code="212" Alpha2="DM" Alpha3="DMA" Name="Dominica" CommonName="" OfficialName="Commonwealth de Dominica" />
+  <Country Code="214" Alpha2="DO" Alpha3="DOM" Name="República Dominicana" CommonName="" OfficialName="" />
+  <Country Code="218" Alpha2="EC" Alpha3="ECU" Name="Equador" CommonName="" OfficialName="República d'Equador" />
+  <Country Code="222" Alpha2="SV" Alpha3="SLV" Name="El Salvador" CommonName="" OfficialName="República d'El Salvador" />
+  <Country Code="226" Alpha2="GQ" Alpha3="GNQ" Name="Guinea Equatorial" CommonName="" OfficialName="República de Guinea Equatorial" />
+  <Country Code="231" Alpha2="ET" Alpha3="ETH" Name="Etiòpia" CommonName="" OfficialName="República Federal Democràtica d'Etiòpia" />
+  <Country Code="232" Alpha2="ER" Alpha3="ERI" Name="Eritrea" CommonName="" OfficialName="Estats Units d'Amèrica" />
+  <Country Code="233" Alpha2="EE" Alpha3="EST" Name="Estònia" CommonName="" OfficialName="República d'Estònia" />
+  <Country Code="234" Alpha2="FO" Alpha3="FRO" Name="Illes Fèroe" CommonName="" OfficialName="" />
+  <Country Code="238" Alpha2="FK" Alpha3="FLK" Name="Illes Malvines (Falkland)" CommonName="" OfficialName="" />
+  <Country Code="239" Alpha2="GS" Alpha3="SGS" Name="Illes Geòrgia del Sud i Sandwich del Sud" CommonName="" OfficialName="" />
+  <Country Code="242" Alpha2="FJ" Alpha3="FJI" Name="Fiji" CommonName="" OfficialName="República de Fiji" />
+  <Country Code="246" Alpha2="FI" Alpha3="FIN" Name="Finlàndia" CommonName="" OfficialName="República de Finlàndia" />
+  <Country Code="248" Alpha2="AX" Alpha3="ALA" Name="Illes Aland" CommonName="" OfficialName="" />
+  <Country Code="250" Alpha2="FR" Alpha3="FRA" Name="França" CommonName="" OfficialName="República Francesa" />
+  <Country Code="254" Alpha2="GF" Alpha3="GUF" Name="Guaiana Francesa" CommonName="" OfficialName="" />
+  <Country Code="258" Alpha2="PF" Alpha3="PYF" Name="Polinèsia francesa" CommonName="" OfficialName="" />
+  <Country Code="260" Alpha2="TF" Alpha3="ATF" Name="Territoris Francesos del Sud" CommonName="" OfficialName="" />
+  <Country Code="262" Alpha2="DJ" Alpha3="DJI" Name="Djibouti" CommonName="" OfficialName="República de Djibouti" />
+  <Country Code="266" Alpha2="GA" Alpha3="GAB" Name="Gabon" CommonName="" OfficialName="República Gabonesa" />
+  <Country Code="268" Alpha2="GE" Alpha3="GEO" Name="Geòrgia" CommonName="" OfficialName="" />
+  <Country Code="270" Alpha2="GM" Alpha3="GMB" Name="Gàmbia" CommonName="" OfficialName="República de Gàmbia" />
+  <Country Code="275" Alpha2="PS" Alpha3="PSE" Name="" CommonName="" OfficialName="Estats Units d'Amèrica" />
+  <Country Code="276" Alpha2="DE" Alpha3="DEU" Name="Alemanya" CommonName="" OfficialName="República Federal d'Alemanya" />
+  <Country Code="288" Alpha2="GH" Alpha3="GHA" Name="Ghana" CommonName="" OfficialName="República de Ghana" />
+  <Country Code="292" Alpha2="GI" Alpha3="GIB" Name="Gibraltar" CommonName="" OfficialName="" />
+  <Country Code="296" Alpha2="KI" Alpha3="KIR" Name="Kiribati" CommonName="" OfficialName="República de Kiribati" />
+  <Country Code="300" Alpha2="GR" Alpha3="GRC" Name="Grècia" CommonName="" OfficialName="República Hel·lènica" />
+  <Country Code="304" Alpha2="GL" Alpha3="GRL" Name="Groenlàndia" CommonName="" OfficialName="" />
+  <Country Code="308" Alpha2="GD" Alpha3="GRD" Name="Grenada" CommonName="" OfficialName="" />
+  <Country Code="312" Alpha2="GP" Alpha3="GLP" Name="Guadalupe" CommonName="" OfficialName="" />
+  <Country Code="316" Alpha2="GU" Alpha3="GUM" Name="Guam" CommonName="" OfficialName="" />
+  <Country Code="320" Alpha2="GT" Alpha3="GTM" Name="Guatemala" CommonName="" OfficialName="República de Guatemala" />
+  <Country Code="324" Alpha2="GN" Alpha3="GIN" Name="Guinea" CommonName="" OfficialName="República de Guinea" />
+  <Country Code="328" Alpha2="GY" Alpha3="GUY" Name="Guyana" CommonName="" OfficialName="República Cooperativa de Guyana" />
+  <Country Code="332" Alpha2="HT" Alpha3="HTI" Name="Haití" CommonName="" OfficialName="República d'Haití" />
+  <Country Code="334" Alpha2="HM" Alpha3="HMD" Name="Illa Heard i Illes McDonald" CommonName="" OfficialName="" />
+  <Country Code="336" Alpha2="VA" Alpha3="VAT" Name="Santa Seu (Estat del Vaticà)" CommonName="" OfficialName="" />
+  <Country Code="340" Alpha2="HN" Alpha3="HND" Name="Hondures" CommonName="" OfficialName="República d'Hondures" />
+  <Country Code="344" Alpha2="HK" Alpha3="HKG" Name="Hong Kong" CommonName="" OfficialName="Regió administrativa especial Xinesa de Hong Kong" />
+  <Country Code="348" Alpha2="HU" Alpha3="HUN" Name="Hongria" CommonName="" OfficialName="Hongria" />
+  <Country Code="352" Alpha2="IS" Alpha3="ISL" Name="Islàndia" CommonName="" OfficialName="República d'Islàndia" />
+  <Country Code="356" Alpha2="IN" Alpha3="IND" Name="Índia" CommonName="" OfficialName="República de l'Índia" />
+  <Country Code="360" Alpha2="ID" Alpha3="IDN" Name="Indonèsia" CommonName="" OfficialName="República d'Indonèsia" />
+  <Country Code="364" Alpha2="IR" Alpha3="IRN" Name="Iran" CommonName="" OfficialName="República Islàmica de l'Iran" />
+  <Country Code="368" Alpha2="IQ" Alpha3="IRQ" Name="Iraq" CommonName="" OfficialName="República de l'Iraq" />
+  <Country Code="372" Alpha2="IE" Alpha3="IRL" Name="Irlanda" CommonName="" OfficialName="" />
+  <Country Code="376" Alpha2="IL" Alpha3="ISR" Name="Israel" CommonName="" OfficialName="Estat d'Israel" />
+  <Country Code="380" Alpha2="IT" Alpha3="ITA" Name="Itàlia" CommonName="" OfficialName="República Italiana" />
+  <Country Code="384" Alpha2="CI" Alpha3="CIV" Name="Costa de Vori" CommonName="" OfficialName="República de Costa de Vori" />
+  <Country Code="388" Alpha2="JM" Alpha3="JAM" Name="Jamaica" CommonName="" OfficialName="" />
+  <Country Code="392" Alpha2="JP" Alpha3="JPN" Name="Japó" CommonName="" OfficialName="" />
+  <Country Code="398" Alpha2="KZ" Alpha3="KAZ" Name="Kazakhstan" CommonName="" OfficialName="República del Kazakhstan" />
+  <Country Code="400" Alpha2="JO" Alpha3="JOR" Name="Jordània" CommonName="" OfficialName="Regne Haiximita de Jordània" />
+  <Country Code="404" Alpha2="KE" Alpha3="KEN" Name="Kenya" CommonName="" OfficialName="República de Kenya" />
+  <Country Code="408" Alpha2="KP" Alpha3="PRK" Name="Corea del Nord" CommonName="" OfficialName="República Democràtica Popular de Corea" />
+  <Country Code="410" Alpha2="KR" Alpha3="KOR" Name="Corea del Sud" CommonName="" OfficialName="" />
+  <Country Code="414" Alpha2="KW" Alpha3="KWT" Name="Kuwait" CommonName="" OfficialName="Estat de Kuwait" />
+  <Country Code="417" Alpha2="KG" Alpha3="KGZ" Name="Kirguizistan" CommonName="" OfficialName="República del Kirguizistan" />
+  <Country Code="418" Alpha2="LA" Alpha3="LAO" Name="República Democràtica Popular de Laos" CommonName="" OfficialName="" />
+  <Country Code="422" Alpha2="LB" Alpha3="LBN" Name="Líban" CommonName="" OfficialName="República Libanesa" />
+  <Country Code="426" Alpha2="LS" Alpha3="LSO" Name="Lesotho" CommonName="" OfficialName="Regne de Lesotho" />
+  <Country Code="428" Alpha2="LV" Alpha3="LVA" Name="Letònia" CommonName="" OfficialName="República de Letònia" />
+  <Country Code="430" Alpha2="LR" Alpha3="LBR" Name="Libèria" CommonName="" OfficialName="República de Libèria" />
+  <Country Code="434" Alpha2="LY" Alpha3="LBY" Name="Líbia" CommonName="" OfficialName="Líbia" />
+  <Country Code="438" Alpha2="LI" Alpha3="LIE" Name="Liechtenstein" CommonName="" OfficialName="Principat de Liechtenstein" />
+  <Country Code="440" Alpha2="LT" Alpha3="LTU" Name="Lituània" CommonName="" OfficialName="República de Lituània" />
+  <Country Code="442" Alpha2="LU" Alpha3="LUX" Name="Luxemburg" CommonName="" OfficialName="Gran Ducat de Luxemburg" />
+  <Country Code="446" Alpha2="MO" Alpha3="MAC" Name="Macau" CommonName="" OfficialName="Regió Administrativa Especial Xinesa de Macau" />
+  <Country Code="450" Alpha2="MG" Alpha3="MDG" Name="Madagascar" CommonName="" OfficialName="República de Madagascar" />
+  <Country Code="454" Alpha2="MW" Alpha3="MWI" Name="Malawi" CommonName="" OfficialName="República de Malawi" />
+  <Country Code="458" Alpha2="MY" Alpha3="MYS" Name="Malàisia" CommonName="" OfficialName="" />
+  <Country Code="462" Alpha2="MV" Alpha3="MDV" Name="Maldives" CommonName="" OfficialName="República de Maldives" />
+  <Country Code="466" Alpha2="ML" Alpha3="MLI" Name="Mali" CommonName="" OfficialName="República de Mali" />
+  <Country Code="470" Alpha2="MT" Alpha3="MLT" Name="Malta" CommonName="" OfficialName="República de Malta" />
+  <Country Code="474" Alpha2="MQ" Alpha3="MTQ" Name="Martinica" CommonName="" OfficialName="" />
+  <Country Code="478" Alpha2="MR" Alpha3="MRT" Name="Mauritània" CommonName="" OfficialName="República Islàmica de Mauritània" />
+  <Country Code="480" Alpha2="MU" Alpha3="MUS" Name="Maurici" CommonName="" OfficialName="República de Maurici" />
+  <Country Code="484" Alpha2="MX" Alpha3="MEX" Name="Mèxic" CommonName="" OfficialName="Estats Units Mexicans" />
+  <Country Code="492" Alpha2="MC" Alpha3="MCO" Name="Mònaco" CommonName="" OfficialName="Principat de Mònaco" />
+  <Country Code="496" Alpha2="MN" Alpha3="MNG" Name="Mongòlia" CommonName="" OfficialName="" />
+  <Country Code="498" Alpha2="MD" Alpha3="MDA" Name="Moldàvia, República de" CommonName="Moldàvia" OfficialName="República de Moldàvia" />
+  <Country Code="499" Alpha2="ME" Alpha3="MNE" Name="Montenegro" CommonName="" OfficialName="Montenegro" />
+  <Country Code="500" Alpha2="MS" Alpha3="MSR" Name="Montserrat" CommonName="" OfficialName="" />
+  <Country Code="504" Alpha2="MA" Alpha3="MAR" Name="Marroc" CommonName="" OfficialName="Regne del Marroc" />
+  <Country Code="508" Alpha2="MZ" Alpha3="MOZ" Name="Moçambic" CommonName="" OfficialName="República de Moçambic" />
+  <Country Code="512" Alpha2="OM" Alpha3="OMN" Name="Oman" CommonName="" OfficialName="Sultanat d'Oman" />
+  <Country Code="516" Alpha2="NA" Alpha3="NAM" Name="Namíbia" CommonName="" OfficialName="República de Namíbia" />
+  <Country Code="520" Alpha2="NR" Alpha3="NRU" Name="Nauru" CommonName="" OfficialName="República de Nauru" />
+  <Country Code="524" Alpha2="NP" Alpha3="NPL" Name="Nepal" CommonName="" OfficialName="República Federal Democràtica del Nepal" />
+  <Country Code="528" Alpha2="NL" Alpha3="NLD" Name="Països Baixos" CommonName="" OfficialName="Regne dels Països Baixos" />
+  <Country Code="531" Alpha2="CW" Alpha3="CUW" Name="Curaçao" CommonName="" OfficialName="Curaçao" />
+  <Country Code="533" Alpha2="AW" Alpha3="ABW" Name="Aruba" CommonName="" OfficialName="" />
+  <Country Code="534" Alpha2="SX" Alpha3="SXM" Name="Sint Maarten (part neerlandesa)" CommonName="" OfficialName="Sint Maarten (part neerlandesa)" />
+  <Country Code="535" Alpha2="BQ" Alpha3="BES" Name="Bonaire, Sint Eustatius i Saba" CommonName="" OfficialName="Bonaire, Sint Eustatius i Saba" />
+  <Country Code="540" Alpha2="NC" Alpha3="NCL" Name="Nova Caledònia" CommonName="" OfficialName="" />
+  <Country Code="548" Alpha2="VU" Alpha3="VUT" Name="Vanuatu" CommonName="" OfficialName="República de Vanuatu" />
+  <Country Code="554" Alpha2="NZ" Alpha3="NZL" Name="Nova Zelanda" CommonName="" OfficialName="" />
+  <Country Code="558" Alpha2="NI" Alpha3="NIC" Name="Nicaragua" CommonName="" OfficialName="República de Nicaragua" />
+  <Country Code="562" Alpha2="NE" Alpha3="NER" Name="Níger" CommonName="" OfficialName="República del Níger" />
+  <Country Code="566" Alpha2="NG" Alpha3="NGA" Name="Nigèria" CommonName="" OfficialName="República Federal de Nigèria" />
+  <Country Code="570" Alpha2="NU" Alpha3="NIU" Name="Niue" CommonName="" OfficialName="Niue" />
+  <Country Code="574" Alpha2="NF" Alpha3="NFK" Name="Illa Norfolk" CommonName="" OfficialName="" />
+  <Country Code="578" Alpha2="NO" Alpha3="NOR" Name="Noruega" CommonName="" OfficialName="Regne de Noruega" />
+  <Country Code="580" Alpha2="MP" Alpha3="MNP" Name="Illes Marianes del Nord" CommonName="" OfficialName="Commonwealth de les Illes Marianes del Nord" />
+  <Country Code="581" Alpha2="UM" Alpha3="UMI" Name="Illes Perifèriques Menors dels EUA" CommonName="" OfficialName="" />
+  <Country Code="583" Alpha2="FM" Alpha3="FSM" Name="Micronèsia, Estats Federats de" CommonName="" OfficialName="Estats Federats de Micronèsia" />
+  <Country Code="584" Alpha2="MH" Alpha3="MHL" Name="Illes Marshall" CommonName="" OfficialName="República de les Illes Marshall" />
+  <Country Code="585" Alpha2="PW" Alpha3="PLW" Name="Palau" CommonName="" OfficialName="República de Palau" />
+  <Country Code="586" Alpha2="PK" Alpha3="PAK" Name="Pakistan" CommonName="" OfficialName="República Islàmica de Pakistan" />
+  <Country Code="591" Alpha2="PA" Alpha3="PAN" Name="Panamà" CommonName="" OfficialName="República de Panamà" />
+  <Country Code="598" Alpha2="PG" Alpha3="PNG" Name="Papua Nova Guinea" CommonName="" OfficialName="Estat Independent de Samoa" />
+  <Country Code="600" Alpha2="PY" Alpha3="PRY" Name="Paraguai" CommonName="" OfficialName="República de Paraguai" />
+  <Country Code="604" Alpha2="PE" Alpha3="PER" Name="Perú" CommonName="" OfficialName="República de Perú" />
+  <Country Code="608" Alpha2="PH" Alpha3="PHL" Name="Filipines" CommonName="" OfficialName="República de les Filipines" />
+  <Country Code="612" Alpha2="PN" Alpha3="PCN" Name="Pitcairn" CommonName="" OfficialName="" />
+  <Country Code="616" Alpha2="PL" Alpha3="POL" Name="Polònia" CommonName="" OfficialName="República de Polònia" />
+  <Country Code="620" Alpha2="PT" Alpha3="PRT" Name="Portugal" CommonName="" OfficialName="República Portuguesa" />
+  <Country Code="624" Alpha2="GW" Alpha3="GNB" Name="Guinea Bissau" CommonName="" OfficialName="República de Guinea Bissau" />
+  <Country Code="626" Alpha2="TL" Alpha3="TLS" Name="Timor Oriental" CommonName="" OfficialName="República Democràtica de Timor Oriental" />
+  <Country Code="630" Alpha2="PR" Alpha3="PRI" Name="Puerto Rico" CommonName="" OfficialName="" />
+  <Country Code="634" Alpha2="QA" Alpha3="QAT" Name="Qatar" CommonName="" OfficialName="Estat de Qatar" />
+  <Country Code="638" Alpha2="RE" Alpha3="REU" Name="Reunió" CommonName="" OfficialName="" />
+  <Country Code="642" Alpha2="RO" Alpha3="ROU" Name="Romania" CommonName="" OfficialName="" />
+  <Country Code="643" Alpha2="RU" Alpha3="RUS" Name="Federació Russa" CommonName="" OfficialName="" />
+  <Country Code="646" Alpha2="RW" Alpha3="RWA" Name="Rwanda" CommonName="" OfficialName="República Rwandesa" />
+  <Country Code="652" Alpha2="BL" Alpha3="BLM" Name="Saint Barthélemy" CommonName="" OfficialName="" />
+  <Country Code="654" Alpha2="SH" Alpha3="SHN" Name="Saint Helena, Ascension i Tristan da Cunha" CommonName="" OfficialName="" />
+  <Country Code="659" Alpha2="KN" Alpha3="KNA" Name="Saint Christopher i Nevis" CommonName="" OfficialName="" />
+  <Country Code="660" Alpha2="AI" Alpha3="AIA" Name="Anguilla" CommonName="" OfficialName="" />
+  <Country Code="662" Alpha2="LC" Alpha3="LCA" Name="Saint Lucia" CommonName="" OfficialName="" />
+  <Country Code="663" Alpha2="MF" Alpha3="MAF" Name="Saint Martin (part francesa)" CommonName="" OfficialName="" />
+  <Country Code="666" Alpha2="PM" Alpha3="SPM" Name="Saint Pierre i Miquelon" CommonName="" OfficialName="" />
+  <Country Code="670" Alpha2="VC" Alpha3="VCT" Name="Saint Vincent i les Grenadines" CommonName="" OfficialName="" />
+  <Country Code="674" Alpha2="SM" Alpha3="SMR" Name="San Marino" CommonName="" OfficialName="República de San Marino" />
+  <Country Code="678" Alpha2="ST" Alpha3="STP" Name="Sao Tome i Príncipe" CommonName="" OfficialName="República Democràtica de Sâo Tomé i Príncipe" />
+  <Country Code="682" Alpha2="SA" Alpha3="SAU" Name="Aràbia Saudita" CommonName="" OfficialName="Regne d'Aràbia Saudita" />
+  <Country Code="686" Alpha2="SN" Alpha3="SEN" Name="Senegal" CommonName="" OfficialName="República del Senegal" />
+  <Country Code="688" Alpha2="RS" Alpha3="SRB" Name="Sèrbia" CommonName="" OfficialName="República de Sèrbia" />
+  <Country Code="690" Alpha2="SC" Alpha3="SYC" Name="Seychelles" CommonName="" OfficialName="República de Seychelles" />
+  <Country Code="694" Alpha2="SL" Alpha3="SLE" Name="Sierra Leone" CommonName="" OfficialName="República de Sierra Leone" />
+  <Country Code="702" Alpha2="SG" Alpha3="SGP" Name="Singapur" CommonName="" OfficialName="República de Singapur" />
+  <Country Code="703" Alpha2="SK" Alpha3="SVK" Name="Eslovàquia" CommonName="" OfficialName="República Eslovaca" />
+  <Country Code="704" Alpha2="VN" Alpha3="VNM" Name="Vietnam" CommonName="" OfficialName="República Socialista de Vietnam" />
+  <Country Code="705" Alpha2="SI" Alpha3="SVN" Name="Eslovènia" CommonName="" OfficialName="República d'Eslovènia" />
+  <Country Code="706" Alpha2="SO" Alpha3="SOM" Name="Somàlia" CommonName="" OfficialName="República Federal d'Alemanya" />
+  <Country Code="710" Alpha2="ZA" Alpha3="ZAF" Name="Sudàfrica" CommonName="" OfficialName="República de Sudàfrica" />
+  <Country Code="716" Alpha2="ZW" Alpha3="ZWE" Name="Zimbabwe" CommonName="" OfficialName="República de Zimbabwe" />
+  <Country Code="724" Alpha2="ES" Alpha3="ESP" Name="Espanya" CommonName="" OfficialName="Regne d'Espanya" />
+  <Country Code="728" Alpha2="SS" Alpha3="SSD" Name="Sudan del Sud" CommonName="" OfficialName="República del Sudan del Sud" />
+  <Country Code="729" Alpha2="SD" Alpha3="SDN" Name="Sudan" CommonName="" OfficialName="República del Sudan" />
+  <Country Code="732" Alpha2="EH" Alpha3="ESH" Name="Sàhara Occidental" CommonName="" OfficialName="" />
+  <Country Code="740" Alpha2="SR" Alpha3="SUR" Name="Surinam" CommonName="" OfficialName="República de Surinam" />
+  <Country Code="744" Alpha2="SJ" Alpha3="SJM" Name="Svalbard i Jan Mayen" CommonName="" OfficialName="" />
+  <Country Code="748" Alpha2="SZ" Alpha3="SWZ" Name="Swazilàndia" CommonName="" OfficialName="Regne de Swazilàndia" />
+  <Country Code="752" Alpha2="SE" Alpha3="SWE" Name="Suècia" CommonName="" OfficialName="Regne de Suècia" />
+  <Country Code="756" Alpha2="CH" Alpha3="CHE" Name="Suïssa" CommonName="" OfficialName="Confederació Suïssa" />
+  <Country Code="760" Alpha2="SY" Alpha3="SYR" Name="República Àrab Síria" CommonName="" OfficialName="" />
+  <Country Code="762" Alpha2="TJ" Alpha3="TJK" Name="Tadjikistan" CommonName="" OfficialName="República de Tadjikistan" />
+  <Country Code="764" Alpha2="TH" Alpha3="THA" Name="Tailàndia" CommonName="" OfficialName="Regne de Tailàndia" />
+  <Country Code="768" Alpha2="TG" Alpha3="TGO" Name="Togo" CommonName="" OfficialName="República Togolesa" />
+  <Country Code="772" Alpha2="TK" Alpha3="TKL" Name="Tokelau" CommonName="" OfficialName="" />
+  <Country Code="776" Alpha2="TO" Alpha3="TON" Name="Tonga" CommonName="" OfficialName="Regne de Tonga" />
+  <Country Code="780" Alpha2="TT" Alpha3="TTO" Name="Trinitat i Tobago" CommonName="" OfficialName="República de Trinitat i Tobago" />
+  <Country Code="784" Alpha2="AE" Alpha3="ARE" Name="Unió dels Emirats Àrabs" CommonName="" OfficialName="" />
+  <Country Code="788" Alpha2="TN" Alpha3="TUN" Name="Tunísia" CommonName="" OfficialName="República de Tunísia" />
+  <Country Code="792" Alpha2="TR" Alpha3="TUR" Name="Turquia" CommonName="" OfficialName="República de Turquia" />
+  <Country Code="795" Alpha2="TM" Alpha3="TKM" Name="Turkmenistan" CommonName="" OfficialName="" />
+  <Country Code="796" Alpha2="TC" Alpha3="TCA" Name="Illes Turks i Caicos" CommonName="" OfficialName="" />
+  <Country Code="798" Alpha2="TV" Alpha3="TUV" Name="Tuvalu" CommonName="" OfficialName="" />
+  <Country Code="800" Alpha2="UG" Alpha3="UGA" Name="Uganda" CommonName="" OfficialName="República d'Uganda" />
+  <Country Code="804" Alpha2="UA" Alpha3="UKR" Name="Ucraïna" CommonName="" OfficialName="" />
+  <Country Code="807" Alpha2="MK" Alpha3="MKD" Name="Macedònia, República de" CommonName="" OfficialName="L'Exrepública Iugoslava de Macedònia" />
+  <Country Code="818" Alpha2="EG" Alpha3="EGY" Name="Egipte" CommonName="" OfficialName="República Àrab d'Egipte" />
+  <Country Code="826" Alpha2="GB" Alpha3="GBR" Name="Regne Unit" CommonName="" OfficialName="Regne Unit de la Gran Bretanya i Irlanda del Nord" />
+  <Country Code="831" Alpha2="GG" Alpha3="GGY" Name="Guernsey" CommonName="" OfficialName="" />
+  <Country Code="832" Alpha2="JE" Alpha3="JEY" Name="Jersey" CommonName="" OfficialName="" />
+  <Country Code="833" Alpha2="IM" Alpha3="IMN" Name="Illa de Man" CommonName="" OfficialName="" />
+  <Country Code="834" Alpha2="TZ" Alpha3="TZA" Name="Tanzània, República Unida de" CommonName="" OfficialName="República Unida de Tanzània" />
+  <Country Code="840" Alpha2="US" Alpha3="USA" Name="Estats Units" CommonName="" OfficialName="Estats Units d'Amèrica" />
+  <Country Code="850" Alpha2="VI" Alpha3="VIR" Name="Illes Verges, EUA" CommonName="" OfficialName="Illes Verges nordamericanes" />
+  <Country Code="854" Alpha2="BF" Alpha3="BFA" Name="Burkina Faso" CommonName="" OfficialName="" />
+  <Country Code="858" Alpha2="UY" Alpha3="URY" Name="Uruguai" CommonName="" OfficialName="República Oriental d'Uruguai" />
+  <Country Code="860" Alpha2="UZ" Alpha3="UZB" Name="Uzbekistan" CommonName="" OfficialName="República d'Uzbekistan" />
+  <Country Code="862" Alpha2="VE" Alpha3="VEN" Name="Veneçuela, República Bolívariana de" CommonName="Veneçuela" OfficialName="República Bolívariana de Veneçuela" />
+  <Country Code="876" Alpha2="WF" Alpha3="WLF" Name="Wallis i Futuna" CommonName="" OfficialName="" />
+  <Country Code="882" Alpha2="WS" Alpha3="WSM" Name="Samoa" CommonName="" OfficialName="Estat Independent de Samoa" />
+  <Country Code="887" Alpha2="YE" Alpha3="YEM" Name="Iemen" CommonName="" OfficialName="República de Iemen" />
+  <Country Code="894" Alpha2="ZM" Alpha3="ZMB" Name="Zàmbia" CommonName="" OfficialName="República de Zàmbia" />
+</Countries>

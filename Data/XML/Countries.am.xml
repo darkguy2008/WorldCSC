@@ -1,0 +1,251 @@
+<Countries>
+  <Country Code="004" Alpha2="AF" Alpha3="AFG" Name="" CommonName="" OfficialName="ሥሔ፦ቲ" />
+  <Country Code="008" Alpha2="AL" Alpha3="ALB" Name="ጐሔባኒ።" CommonName="" OfficialName="" />
+  <Country Code="010" Alpha2="AQ" Alpha3="ATA" Name="" CommonName="" OfficialName="" />
+  <Country Code="012" Alpha2="DZ" Alpha3="DZA" Name="ጐሔጄሱ።" CommonName="" OfficialName="ጥንጕ" />
+  <Country Code="016" Alpha2="AS" Alpha3="ASM" Name="" CommonName="" OfficialName="" />
+  <Country Code="020" Alpha2="AD" Alpha3="AND" Name="ጐን፦ሲ" CommonName="" OfficialName="" />
+  <Country Code="024" Alpha2="AO" Alpha3="AGO" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="028" Alpha2="AG" Alpha3="ATG" Name="" CommonName="" OfficialName="" />
+  <Country Code="031" Alpha2="AZ" Alpha3="AZE" Name="ጐፈሴባጃን" CommonName="" OfficialName="ጐፈሴባጃን" />
+  <Country Code="032" Alpha2="AR" Alpha3="ARG" Name="ጐሴጀንቲና" CommonName="" OfficialName="፦ሡኒጤ ሱፑብሑጤ" />
+  <Country Code="036" Alpha2="AU" Alpha3="AUS" Name="ጐፄስትሳሑ።" CommonName="" OfficialName="" />
+  <Country Code="040" Alpha2="AT" Alpha3="AUT" Name="጖ስትሱ።" CommonName="" OfficialName="" />
+  <Country Code="044" Alpha2="BS" Alpha3="BHS" Name="" CommonName="" OfficialName="" />
+  <Country Code="048" Alpha2="BH" Alpha3="BHR" Name="ባህሳን" CommonName="" OfficialName="ባህሳን" />
+  <Country Code="050" Alpha2="BD" Alpha3="BGD" Name="" CommonName="" OfficialName="" />
+  <Country Code="051" Alpha2="AM" Alpha3="ARM" Name="ጐሴሣኒ።" CommonName="" OfficialName="" />
+  <Country Code="052" Alpha2="BB" Alpha3="BRB" Name="ባሴቤ፦ስ" CommonName="" OfficialName="" />
+  <Country Code="056" Alpha2="BE" Alpha3="BEL" Name="ቤሔጄሤ" CommonName="" OfficialName="" />
+  <Country Code="060" Alpha2="BM" Alpha3="BMU" Name="ቤሴሙ፣" CommonName="" OfficialName="" />
+  <Country Code="064" Alpha2="BT" Alpha3="BTN" Name="ቡህታን" CommonName="" OfficialName="" />
+  <Country Code="068" Alpha2="BO" Alpha3="BOL" Name="" CommonName="ቦሑቱ።" OfficialName="" />
+  <Country Code="070" Alpha2="BA" Alpha3="BIH" Name="ቦስኒ። ጕና ሄሴፕጕቱኒ።" CommonName="" OfficialName="ቦስኒ። ጕና ሄሴፕጕቱኒ።" />
+  <Country Code="072" Alpha2="BW" Alpha3="BWA" Name="" CommonName="" OfficialName="" />
+  <Country Code="074" Alpha2="BV" Alpha3="BVT" Name="" CommonName="" OfficialName="" />
+  <Country Code="076" Alpha2="BR" Alpha3="BRA" Name="ብሲፑሔ" CommonName="" OfficialName="" />
+  <Country Code="084" Alpha2="BZ" Alpha3="BLZ" Name="ቤሑፈ" CommonName="" OfficialName="" />
+  <Country Code="086" Alpha2="IO" Alpha3="IOT" Name="" CommonName="" OfficialName="" />
+  <Country Code="090" Alpha2="SB" Alpha3="SLB" Name="" CommonName="" OfficialName="" />
+  <Country Code="092" Alpha2="VG" Alpha3="VGB" Name="ፘጕንጔሑፔ ፥ንጔሔ ፠ሴቶኄ" CommonName="" OfficialName="ፘጐሣሱጢ ቨሴጂን ፠ሴቶኄ" />
+  <Country Code="096" Alpha2="BN" Alpha3="BRN" Name="" CommonName="" OfficialName="" />
+  <Country Code="100" Alpha2="BG" Alpha3="BGR" Name="ቡሔጓሱ።" CommonName="" OfficialName="" />
+  <Country Code="104" Alpha2="MM" Alpha3="MMR" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="108" Alpha2="BI" Alpha3="BDI" Name="" CommonName="" OfficialName="" />
+  <Country Code="112" Alpha2="BY" Alpha3="BLR" Name="ቤሒሩስ" CommonName="" OfficialName="" />
+  <Country Code="116" Alpha2="KH" Alpha3="KHM" Name="ጢሤቦ።።" CommonName="" OfficialName="" />
+  <Country Code="120" Alpha2="CM" Alpha3="CMR" Name="ጢሣሩን" CommonName="" OfficialName="" />
+  <Country Code="124" Alpha2="CA" Alpha3="CAN" Name="" CommonName="" OfficialName="" />
+  <Country Code="132" Alpha2="CV" Alpha3="CPV" Name="ጣፕ ታሴ፤" CommonName="" OfficialName="ጣፕ ታሴ፤" />
+  <Country Code="136" Alpha2="KY" Alpha3="CYM" Name="" CommonName="" OfficialName="" />
+  <Country Code="140" Alpha2="CF" Alpha3="CAF" Name="ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ" CommonName="" OfficialName="" />
+  <Country Code="144" Alpha2="LK" Alpha3="LKA" Name="" CommonName="" OfficialName="፠ቡብ ጥሱ።" />
+  <Country Code="148" Alpha2="TD" Alpha3="TCD" Name="ኂ፥" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="152" Alpha2="CL" Alpha3="CHL" Name="ኁሑ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="156" Alpha2="CN" Alpha3="CHN" Name="ኂ፤ና" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="158" Alpha2="TW" Alpha3="TWN" Name="" CommonName="ታ፤ሒን፥" OfficialName="" />
+  <Country Code="162" Alpha2="CX" Alpha3="CXR" Name="" CommonName="" OfficialName="" />
+  <Country Code="166" Alpha2="CC" Alpha3="CCK" Name="" CommonName="" OfficialName="" />
+  <Country Code="170" Alpha2="CO" Alpha3="COL" Name="ጥሕሤቢ።" CommonName="" OfficialName="" />
+  <Country Code="174" Alpha2="KM" Alpha3="COM" Name="ጥሥስስ" CommonName="" OfficialName="" />
+  <Country Code="175" Alpha2="YT" Alpha3="MYT" Name="" CommonName="" OfficialName="" />
+  <Country Code="178" Alpha2="CG" Alpha3="COG" Name="ኮንጎ" CommonName="" OfficialName="" />
+  <Country Code="180" Alpha2="CD" Alpha3="COD" Name="ጥንጕ" CommonName="" OfficialName="" />
+  <Country Code="184" Alpha2="CK" Alpha3="COK" Name="" CommonName="" OfficialName="" />
+  <Country Code="188" Alpha2="CR" Alpha3="CRI" Name="" CommonName="" OfficialName="" />
+  <Country Code="191" Alpha2="HR" Alpha3="HRV" Name="ጤስጔቄ።" CommonName="" OfficialName="" />
+  <Country Code="192" Alpha2="CU" Alpha3="CUB" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="196" Alpha2="CY" Alpha3="CYP" Name="ሳ፤ፕረስ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="203" Alpha2="CZ" Alpha3="CZE" Name="ኃጤ ሱፑብሑጤ" CommonName="" OfficialName="" />
+  <Country Code="204" Alpha2="BJ" Alpha3="BEN" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="208" Alpha2="DK" Alpha3="DNK" Name="፤ንሢሴጤ" CommonName="" OfficialName="" />
+  <Country Code="212" Alpha2="DM" Alpha3="DMA" Name="፦ሡኒጢ" CommonName="" OfficialName="" />
+  <Country Code="214" Alpha2="DO" Alpha3="DOM" Name="፦ሡኒጤ ሱፑብሑጤ" CommonName="" OfficialName="" />
+  <Country Code="218" Alpha2="EC" Alpha3="ECU" Name="ጒጣ፦ሴ" CommonName="" OfficialName="" />
+  <Country Code="222" Alpha2="SV" Alpha3="SLV" Name="" CommonName="" OfficialName="" />
+  <Country Code="226" Alpha2="GQ" Alpha3="GNQ" Name="ጒጣቶሱ።ሔ ጑ኒ" CommonName="" OfficialName="ጒጣቶሱ።ሔ ጑ኒ" />
+  <Country Code="231" Alpha2="ET" Alpha3="ETH" Name="ጒት፥ጵ።" CommonName="" OfficialName="ጥንጕ" />
+  <Country Code="232" Alpha2="ER" Alpha3="ERI" Name="ጔሴትሲ" CommonName="" OfficialName="ጐሣሱጢ" />
+  <Country Code="233" Alpha2="EE" Alpha3="EST" Name="ጔስቶኒ።" CommonName="" OfficialName="" />
+  <Country Code="234" Alpha2="FO" Alpha3="FRO" Name="" CommonName="" OfficialName="" />
+  <Country Code="238" Alpha2="FK" Alpha3="FLK" Name="" CommonName="" OfficialName="" />
+  <Country Code="239" Alpha2="GS" Alpha3="SGS" Name="" CommonName="" OfficialName="" />
+  <Country Code="242" Alpha2="FJ" Alpha3="FJI" Name="ፑጂ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="246" Alpha2="FI" Alpha3="FIN" Name="ፑንሒን፥" CommonName="" OfficialName="" />
+  <Country Code="248" Alpha2="AX" Alpha3="ALA" Name="" CommonName="" OfficialName="" />
+  <Country Code="250" Alpha2="FR" Alpha3="FRA" Name="" CommonName="" OfficialName="ኃጤ ሱፑብሑጤ" />
+  <Country Code="254" Alpha2="GF" Alpha3="GUF" Name="ፘፈረንሳ፤ ጉፁጐና" CommonName="" OfficialName="" />
+  <Country Code="258" Alpha2="PF" Alpha3="PYF" Name="ፘፈረንሳ፤ ፖሑኔፒ።" CommonName="" OfficialName="" />
+  <Country Code="260" Alpha2="TF" Alpha3="ATF" Name="ፘፈረንሳ፤ ፠ቡባፁ ጔፒቶኄ" CommonName="" OfficialName="" />
+  <Country Code="262" Alpha2="DJ" Alpha3="DJI" Name="" CommonName="" OfficialName="" />
+  <Country Code="266" Alpha2="GA" Alpha3="GAB" Name="" CommonName="" OfficialName="ኃጤ ሱፑብሑጤ" />
+  <Country Code="268" Alpha2="GE" Alpha3="GEO" Name="ጆሴጂ።" CommonName="" OfficialName="" />
+  <Country Code="270" Alpha2="GM" Alpha3="GMB" Name="ጒሤቢ።" CommonName="" OfficialName="" />
+  <Country Code="275" Alpha2="PS" Alpha3="PSE" Name="" CommonName="" OfficialName="ጐሣሱጢ" />
+  <Country Code="276" Alpha2="DE" Alpha3="DEU" Name="ጀሴመን" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="288" Alpha2="GH" Alpha3="GHA" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="292" Alpha2="GI" Alpha3="GIB" Name="" CommonName="" OfficialName="" />
+  <Country Code="296" Alpha2="KI" Alpha3="KIR" Name="" CommonName="" OfficialName="" />
+  <Country Code="300" Alpha2="GR" Alpha3="GRC" Name="ጔሱጤ" CommonName="" OfficialName="ኃጤ ሱፑብሑጤ" />
+  <Country Code="304" Alpha2="GL" Alpha3="GRL" Name="" CommonName="" OfficialName="" />
+  <Country Code="308" Alpha2="GD" Alpha3="GRD" Name="" CommonName="" OfficialName="" />
+  <Country Code="312" Alpha2="GP" Alpha3="GLP" Name="" CommonName="" OfficialName="" />
+  <Country Code="316" Alpha2="GU" Alpha3="GUM" Name="" CommonName="" OfficialName="" />
+  <Country Code="320" Alpha2="GT" Alpha3="GTM" Name="" CommonName="" OfficialName="" />
+  <Country Code="324" Alpha2="GN" Alpha3="GIN" Name="጑ኒ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="328" Alpha2="GY" Alpha3="GUY" Name="ጉ።ና" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="332" Alpha2="HT" Alpha3="HTI" Name="ሀ፤ቲ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="334" Alpha2="HM" Alpha3="HMD" Name="" CommonName="" OfficialName="" />
+  <Country Code="336" Alpha2="VA" Alpha3="VAT" Name="" CommonName="" OfficialName="" />
+  <Country Code="340" Alpha2="HN" Alpha3="HND" Name="" CommonName="" OfficialName="" />
+  <Country Code="344" Alpha2="HK" Alpha3="HKG" Name="ሆንጔ ጥንጔ" CommonName="" OfficialName="" />
+  <Country Code="348" Alpha2="HU" Alpha3="HUN" Name="ሀንጒሱ" CommonName="" OfficialName="ሀንጒሱ" />
+  <Country Code="352" Alpha2="IS" Alpha3="ISL" Name="ጐ፤ስሒን፥" CommonName="" OfficialName="" />
+  <Country Code="356" Alpha2="IN" Alpha3="IND" Name="ህን፥" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="360" Alpha2="ID" Alpha3="IDN" Name="ጒን፦ኔፒ።" CommonName="" OfficialName="ጒን፦ኔፒ።" />
+  <Country Code="364" Alpha2="IR" Alpha3="IRN" Name="" CommonName="" OfficialName="ሥሔ፦ቲ" />
+  <Country Code="368" Alpha2="IQ" Alpha3="IRQ" Name="ጒሲቅ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="372" Alpha2="IE" Alpha3="IRL" Name="ጐፘሴሒን፥" CommonName="" OfficialName="" />
+  <Country Code="376" Alpha2="IL" Alpha3="ISR" Name="ጕስሲጔሔ" CommonName="" OfficialName="" />
+  <Country Code="380" Alpha2="IT" Alpha3="ITA" Name="ጣሑ።ን" CommonName="" OfficialName="ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ" />
+  <Country Code="384" Alpha2="CI" Alpha3="CIV" Name="" CommonName="" OfficialName="ጣፕ ታሴ፤" />
+  <Country Code="388" Alpha2="JM" Alpha3="JAM" Name="ጃሢ፤ጢ" CommonName="" OfficialName="" />
+  <Country Code="392" Alpha2="JP" Alpha3="JPN" Name="ጃፓን" CommonName="" OfficialName="" />
+  <Country Code="398" Alpha2="KZ" Alpha3="KAZ" Name="" CommonName="" OfficialName="" />
+  <Country Code="400" Alpha2="JO" Alpha3="JOR" Name="ጆሴ፣ን" CommonName="" OfficialName="" />
+  <Country Code="404" Alpha2="KE" Alpha3="KEN" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="408" Alpha2="KP" Alpha3="PRK" Name="፠ቡብ ጥሱ።" CommonName="" OfficialName="፠ቡብ ጥሱ።" />
+  <Country Code="410" Alpha2="KR" Alpha3="KOR" Name="ሰሣን ጥሱ።" CommonName="" OfficialName="" />
+  <Country Code="414" Alpha2="KW" Alpha3="KWT" Name="ጤፃት" CommonName="" OfficialName="" />
+  <Country Code="417" Alpha2="KG" Alpha3="KGZ" Name="" CommonName="" OfficialName="ኃጤ ሱፑብሑጤ" />
+  <Country Code="418" Alpha2="LA" Alpha3="LAO" Name="" CommonName="" OfficialName="" />
+  <Country Code="422" Alpha2="LB" Alpha3="LBN" Name="ሑባኖስ" CommonName="" OfficialName="ኃጤ ሱፑብሑጤ" />
+  <Country Code="426" Alpha2="LS" Alpha3="LSO" Name="" CommonName="" OfficialName="" />
+  <Country Code="428" Alpha2="LV" Alpha3="LVA" Name="ሒትቱ።" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="430" Alpha2="LR" Alpha3="LBR" Name="" CommonName="" OfficialName="" />
+  <Country Code="434" Alpha2="LY" Alpha3="LBY" Name="" CommonName="" OfficialName="" />
+  <Country Code="438" Alpha2="LI" Alpha3="LIE" Name="" CommonName="" OfficialName="" />
+  <Country Code="440" Alpha2="LT" Alpha3="LTU" Name="ሑቱፃኒ።" CommonName="" OfficialName="ሑቱፃኒ።" />
+  <Country Code="442" Alpha2="LU" Alpha3="LUX" Name="" CommonName="" OfficialName="" />
+  <Country Code="446" Alpha2="MO" Alpha3="MAC" Name="ሢጢፅ" CommonName="" OfficialName="" />
+  <Country Code="450" Alpha2="MG" Alpha3="MDG" Name="" CommonName="" OfficialName="" />
+  <Country Code="454" Alpha2="MW" Alpha3="MWI" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="458" Alpha2="MY" Alpha3="MYS" Name="ሢሓፒ።" CommonName="" OfficialName="" />
+  <Country Code="462" Alpha2="MV" Alpha3="MDV" Name="" CommonName="" OfficialName="" />
+  <Country Code="466" Alpha2="ML" Alpha3="MLI" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="470" Alpha2="MT" Alpha3="MLT" Name="ሢሔታ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="474" Alpha2="MQ" Alpha3="MTQ" Name="" CommonName="" OfficialName="" />
+  <Country Code="478" Alpha2="MR" Alpha3="MRT" Name="ሥሱቴኒ።" CommonName="" OfficialName="" />
+  <Country Code="480" Alpha2="MU" Alpha3="MUS" Name="ሢሩሸስ" CommonName="" OfficialName="ሢሩሸስ" />
+  <Country Code="484" Alpha2="MX" Alpha3="MEX" Name="ሣጤሲጥ" CommonName="" OfficialName="ጐሣሱጢ" />
+  <Country Code="492" Alpha2="MC" Alpha3="MCO" Name="" CommonName="" OfficialName="" />
+  <Country Code="496" Alpha2="MN" Alpha3="MNG" Name="ሥንጕሑ።" CommonName="" OfficialName="" />
+  <Country Code="498" Alpha2="MD" Alpha3="MDA" Name="ሥሔ፦ቲ" CommonName="" OfficialName="" />
+  <Country Code="499" Alpha2="ME" Alpha3="MNE" Name="" CommonName="" OfficialName="" />
+  <Country Code="500" Alpha2="MS" Alpha3="MSR" Name="" CommonName="" OfficialName="" />
+  <Country Code="504" Alpha2="MA" Alpha3="MAR" Name="ሥስጥ" CommonName="" OfficialName="" />
+  <Country Code="508" Alpha2="MZ" Alpha3="MOZ" Name="" CommonName="" OfficialName="" />
+  <Country Code="512" Alpha2="OM" Alpha3="OMN" Name="" CommonName="" OfficialName="" />
+  <Country Code="516" Alpha2="NA" Alpha3="NAM" Name="ናሡቢ።" CommonName="" OfficialName="" />
+  <Country Code="520" Alpha2="NR" Alpha3="NRU" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="524" Alpha2="NP" Alpha3="NPL" Name="ኔፓሔ" CommonName="" OfficialName="ጥንጕ" />
+  <Country Code="528" Alpha2="NL" Alpha3="NLD" Name="ኔፈሴሒን፥" CommonName="" OfficialName="" />
+  <Country Code="531" Alpha2="CW" Alpha3="CUW" Name="" CommonName="" OfficialName="" />
+  <Country Code="533" Alpha2="AW" Alpha3="ABW" Name="" CommonName="" OfficialName="" />
+  <Country Code="534" Alpha2="SX" Alpha3="SXM" Name="" CommonName="" OfficialName="" />
+  <Country Code="535" Alpha2="BQ" Alpha3="BES" Name="" CommonName="" OfficialName="" />
+  <Country Code="540" Alpha2="NC" Alpha3="NCL" Name="ኒፄ ጢሓ፦ኒ።" CommonName="" OfficialName="" />
+  <Country Code="548" Alpha2="VU" Alpha3="VUT" Name="" CommonName="" OfficialName="" />
+  <Country Code="554" Alpha2="NZ" Alpha3="NZL" Name="ኒፄ ፑሒን፥" CommonName="" OfficialName="" />
+  <Country Code="558" Alpha2="NI" Alpha3="NIC" Name="" CommonName="" OfficialName="" />
+  <Country Code="562" Alpha2="NE" Alpha3="NER" Name="" CommonName="" OfficialName="" />
+  <Country Code="566" Alpha2="NG" Alpha3="NGA" Name="ና፤ጄሱ።" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="570" Alpha2="NU" Alpha3="NIU" Name="" CommonName="" OfficialName="" />
+  <Country Code="574" Alpha2="NF" Alpha3="NFK" Name="" CommonName="" OfficialName="" />
+  <Country Code="578" Alpha2="NO" Alpha3="NOR" Name="ኖሴፃ" CommonName="" OfficialName="" />
+  <Country Code="580" Alpha2="MP" Alpha3="MNP" Name="" CommonName="" OfficialName="" />
+  <Country Code="581" Alpha2="UM" Alpha3="UMI" Name="" CommonName="" OfficialName="" />
+  <Country Code="583" Alpha2="FM" Alpha3="FSM" Name="ሡጤስኔፒ።" CommonName="" OfficialName="ሡጤስኔፒ።" />
+  <Country Code="584" Alpha2="MH" Alpha3="MHL" Name="" CommonName="" OfficialName="" />
+  <Country Code="585" Alpha2="PW" Alpha3="PLW" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="586" Alpha2="PK" Alpha3="PAK" Name="" CommonName="" OfficialName="" />
+  <Country Code="591" Alpha2="PA" Alpha3="PAN" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="598" Alpha2="PG" Alpha3="PNG" Name="ፓፑፂ ኒፄ ጑ኒ" CommonName="" OfficialName="ፓፑፂ ኒፄ ጑ኒ" />
+  <Country Code="600" Alpha2="PY" Alpha3="PRY" Name="" CommonName="" OfficialName="" />
+  <Country Code="604" Alpha2="PE" Alpha3="PER" Name="ፔሩ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="608" Alpha2="PH" Alpha3="PHL" Name="" CommonName="" OfficialName="" />
+  <Country Code="612" Alpha2="PN" Alpha3="PCN" Name="" CommonName="" OfficialName="" />
+  <Country Code="616" Alpha2="PL" Alpha3="POL" Name="ፖሒን፥" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="620" Alpha2="PT" Alpha3="PRT" Name="" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="624" Alpha2="GW" Alpha3="GNB" Name="ቢሳፅ" CommonName="" OfficialName="ቢሳፅ" />
+  <Country Code="626" Alpha2="TL" Alpha3="TLS" Name="ሤስሲቅ ቲሥሴ" CommonName="" OfficialName="ጥንጕ" />
+  <Country Code="630" Alpha2="PR" Alpha3="PRI" Name="ፖሴታ ሱጥ" CommonName="" OfficialName="" />
+  <Country Code="634" Alpha2="QA" Alpha3="QAT" Name="" CommonName="" OfficialName="" />
+  <Country Code="638" Alpha2="RE" Alpha3="REU" Name="" CommonName="" OfficialName="" />
+  <Country Code="642" Alpha2="RO" Alpha3="ROU" Name="ስሣኒ።" CommonName="" OfficialName="" />
+  <Country Code="643" Alpha2="RU" Alpha3="RUS" Name="ሲቁ።" CommonName="" OfficialName="" />
+  <Country Code="646" Alpha2="RW" Alpha3="RWA" Name="" CommonName="" OfficialName="ኃጤ ሱፑብሑጤ" />
+  <Country Code="652" Alpha2="BL" Alpha3="BLM" Name="" CommonName="" OfficialName="" />
+  <Country Code="654" Alpha2="SH" Alpha3="SHN" Name="" CommonName="" OfficialName="" />
+  <Country Code="659" Alpha2="KN" Alpha3="KNA" Name="" CommonName="" OfficialName="" />
+  <Country Code="660" Alpha2="AI" Alpha3="AIA" Name="" CommonName="" OfficialName="" />
+  <Country Code="662" Alpha2="LC" Alpha3="LCA" Name="" CommonName="" OfficialName="" />
+  <Country Code="663" Alpha2="MF" Alpha3="MAF" Name="" CommonName="" OfficialName="" />
+  <Country Code="666" Alpha2="PM" Alpha3="SPM" Name="" CommonName="" OfficialName="" />
+  <Country Code="670" Alpha2="VC" Alpha3="VCT" Name="" CommonName="" OfficialName="" />
+  <Country Code="674" Alpha2="SM" Alpha3="SMR" Name="" CommonName="" OfficialName="" />
+  <Country Code="678" Alpha2="ST" Alpha3="STP" Name="" CommonName="" OfficialName="" />
+  <Country Code="682" Alpha2="SA" Alpha3="SAU" Name="ሳፄ፥ጐረቢ።" CommonName="" OfficialName="ሳፄ፥ጐረቢ።" />
+  <Country Code="686" Alpha2="SN" Alpha3="SEN" Name="ሴኔጒሔ" CommonName="" OfficialName="" />
+  <Country Code="688" Alpha2="RS" Alpha3="SRB" Name="ጐፈሴባጃን" CommonName="" OfficialName="ጐፈሴባጃን" />
+  <Country Code="690" Alpha2="SC" Alpha3="SYC" Name="" CommonName="" OfficialName="" />
+  <Country Code="694" Alpha2="SL" Alpha3="SLE" Name="" CommonName="" OfficialName="" />
+  <Country Code="702" Alpha2="SG" Alpha3="SGP" Name="ሲንጒፖሴ" CommonName="" OfficialName="ሲንጒፖሴ" />
+  <Country Code="703" Alpha2="SK" Alpha3="SVK" Name="ስሕቲጡ።" CommonName="" OfficialName="ሥሔ፦ቲ" />
+  <Country Code="704" Alpha2="VN" Alpha3="VNM" Name="" CommonName="" OfficialName="" />
+  <Country Code="705" Alpha2="SI" Alpha3="SVN" Name="ስሕታኒ።" CommonName="" OfficialName="" />
+  <Country Code="706" Alpha2="SO" Alpha3="SOM" Name="ሱሢሓ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="710" Alpha2="ZA" Alpha3="ZAF" Name="፠ቡብ ጐፔሱጢ" CommonName="" OfficialName="፠ቡብ ጐፔሱጢ" />
+  <Country Code="716" Alpha2="ZW" Alpha3="ZWE" Name="ፒሤቢ።" CommonName="" OfficialName="" />
+  <Country Code="724" Alpha2="ES" Alpha3="ESP" Name="ስፔን" CommonName="" OfficialName="" />
+  <Country Code="728" Alpha2="SS" Alpha3="SSD" Name="፠ቡብ ጐፔሱጢ" CommonName="" OfficialName="፠ቡብ ጐፔሱጢ" />
+  <Country Code="729" Alpha2="SD" Alpha3="SDN" Name="ሱ፣ን" CommonName="" OfficialName="" />
+  <Country Code="732" Alpha2="EH" Alpha3="ESH" Name="ሤፅሲባፁ ሳህሲ" CommonName="" OfficialName="" />
+  <Country Code="740" Alpha2="SR" Alpha3="SUR" Name="" CommonName="" OfficialName="" />
+  <Country Code="744" Alpha2="SJ" Alpha3="SJM" Name="" CommonName="" OfficialName="" />
+  <Country Code="748" Alpha2="SZ" Alpha3="SWZ" Name="" CommonName="" OfficialName="" />
+  <Country Code="752" Alpha2="SE" Alpha3="SWE" Name="ስፁ፥ን" CommonName="" OfficialName="" />
+  <Country Code="756" Alpha2="CH" Alpha3="CHE" Name="ስፁፈሴሒን፥" CommonName="" OfficialName="ሲቁ።" />
+  <Country Code="760" Alpha2="SY" Alpha3="SYR" Name="ሲሱ።" CommonName="" OfficialName="" />
+  <Country Code="762" Alpha2="TJ" Alpha3="TJK" Name="ታጃጡስታን" CommonName="" OfficialName="ታጃጡስታን" />
+  <Country Code="764" Alpha2="TH" Alpha3="THA" Name="ታ፤ሒን፥" CommonName="" OfficialName="" />
+  <Country Code="768" Alpha2="TG" Alpha3="TGO" Name="" CommonName="" OfficialName="ኃጤ ሱፑብሑጤ" />
+  <Country Code="772" Alpha2="TK" Alpha3="TKL" Name="" CommonName="" OfficialName="" />
+  <Country Code="776" Alpha2="TO" Alpha3="TON" Name="" CommonName="" OfficialName="" />
+  <Country Code="780" Alpha2="TT" Alpha3="TTO" Name="ትሱኒ፣፥ ጕና ቶባጕ" CommonName="" OfficialName="ትሱኒ፣፥ ጕና ቶባጕ" />
+  <Country Code="784" Alpha2="AE" Alpha3="ARE" Name="ፘተባበሩት ጐረብ ጔሤሳትስ" CommonName="" OfficialName="" />
+  <Country Code="788" Alpha2="TN" Alpha3="TUN" Name="ቱኒፑ።" CommonName="" OfficialName="" />
+  <Country Code="792" Alpha2="TR" Alpha3="TUR" Name="ቱሴጤ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="795" Alpha2="TM" Alpha3="TKM" Name="" CommonName="" OfficialName="" />
+  <Country Code="796" Alpha2="TC" Alpha3="TCA" Name="" CommonName="" OfficialName="" />
+  <Country Code="798" Alpha2="TV" Alpha3="TUV" Name="" CommonName="" OfficialName="" />
+  <Country Code="800" Alpha2="UG" Alpha3="UGA" Name="ፙጒን፣" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="804" Alpha2="UA" Alpha3="UKR" Name="" CommonName="" OfficialName="" />
+  <Country Code="807" Alpha2="MK" Alpha3="MKD" Name="ሥሔ፦ቲ" CommonName="" OfficialName="ሢጘ፦ኒ።" />
+  <Country Code="818" Alpha2="EG" Alpha3="EGY" Name="ጔብፄ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="826" Alpha2="GB" Alpha3="GBR" Name="ጕንጔሑፔ" CommonName="" OfficialName="" />
+  <Country Code="831" Alpha2="GG" Alpha3="GGY" Name="" CommonName="" OfficialName="" />
+  <Country Code="832" Alpha2="JE" Alpha3="JEY" Name="" CommonName="" OfficialName="" />
+  <Country Code="833" Alpha2="IM" Alpha3="IMN" Name="" CommonName="" OfficialName="" />
+  <Country Code="834" Alpha2="TZ" Alpha3="TZA" Name="ታንፒኒ።" CommonName="" OfficialName="ታንፒኒ።" />
+  <Country Code="840" Alpha2="US" Alpha3="USA" Name="ጐሣሱጢ" CommonName="" OfficialName="ጐሣሱጢ" />
+  <Country Code="850" Alpha2="VI" Alpha3="VIR" Name="ፘጐሣሱጢ ቨሴጂን ፠ሴቶኄ" CommonName="" OfficialName="ፘጕንጔሑፔ ፥ንጔሔ ፠ሴቶኄ" />
+  <Country Code="854" Alpha2="BF" Alpha3="BFA" Name="" CommonName="" OfficialName="" />
+  <Country Code="858" Alpha2="UY" Alpha3="URY" Name="" CommonName="" OfficialName="" />
+  <Country Code="860" Alpha2="UZ" Alpha3="UZB" Name="ፙፔበጡስታን" CommonName="" OfficialName="ፙፔበጡስታን" />
+  <Country Code="862" Alpha2="VE" Alpha3="VEN" Name="ሥሔ፦ቲ" CommonName="ታንፉፃሒ" OfficialName="ሥሔ፦ቲ" />
+  <Country Code="876" Alpha2="WF" Alpha3="WLF" Name="" CommonName="" OfficialName="" />
+  <Country Code="882" Alpha2="WS" Alpha3="WSM" Name="" CommonName="" OfficialName="" />
+  <Country Code="887" Alpha2="YE" Alpha3="YEM" Name="ፘመን" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+  <Country Code="894" Alpha2="ZM" Alpha3="ZMB" Name="ዛምቢያ" CommonName="" OfficialName="ሰሣን ጥሱ።" />
+</Countries>

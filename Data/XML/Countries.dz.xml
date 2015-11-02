@@ -1,0 +1,251 @@
+<Countries>
+  <Country Code="004" Alpha2="AF" Alpha3="AFG" Name="ཨཕ་ག་ནིསི་ཏཱན།" CommonName="" OfficialName="ཨཕ་ག་ནིསི་ཏཱན་ རི་པg་ལིག་ སི་ལ་མིག་ " />
+  <Country Code="008" Alpha2="AL" Alpha3="ALB" Name="ཨཱལ་བ་ནི་ཡ།" CommonName="" OfficialName="ཨཱལ་བ་ནི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="010" Alpha2="AQ" Alpha3="ATA" Name="ཨེན་ཊར་ཊི་ཀ།" CommonName="" OfficialName="" />
+  <Country Code="012" Alpha2="DZ" Alpha3="DZA" Name="ཨཱལ་ཇི་རི་ཡ།" CommonName="" OfficialName="ཨཱལ་ཇི་རི་ཡ་གི་མི་སེར་དམངས་གཙོའི་ རྒྱལ་ཁབ།" />
+  <Country Code="016" Alpha2="AS" Alpha3="ASM" Name="ཨ་མི་རི་ཀཱན་ ས་མོ་འ།" CommonName="" OfficialName="" />
+  <Country Code="020" Alpha2="AD" Alpha3="AND" Name="ཨེན་ཌོ་ར།" CommonName="" OfficialName="ཨེན་ཌོ་ར་ རྒྱལ་ཕྲན་ རྒྱལ་ཁབ།" />
+  <Country Code="024" Alpha2="AO" Alpha3="AGO" Name="ཨེང་གོ་ལ།" CommonName="" OfficialName="ཨེང་གོ་ལའི་་མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="028" Alpha2="AG" Alpha3="ATG" Name="ཨེན་ཊི་གུའ་དང་ བར་བུ་ཌ།" CommonName="" OfficialName="" />
+  <Country Code="031" Alpha2="AZ" Alpha3="AZE" Name="ཨ་ཛར་བ་ཡེ་ཇཱན།" CommonName="" OfficialName="ཨ་ཛར་བ་ཡེ་ཇཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="032" Alpha2="AR" Alpha3="ARG" Name="ཨར་ཇེན་ཊི་ན།" CommonName="" OfficialName="ཨར་ཇེན་ཊི་ནའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="036" Alpha2="AU" Alpha3="AUS" Name="ཨཱསི་ཊ་ལི་ཡ།" CommonName="" OfficialName="" />
+  <Country Code="040" Alpha2="AT" Alpha3="AUT" Name="ཨཱསི་ཊི་ཡ།" CommonName="" OfficialName="ཨཱསི་ཊི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="044" Alpha2="BS" Alpha3="BHS" Name="བ་ཧ་མཱསི།" CommonName="" OfficialName="བ་ཧ་མཱསི་རྒྱལ་ཁབ་ཀྱི་ མཐུན་མོངས་འབྱོར་པ།" />
+  <Country Code="048" Alpha2="BH" Alpha3="BHR" Name="བཱ་རེན།" CommonName="" OfficialName="བྷ་རེན་ རྒྱལ་ཁབ་" />
+  <Country Code="050" Alpha2="BD" Alpha3="BGD" Name="བང་ལ་དེཤི།" CommonName="" OfficialName="བང་ལ་དེཤི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="051" Alpha2="AM" Alpha3="ARM" Name="ཨར་མི་ནི་ཡ།" CommonName="" OfficialName="ཨར་མི་ནི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="052" Alpha2="BB" Alpha3="BRB" Name="བར་བ་ཌོསི།" CommonName="" OfficialName="" />
+  <Country Code="056" Alpha2="BE" Alpha3="BEL" Name="བེལ་ཇི་ཡམ།" CommonName="" OfficialName="བེལ་ཇི་ཡམ་ རྒྱལ་བརྒྱུད་ རྒྱལ་ཁབ།" />
+  <Country Code="060" Alpha2="BM" Alpha3="BMU" Name="བར་མུ་ད།" CommonName="" OfficialName="" />
+  <Country Code="064" Alpha2="BT" Alpha3="BTN" Name="འབྲུག།" CommonName="" OfficialName="འབྲུག་ རྒྱལ་བརྒྱུད་ རྒྱལ་ཁབ།" />
+  <Country Code="068" Alpha2="BO" Alpha3="BOL" Name="བོ་ལི་ཝ་ཡ་ པུ་ལུ་རི་ནེ་ཤཱ་ནལ་མངའ་སྡེ་" CommonName="བོ་ལི་བི་ཡ།" OfficialName="བོ་ལི་ཝ་ཡ་གི་ པུ་ལུ་རི་ནེ་ཤཱ་ནལ་མངའ་སྡེ་" />
+  <Country Code="070" Alpha2="BA" Alpha3="BIH" Name="བཱོས་ནི་ཡ་དང་ཧར་ཟི་གཱོ་བཱི་ནཱ།" CommonName="" OfficialName="བཱོས་ནི་ཡ་དང་ཧར་ཟི་གཱོ་བཱི་ནཱའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="072" Alpha2="BW" Alpha3="BWA" Name="བཱོཊསི་ཝ་ན།" CommonName="" OfficialName="བཱོཊསི་ཝ་ན་ མི་སེར་ རྒྱལ་ཁབ།" />
+  <Country Code="074" Alpha2="BV" Alpha3="BVT" Name="བའུ་བེཊི་ ཨའི་ལེནཌི།" CommonName="" OfficialName="" />
+  <Country Code="076" Alpha2="BR" Alpha3="BRA" Name="བ་ར་ཛིལ།" CommonName="" OfficialName="བ་ར་ཛིལ་གྱི་ མི་སེར་སྤྱི་མཐུན་ རྒྱལ་ཁབ།" />
+  <Country Code="084" Alpha2="BZ" Alpha3="BLZ" Name="བེ་ལིཛི།" CommonName="" OfficialName="" />
+  <Country Code="086" Alpha2="IO" Alpha3="IOT" Name="བིརི་ཊིཤ་ ཨིན་ཌི་ཡཱན་ ཨོ་ཤི་ཡཱན་ ཊེ་རི་ཊོ་རི།(ཕྱི་གླིངཔ་དང་རྒྱ་གར་གྱི་རྒྱ་མཚོའི་དབང་བསྒྱུར་ས་ཁོངས)།" CommonName="" OfficialName="" />
+  <Country Code="090" Alpha2="SB" Alpha3="SLB" Name="སོ་ལོ་མཱོན་ ཨའི་ལེནཌིསི།" CommonName="" OfficialName="" />
+  <Country Code="092" Alpha2="VG" Alpha3="VGB" Name="ཝར་ཇིན་ ཨའི་ལེནཌིསི་ བིརི་ཊིཤི།" CommonName="" OfficialName="བིརི་ཊིཤི་ཝརཇིན་ ཨའི་ལེནཌིསི་།" />
+  <Country Code="096" Alpha2="BN" Alpha3="BRN" Name="བུ་རུ་ན་ཡེ་ ད་རུ་ས་ལམ།" CommonName="" OfficialName="" />
+  <Country Code="100" Alpha2="BG" Alpha3="BGR" Name="བཱལ་ག་རི་ཡ།" CommonName="" OfficialName="བཱལ་ག་རི་ཡའི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="104" Alpha2="MM" Alpha3="MMR" Name="མི་ཡཱན་མར།" CommonName="" OfficialName="གུ་ཡ་ན་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="108" Alpha2="BI" Alpha3="BDI" Name="བུ་རུན་ཌ་ཡེ།" CommonName="" OfficialName="བུ་རུན་ཌ་ཡེའི་ མི་སེར་ རྒྱལ་ཁབ།" />
+  <Country Code="112" Alpha2="BY" Alpha3="BLR" Name="བེ་ལ་རཱསི།" CommonName="" OfficialName="བེ་ལ་རཱསི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="116" Alpha2="KH" Alpha3="KHM" Name="ཀམ་བོ་ཌི་ཡ།" CommonName="" OfficialName="ཀམ་བོ་ཌི་ཡ་ རྒྱལ་བརྒྱུད་རྒྱལ་ཁབ།" />
+  <Country Code="120" Alpha2="CM" Alpha3="CMR" Name="ཀེ་མི་རཱུན།" CommonName="" OfficialName="ཀེ་མི་རཱུན་ མི་སེརརྒྱལ་ཁབ།" />
+  <Country Code="124" Alpha2="CA" Alpha3="CAN" Name="ཀེ་ན་ཌ།" CommonName="" OfficialName="" />
+  <Country Code="132" Alpha2="CV" Alpha3="CPV" Name="ཀེཔ་-བར་དི།" CommonName="" OfficialName="ཀེཔ་-བར་དིའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="136" Alpha2="KY" Alpha3="CYM" Name="ཀེ་མཱན་ ཨའི་ལེནཌིསི།" CommonName="" OfficialName="" />
+  <Country Code="140" Alpha2="CF" Alpha3="CAF" Name="དབུས་ ཨཕ་རི་ཀཱན་ རི་པཔ་ལིཀ།" CommonName="" OfficialName="" />
+  <Country Code="144" Alpha2="LK" Alpha3="LKA" Name="སི་རི་ལང་ཀ།(ཤྲི་ལངྐ་)" CommonName="" OfficialName="སི་རི་ལང་ཀའི  དམང་གཙོ་ སྤྱི་ཚོགས་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="148" Alpha2="TD" Alpha3="TCD" Name="ཆཌི།" CommonName="" OfficialName="ཆཌི་མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="152" Alpha2="CL" Alpha3="CHL" Name="ཅི་ལི།" CommonName="" OfficialName="ཅི་ལིའི་ མི་སེར་་རྒྱལ་ཁབ།" />
+  <Country Code="156" Alpha2="CN" Alpha3="CHN" Name="ཅ་ཡེ་ན།(རྒྱ་ནག)" CommonName="" OfficialName="ཅ་ཡེ་ན།རྒྱ་ནག་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="158" Alpha2="TW" Alpha3="TWN" Name="ཏ་ཡེ་ཝཱན་ ཅ་ཡེ་ནའི་མངའ་རིས།" CommonName="ཏ་ཡེ་ཝཱན།" OfficialName="ཏ་ཡེ་ཝཱན་ ཅ་ཡེ་ནའི་མངའ་རིས།" />
+  <Country Code="162" Alpha2="CX" Alpha3="CXR" Name="ཀིརིསིཊི་མཱསི་ ཨའི་ལེནཌི།" CommonName="" OfficialName="" />
+  <Country Code="166" Alpha2="CC" Alpha3="CCK" Name="ཀོ་ཀོསི་(ཀི་ལིང་)ཨའི་ལེནཌིསི།" CommonName="" OfficialName="" />
+  <Country Code="170" Alpha2="CO" Alpha3="COL" Name="ཀོ་ལོམ་བི་ཡ།" CommonName="" OfficialName="ཀོ་ལོམ་བི་ཡ་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="174" Alpha2="KM" Alpha3="COM" Name="ཀོ་མོ་རཱོསི།" CommonName="" OfficialName="ཀོ་མོ་རཱོསི་ ཡུ་ནི་ཡཱན་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="175" Alpha2="YT" Alpha3="MYT" Name="མ་ཡོ་ཊི།" CommonName="" OfficialName="" />
+  <Country Code="178" Alpha2="CG" Alpha3="COG" Name="ཀོང་གོ།" CommonName="" OfficialName="ཀོང་གོ་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="180" Alpha2="CD" Alpha3="COD" Name="ཀོང་གོ་ མི་སེར་དམང་གཙོའི་ རྒྱལ་ཁབ།" CommonName="" OfficialName="" />
+  <Country Code="184" Alpha2="CK" Alpha3="COK" Name="ཀུཀ་ ཨའི་ལེནཌིསི།" CommonName="" OfficialName="" />
+  <Country Code="188" Alpha2="CR" Alpha3="CRI" Name="ཀཱོསི་ཊ་རི་ཀ།" CommonName="" OfficialName="ཀཱོསི་ཊ་རི་ཀ་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="191" Alpha2="HR" Alpha3="HRV" Name="ཀོརོ་ཤི་ཡ།" CommonName="" OfficialName="ཀོརོ་ཤི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="192" Alpha2="CU" Alpha3="CUB" Name="ཀུས་བ།" CommonName="" OfficialName="ཀུས་བའི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="196" Alpha2="CY" Alpha3="CYP" Name="སའི་པརཱསི།" CommonName="" OfficialName="སའི་པརཱསི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="203" Alpha2="CZ" Alpha3="CZE" Name="ཅེཛི་ རི་པཔ་ལིཀ།" CommonName="" OfficialName="" />
+  <Country Code="204" Alpha2="BJ" Alpha3="BEN" Name="བེ་ནིན།" CommonName="" OfficialName="བེ་ནིན མི་སེར་་རྒྱལ་ཁབ།" />
+  <Country Code="208" Alpha2="DK" Alpha3="DNK" Name="ཌེན་མཱརཀ།" CommonName="" OfficialName="ཌེན་མཱརཀ་ རྒྱལ་རྒྱུད་ཀྱི་རྒྱལ་ཁབ།" />
+  <Country Code="212" Alpha2="DM" Alpha3="DMA" Name="ཌོ་མི་ནི་ཀ།" CommonName="" OfficialName="ཌོ་མི་ནི་ཀའི ཐུན་མོངས་ཀྱི་ འབྱོར་པ།" />
+  <Country Code="214" Alpha2="DO" Alpha3="DOM" Name="ཌོ་མི་ནི་ཀཱན་ རི་པཔ་ལིཀ།" CommonName="" OfficialName="" />
+  <Country Code="218" Alpha2="EC" Alpha3="ECU" Name="ཨི་ཀུཡེ་ཌོར།" CommonName="" OfficialName="ཨི་ཀུཡེ་ཌོར་ མི་སེར་གྱི་ རྒྱལ་ཁབ།" />
+  <Country Code="222" Alpha2="SV" Alpha3="SLV" Name="ཨེལ་ སཱལ་བེ་ཌོར།" CommonName="" OfficialName="ཨེལ་ སཱལ་བེ་ཌོར་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="226" Alpha2="GQ" Alpha3="GNQ" Name="ཨི་ཀུཡེ་ཊོ་རི་ཡཱལ་ གི་ནི།" CommonName="" OfficialName="ཨི་ཀུཡེ་ཊོ་རི་ཡཱལ་ གི་ནི་འི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="231" Alpha2="ET" Alpha3="ETH" Name="ཨི་ཐོ་པི་ཡ།" CommonName="" OfficialName="ཨི་ཐོ་པི་ཡ་ སྤྱི་མཐུན་སྲིད་གཞུང་ དམང་གཙོའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="232" Alpha2="ER" Alpha3="ERI" Name="ཨི་རི་ཊི།" CommonName="" OfficialName="ཡུ་ན་ཡེ་ཊེཊི་ སིཊེཊིསི་ཨཱོཕ་ཨ་མི་རི་ཀ" />
+  <Country Code="233" Alpha2="EE" Alpha3="EST" Name="ཨིསི་ཊོ་ནི་ཡ།" CommonName="" OfficialName="ཨིསི་ཊོ་ནི་ཡའི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="234" Alpha2="FO" Alpha3="FRO" Name="ཕ་རོའི་ ཨའི་ལེནཌིསི།" CommonName="" OfficialName="" />
+  <Country Code="238" Alpha2="FK" Alpha3="FLK" Name="ཕཱལཀ་ལེནཌི་ མཚོ་གླིང་ (མཱལ་ཝི་ནཱསི)" CommonName="" OfficialName="" />
+  <Country Code="239" Alpha2="GS" Alpha3="SGS" Name="ལྷོ་ ཇོར་ཇི་ཡ་ དང་ ལྷོ་ སེནཌི་ཝིཅ་ ཨའི་ལེནཌིསི།" CommonName="" OfficialName="" />
+  <Country Code="242" Alpha2="FJ" Alpha3="FJI" Name="ཕི་ཇི།" CommonName="" OfficialName="ཧའི་ཏིའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="246" Alpha2="FI" Alpha3="FIN" Name="ཕིན་ལེནཌི།" CommonName="" OfficialName="ཕིན་ལེནཌི་གྱི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="248" Alpha2="AX" Alpha3="ALA" Name="ཨཱ་ལེནཌི་ མཚོ་གླིང།" CommonName="" OfficialName="" />
+  <Country Code="250" Alpha2="FR" Alpha3="FRA" Name="ཕརཱནསི།" CommonName="" OfficialName="ཕརེནཆི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="254" Alpha2="GF" Alpha3="GUF" Name="ཕེརེནཆི་ གུའི་ན།" CommonName="" OfficialName="" />
+  <Country Code="258" Alpha2="PF" Alpha3="PYF" Name="ཕེརེནཆི་ པོ་ལི་ནི་སི་ཡ།" CommonName="" OfficialName="" />
+  <Country Code="260" Alpha2="TF" Alpha3="ATF" Name="ཕེརེནཆི་ ལྷོ་ཕྱོགས་དབང་བསྒྱུར་ས་ཁོངས།" CommonName="" OfficialName="" />
+  <Country Code="262" Alpha2="DJ" Alpha3="DJI" Name="ཇི་བའོ་ཊི།" CommonName="" OfficialName="ཇི་བའོ་ཊིའི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="266" Alpha2="GA" Alpha3="GAB" Name="གེ་བཱོན།" CommonName="" OfficialName="གེ་བཱོན་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="268" Alpha2="GE" Alpha3="GEO" Name="ཇིའོར་ཇི་ཡ།" CommonName="" OfficialName="" />
+  <Country Code="270" Alpha2="GM" Alpha3="GMB" Name="གམ་བོ་ནི་ཡ།" CommonName="" OfficialName="གམ་བོ་ནི་ཡའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="275" Alpha2="PS" Alpha3="PSE" Name="" CommonName="" OfficialName="ཡུ་ན་ཡེ་ཊེཊི་ སིཊེཊིསི་ཨཱོཕ་ཨ་མི་རི་ཀ" />
+  <Country Code="276" Alpha2="DE" Alpha3="DEU" Name="ཇར་མ་ནི།" CommonName="" OfficialName="ཇར་མ་ནི་ སྤྱི་མཐུན་སྲིད་གཞུང མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="288" Alpha2="GH" Alpha3="GHA" Name="གྷ་ན།" CommonName="" OfficialName="གྷ་ན་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="292" Alpha2="GI" Alpha3="GIB" Name="ཇིབ་རཱལ་ཊར།" CommonName="" OfficialName="" />
+  <Country Code="296" Alpha2="KI" Alpha3="KIR" Name="ཀི་རི་བ་ཏི།" CommonName="" OfficialName="ཀི་རི་བ་ཏི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="300" Alpha2="GR" Alpha3="GRC" Name="གིརིསི་།" CommonName="" OfficialName="ཧི་ལི་ནིཀ་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="304" Alpha2="GL" Alpha3="GRL" Name="གིརིན་ལེནཌི།" CommonName="" OfficialName="" />
+  <Country Code="308" Alpha2="GD" Alpha3="GRD" Name="གིརི་ན་ཌ།" CommonName="" OfficialName="" />
+  <Country Code="312" Alpha2="GP" Alpha3="GLP" Name="གུ་འ་དི་ལོཔ།" CommonName="" OfficialName="" />
+  <Country Code="316" Alpha2="GU" Alpha3="GUM" Name="གུའམ།" CommonName="" OfficialName="" />
+  <Country Code="320" Alpha2="GT" Alpha3="GTM" Name="གའུ་ཏི་མ་ལ།" CommonName="" OfficialName="གའུ་ཏི་མ་ལའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="324" Alpha2="GN" Alpha3="GIN" Name="གི་ནི།" CommonName="" OfficialName="གི་ནི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="328" Alpha2="GY" Alpha3="GUY" Name="གུ་ཡ་ན། " CommonName="" OfficialName="གུ་ཡ་ན་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="332" Alpha2="HT" Alpha3="HTI" Name="ཧའི་ཏི།" CommonName="" OfficialName="ཧའི་ཏིའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="334" Alpha2="HM" Alpha3="HMD" Name="ཧརཌ་མཚོ་གླིང་དང་ཨེམ་སི་ ཌའུན་ལེནཌ་ མཚོ་གལིང།" CommonName="" OfficialName="" />
+  <Country Code="336" Alpha2="VA" Alpha3="VAT" Name="ཧོ་ལི་སཱི་ (བཱ་ཊི་ཀན་ སི་ཊི་ སི་ཊེཊི།)" CommonName="" OfficialName="" />
+  <Country Code="340" Alpha2="HN" Alpha3="HND" Name="ཧཱོན་ཌུ་རཱསི།" CommonName="" OfficialName="ཧཱོན་ཌུ་རཱསི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="344" Alpha2="HK" Alpha3="HKG" Name="ཧོང་ཀོང་" CommonName="" OfficialName="ཧོང་ཀོང་ ཅ་ཡེ་ན་གི་དམིགས་བསལ་ བདག་སྐྱོང་ ལུང་ཕྱོགས།" />
+  <Country Code="348" Alpha2="HU" Alpha3="HUN" Name="ཧང་ག་རི།" CommonName="" OfficialName="ཧང་ག་རི།" />
+  <Country Code="352" Alpha2="IS" Alpha3="ISL" Name="ཨའིསི་ལེནཌི།" CommonName="" OfficialName="ཨའིསི་ལེནཌི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="356" Alpha2="IN" Alpha3="IND" Name="རྒྱ་གར།" CommonName="" OfficialName="རྒྱ་གར་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="360" Alpha2="ID" Alpha3="IDN" Name="ཨིན་ཌོ་ནེ་ཤི་ཡ།" CommonName="" OfficialName="ཨིན་ཌོ་ནེ་ཤི་ཡ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="364" Alpha2="IR" Alpha3="IRN" Name="ཨི་རཱན་  ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།" CommonName="" OfficialName="ཨི་རཱན་གྱི་ ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="368" Alpha2="IQ" Alpha3="IRQ" Name="ཨི་རཀ།" CommonName="" OfficialName="ཨི་རཀ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="372" Alpha2="IE" Alpha3="IRL" Name="ཨའི་རི་ལེནཌི།" CommonName="" OfficialName="" />
+  <Country Code="376" Alpha2="IL" Alpha3="ISR" Name="ཨིཛི་རེལ།" CommonName="" OfficialName="ཨིཛི་རེལ་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="380" Alpha2="IT" Alpha3="ITA" Name="ཨི་ཊ་ལི།" CommonName="" OfficialName="ཨི་ཊ་ལཱེན་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="384" Alpha2="CI" Alpha3="CIV" Name="ཀོཊི་ ཌི་ཨའི་བོ་རི།" CommonName="" OfficialName="ཀོཊི་ ཌི་ཨའི་བོ་རིའི་ རི་པཔ་ལིག་" />
+  <Country Code="388" Alpha2="JM" Alpha3="JAM" Name="ཇ་མའི་ཀ" CommonName="" OfficialName="" />
+  <Country Code="392" Alpha2="JP" Alpha3="JPN" Name="ཇ་པཱན།" CommonName="" OfficialName="" />
+  <Country Code="398" Alpha2="KZ" Alpha3="KAZ" Name="ཀ་ཛཀསི་ཏཱན།" CommonName="" OfficialName="ཀ་ཛཀསི་ཏཱན་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="400" Alpha2="JO" Alpha3="JOR" Name="ཇོར་ཌན།" CommonName="" OfficialName="ཇོར་ཌན་ ཧཤི་མིཊི་ རྒྱལ་རྒྱུད་ཀྱི་ རྒྱལ་ཁབ།" />
+  <Country Code="404" Alpha2="KE" Alpha3="KEN" Name="ཀེན་ཡ།" CommonName="" OfficialName="ཀེན་ཡ་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="408" Alpha2="KP" Alpha3="PRK" Name="ཀོ་རི་ཡ། ཌེ་མོ་ཀེརེ་ཊིཀ་ པི་པཱལསི་ རི་པཔ་ལིཀ་ ཨོཕ་" CommonName="" OfficialName="ཀོ་རི་ཡ་ དམང་གཙོའི མི་སེར་་རྒྱལ་ཁབ།" />
+  <Country Code="410" Alpha2="KR" Alpha3="KOR" Name="ཀོ་རི་ཡ། རི་པཔ་ལིཀ་ ཨོཕ་" CommonName="" OfficialName="" />
+  <Country Code="414" Alpha2="KW" Alpha3="KWT" Name="ཀུ་ཝེཊི།" CommonName="" OfficialName="ཀུ་ཝེཊི་གི་རྒྱལ་ཁབ།" />
+  <Country Code="417" Alpha2="KG" Alpha3="KGZ" Name="ཀར་གིཛི་ཏཱན།" CommonName="" OfficialName="ཀར་གིཛི་ཏཱན་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="418" Alpha2="LA" Alpha3="LAO" Name="ལེཝོ་ མི་སེར་གྱི་དམང་གཙོའི་གཞུང་།" CommonName="" OfficialName="" />
+  <Country Code="422" Alpha2="LB" Alpha3="LBN" Name="ལེ་བ་ནཱོན།" CommonName="" OfficialName="ལེ་བ་ནཱིནསི་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="426" Alpha2="LS" Alpha3="LSO" Name="ལི་སོ་ཐོ།" CommonName="" OfficialName="ལི་སོ་ཐོ་ རྒྱལ་བརྒྱུད་རྒྱལ་ཁབ།" />
+  <Country Code="428" Alpha2="LV" Alpha3="LVA" Name="ལེཊི་བི་ཡ།" CommonName="" OfficialName="ལེཊི་བི་ཡ་ མི་སིར་རྒྱལ་ཁབ།" />
+  <Country Code="430" Alpha2="LR" Alpha3="LBR" Name="ལི་བི་རི་ཡ།" CommonName="" OfficialName="ལི་བི་རི་ཡ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="434" Alpha2="LY" Alpha3="LBY" Name="ལིབ་ཡ་" CommonName="" OfficialName="ལིབ་ཡ་" />
+  <Country Code="438" Alpha2="LI" Alpha3="LIE" Name="ལིཆི་ཊེནསི་ཊིན།" CommonName="" OfficialName="ལིཆི་ཊེནསི་ཊིན་གྱི་ རྒྱལ་ཕྲན།" />
+  <Country Code="440" Alpha2="LT" Alpha3="LTU" Name="ལི་ཐུ་ནི་ཡ།" CommonName="" OfficialName="ལི་ཐུ་ནི་ཡ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="442" Alpha2="LU" Alpha3="LUX" Name="ལག་ཟེམ་བཱརག།" CommonName="" OfficialName="ལག་ཟེམ་བཱརག་གྱི་ གཱརནཌི་ ཌ་ཆི།" />
+  <Country Code="446" Alpha2="MO" Alpha3="MAC" Name="མ་ཀའོ།" CommonName="" OfficialName="མས་ཀོ་ ཅ་ཡེ་ནའི་ དམིགས་བསལ་ བདག་སྐྱོང་ ལུང་ཕྱོགས།" />
+  <Country Code="450" Alpha2="MG" Alpha3="MDG" Name="མ་ད་གཱསི་ཀར།" CommonName="" OfficialName="མ་ད་གཱསི་ཀར མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="454" Alpha2="MW" Alpha3="MWI" Name="མ་ལ་ཝི།" CommonName="" OfficialName="མ་ལ་ཝི་ མིསེར་རྒྱལ་ཁབ།" />
+  <Country Code="458" Alpha2="MY" Alpha3="MYS" Name="མ་ལེ་ཤི་ཡ།" CommonName="" OfficialName="" />
+  <Country Code="462" Alpha2="MV" Alpha3="MDV" Name="མེལ་ཌིབསི།" CommonName="" OfficialName=" མེལ་ཌིབསི་ མིསེར་རྒྱལ་ཁབ།" />
+  <Country Code="466" Alpha2="ML" Alpha3="MLI" Name="མ་ལི།" CommonName="" OfficialName="མ་ལི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="470" Alpha2="MT" Alpha3="MLT" Name="མཱལ་ཊ་ མི་སེར་རྒྱལ་ཁབ།" CommonName="" OfficialName="མཱལ་ཊ" />
+  <Country Code="474" Alpha2="MQ" Alpha3="MTQ" Name="མར་ཊི་ནིཀ།" CommonName="" OfficialName="" />
+  <Country Code="478" Alpha2="MR" Alpha3="MRT" Name="མའུ་རི་ཊ་ནི་ཡ།" CommonName="" OfficialName="མའུ་རི་ཊ་ནི་ཡ་ ཨིས་ལ་མིཀ་མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="480" Alpha2="MU" Alpha3="MUS" Name="མའུ་རི་ཤི་ཡཱསི།" CommonName="" OfficialName="མའུ་རི་ཤི་ཡཱསི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="484" Alpha2="MX" Alpha3="MEX" Name="མེག་སི་ཀོ།" CommonName="" OfficialName="མེག་སི་ཀཱེན་ གཅིག་མཐུན་ རྒྱལ་ཁབ།" />
+  <Country Code="492" Alpha2="MC" Alpha3="MCO" Name="མོ་ན་ཀོ" CommonName="" OfficialName="མོ་ན་ཀོའི་ རྒྱལ་ཕྲན།" />
+  <Country Code="496" Alpha2="MN" Alpha3="MNG" Name="མོང་གོ་ལི་ཡ།" CommonName="" OfficialName="" />
+  <Country Code="498" Alpha2="MD" Alpha3="MDA" Name="མོལ་ཌོ་བ་ མི་སེར་རྒྱལ་ཁབ་ཀྱི་" CommonName="མོལ་ཌོ་ཝ།" OfficialName="མཱོལ་ཌོ་བ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="499" Alpha2="ME" Alpha3="MNE" Name="མཱོན་ཊི་ནིག་རོ།" CommonName="" OfficialName="མཱོན་ཊི་ནིག་རོ།" />
+  <Country Code="500" Alpha2="MS" Alpha3="MSR" Name="མཱོནཊི་སི་རཊི།" CommonName="" OfficialName="" />
+  <Country Code="504" Alpha2="MA" Alpha3="MAR" Name="མོ་རོཀ་ཀོ།" CommonName="" OfficialName="མོ་རོཀ་ཀོ་ རྒྱལ་བརྒྱུད་ རྒྱལ་ཁབ།" />
+  <Country Code="508" Alpha2="MZ" Alpha3="MOZ" Name="མོ་ཛམ་བིཀ།" CommonName="" OfficialName="མོ་ཛམ་བིཀ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="512" Alpha2="OM" Alpha3="OMN" Name="ཨོ་མཱན།" CommonName="" OfficialName="ཨོ་མཱན་ སུལ་ཊ་ནེཊི།" />
+  <Country Code="516" Alpha2="NA" Alpha3="NAM" Name="ནམ་བི་ཡ།" CommonName="" OfficialName="ནམ་བི་ཡ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="520" Alpha2="NR" Alpha3="NRU" Name="ནའུ་རུ།" CommonName="" OfficialName="ནའུ་རུ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="524" Alpha2="NP" Alpha3="NPL" Name="ནེ་པཱལ།" CommonName="" OfficialName="ནེ་པཱལ་གྱི་ ཕེ་ཌ་རལ་ སྤྱི་མཐུན་སྲིད་གཞུང་ དམང་གཙོའི་ མི་སེར་རྒྱལ་ཁབ་" />
+  <Country Code="528" Alpha2="NL" Alpha3="NLD" Name="ནེ་དར་ལེནཌིསི།" CommonName="" OfficialName="ནེ་དར་ལེནཌིསི་ " />
+  <Country Code="531" Alpha2="CW" Alpha3="CUW" Name="" CommonName="" OfficialName="" />
+  <Country Code="533" Alpha2="AW" Alpha3="ABW" Name="ཨ་རུ་བ།" CommonName="" OfficialName="" />
+  <Country Code="534" Alpha2="SX" Alpha3="SXM" Name="སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།" CommonName="" OfficialName="སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།" />
+  <Country Code="535" Alpha2="BQ" Alpha3="BES" Name="" CommonName="" OfficialName="" />
+  <Country Code="540" Alpha2="NC" Alpha3="NCL" Name="ནིའུ་ ཀེ་ལི་ཌོ་ནི་ཡ།" CommonName="" OfficialName="" />
+  <Country Code="548" Alpha2="VU" Alpha3="VUT" Name="བ་ནུའ་ཊུ།" CommonName="" OfficialName="བ་ནུའ་ཊུ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="554" Alpha2="NZ" Alpha3="NZL" Name="ནིའུ་ཛི་ལེནཌི།" CommonName="" OfficialName="" />
+  <Country Code="558" Alpha2="NI" Alpha3="NIC" Name="ནི་ཀ་ར་གུ་ཝ།" CommonName="" OfficialName="ནི་ཀ་ར་གུ་ཝ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="562" Alpha2="NE" Alpha3="NER" Name="ནའི་ཇར།" CommonName="" OfficialName="ནའི་ཇར་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="566" Alpha2="NG" Alpha3="NGA" Name="ནའི་ཇི་རི་ཡ།" CommonName="" OfficialName="ནའི་ཇི་རི་ཡ་ སྤྱི་མཐུན་སྲིད་གཞུང མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="570" Alpha2="NU" Alpha3="NIU" Name="ནིའུ།" CommonName="" OfficialName="ནིའུ།" />
+  <Country Code="574" Alpha2="NF" Alpha3="NFK" Name="ནོར་ཕོལཀ་ ཨའི་ལེནཌི།" CommonName="" OfficialName="" />
+  <Country Code="578" Alpha2="NO" Alpha3="NOR" Name="ནོར་ཝེ།" CommonName="" OfficialName="ནོར་ཝེ་ རྒྱལ་བརྒྱུད་ཀྱི་རྒྱལ་ཁབ།" />
+  <Country Code="580" Alpha2="MP" Alpha3="MNP" Name="བྱང་ མེ་རི་ཡ་ན་ ཨའི་ལེནཌིསི།" CommonName="" OfficialName="བྱང་ མེ་རི་ཡ་ན་ ཨའི་ལེནཌིསི་གི་ མཐུན་མོངས་འབྱོར་པ།" />
+  <Country Code="581" Alpha2="UM" Alpha3="UMI" Name="ཡུ་ནའི་ཊེཊ་ སིཊེཊིསི་ མའི་ནོར་ ཨའུཊི་ལེ་ཡིང་ ཨའི་ལེནཌིསི།" CommonName="" OfficialName="" />
+  <Country Code="583" Alpha2="FM" Alpha3="FSM" Name="མི་ཀོ་རོ་་ནི་སིཡཱ་ སྤྱི་མཐུན་རྒྱལ་ཁབ།" CommonName="" OfficialName="མི་ཀོརོ་ནི་སིཡཱའི་ སྤྱི་མཐུན་རྒྱལ་ཁབ།" />
+  <Country Code="584" Alpha2="MH" Alpha3="MHL" Name="མར་ཤཱལ་ ཨའི་ལེནཌིསི།" CommonName="" OfficialName="མར་ཤཱལ་ ཨའི་ལེནཌིསི་གྱི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="585" Alpha2="PW" Alpha3="PLW" Name="པ་ལའུ།" CommonName="" OfficialName="པ་ལའུ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="586" Alpha2="PK" Alpha3="PAK" Name="པ་ཀིསི་ཏཱན།" CommonName="" OfficialName="པ་ཀིསི་ཏཱན་ ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="591" Alpha2="PA" Alpha3="PAN" Name="པ་ན་མ།" CommonName="" OfficialName="པ་ན་མ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="598" Alpha2="PG" Alpha3="PNG" Name="པ་པུ་འ་ ནིའུ་གི་ནི།" CommonName="" OfficialName="ས་མོའ་་རང་དབང་རྒྱལ་ཁབ།" />
+  <Country Code="600" Alpha2="PY" Alpha3="PRY" Name="པ་ར་གུ་ཡེ།" CommonName="" OfficialName="པ་ར་གུ་ཡེ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="604" Alpha2="PE" Alpha3="PER" Name="པེ་རུ།" CommonName="" OfficialName="པེ་རུ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="608" Alpha2="PH" Alpha3="PHL" Name="ཕི་ལི་པིནསི།" CommonName="" OfficialName="ཕི་ལི་པིནསི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="612" Alpha2="PN" Alpha3="PCN" Name="པིཊི་ཀའི་རིན།" CommonName="" OfficialName="" />
+  <Country Code="616" Alpha2="PL" Alpha3="POL" Name="པོ་ལེནཌི།" CommonName="" OfficialName="པོ་ལེནཌི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="620" Alpha2="PT" Alpha3="PRT" Name="པོར་ཊུ་གཱལ།" CommonName="" OfficialName="པོར་ཊུ་གཱལ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="624" Alpha2="GW" Alpha3="GNB" Name="གི་ནི་-བི་སའོ།" CommonName="" OfficialName="གི་ནི་-བི་སའོ་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="626" Alpha2="TL" Alpha3="TLS" Name="ཊི་མོར་-ལིསི་ཏི།" CommonName="" OfficialName="ཊི་མོར་-ལིསི་ཏི་ མི་སེར་དམང་གཙོའི་རྒྱལ་ཁབ།" />
+  <Country Code="630" Alpha2="PR" Alpha3="PRI" Name="པུར་ཊོ་ རི་ཀོ།" CommonName="" OfficialName="" />
+  <Country Code="634" Alpha2="QA" Alpha3="QAT" Name="ཀ་ཊར།" CommonName="" OfficialName="ཀ་ཊར་ རྒྱལ་ཁབ།༔" />
+  <Country Code="638" Alpha2="RE" Alpha3="REU" Name="སླར་བསྡོམ།" CommonName="" OfficialName="" />
+  <Country Code="642" Alpha2="RO" Alpha3="ROU" Name="རོ་མ་ནི་ཡ།" CommonName="" OfficialName="" />
+  <Country Code="643" Alpha2="RU" Alpha3="RUS" Name="ར་ཤི་ཡཱན་ ཕེ་ཌི་རེ་ཤཱན།" CommonName="" OfficialName="" />
+  <Country Code="646" Alpha2="RW" Alpha3="RWA" Name="ར་ཝན་ཌ།" CommonName="" OfficialName="ར་ཝན་ཌིས་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="652" Alpha2="BL" Alpha3="BLM" Name="སེནཊི་བཱརཐ་ལེ་མི།" CommonName="" OfficialName="" />
+  <Country Code="654" Alpha2="SH" Alpha3="SHN" Name="སཱེནཊི་ཧི་ལི་ན་ ཨེ་སེན་ཤཱན་དང་ཊིསི་ཊན་ ད་ ཀུན་ཧ་" CommonName="" OfficialName="" />
+  <Country Code="659" Alpha2="KN" Alpha3="KNA" Name="སེནཊི་ ཀིཊིསི་ ཨེནཌི་ ནེ་བིསི།" CommonName="" OfficialName="" />
+  <Country Code="660" Alpha2="AI" Alpha3="AIA" Name="ཨེང་གུའི་ལ།" CommonName="" OfficialName="" />
+  <Country Code="662" Alpha2="LC" Alpha3="LCA" Name="སེནཊི་ ལུ་སི་ཡ།" CommonName="" OfficialName="" />
+  <Country Code="663" Alpha2="MF" Alpha3="MAF" Name="སེནཊི་མར་ཊིན (ཕརེནཆི་གི་ཡན་ལག)།" CommonName="" OfficialName="" />
+  <Country Code="666" Alpha2="PM" Alpha3="SPM" Name="སེནཊི་ པཱི་རི་དང་ མིཀིའུ་ལོན།" CommonName="" OfficialName="" />
+  <Country Code="670" Alpha2="VC" Alpha3="VCT" Name="སེནཊི་བཱིན་སིནཊ་དང་ གཱེརན་ན་ཌེནེས" CommonName="" OfficialName="" />
+  <Country Code="674" Alpha2="SM" Alpha3="SMR" Name="སེན་ མེ་རི་ནོ།" CommonName="" OfficialName="སེན་ མེ་རི་ནོ་་མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="678" Alpha2="ST" Alpha3="STP" Name="སེའོ་ ཊོམ་དང་ པི་རིན་སི་པཱི།" CommonName="" OfficialName="སེའོ་ ཊོམ་དང་ པི་རིན་སི་པཱི་ དམང་གཙོའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="682" Alpha2="SA" Alpha3="SAU" Name="སའུ་དི་ ཨ་ར་བི་ཡ།" CommonName="" OfficialName="སའུ་དི་ ཨ་ར་བི་ཡ་ རྒྱལ་བརྒྱུད་རྒྱལ་ཁབ།" />
+  <Country Code="686" Alpha2="SN" Alpha3="SEN" Name="སི་ནི་གཱལ།" CommonName="" OfficialName="སི་ནི་གཱལ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="688" Alpha2="RS" Alpha3="SRB" Name="སར་བི་ཡ།" CommonName="" OfficialName="སར་བི་ཡ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="690" Alpha2="SC" Alpha3="SYC" Name="སི་ཅི་ལེསི།" CommonName="" OfficialName="སི་ཅི་ལེསི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="694" Alpha2="SL" Alpha3="SLE" Name="སི་ར་ ལིའོ་ནི།" CommonName="" OfficialName="སི་ར་ ལིའོ་ནི་ མུ་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="702" Alpha2="SG" Alpha3="SGP" Name="སིང་ག་པོར།" CommonName="" OfficialName="སིང་ག་པོར་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="703" Alpha2="SK" Alpha3="SVK" Name="སོལོ་བ་ཀི་ཡ།" CommonName="" OfficialName="སོལོ་བ་ཀི་ཡ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="704" Alpha2="VN" Alpha3="VNM" Name="ཝེཊི་ནམ།" CommonName="" OfficialName="ཝེཊི་ནམ་ སྤྱི་ཚོགས་མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="705" Alpha2="SI" Alpha3="SVN" Name="སོལོ་བི་ནི་ཡ།" CommonName="" OfficialName="སོལོ་བི་ནི་ཡ་མི་སེར་རྒཡལ་ཁབ།" />
+  <Country Code="706" Alpha2="SO" Alpha3="SOM" Name="སོ་མ་ལི་ཡ།" CommonName="" OfficialName="ཇར་མ་ནི་ སྤྱི་མཐུན་སྲིད་གཞུང མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="710" Alpha2="ZA" Alpha3="ZAF" Name="ལྷོ་ཨཕ་རི་ཀ" CommonName="" OfficialName="ལྷོ་ཨཕ་རི་ཀ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="716" Alpha2="ZW" Alpha3="ZWE" Name="ཛིམ་བབ་ཝི།" CommonName="" OfficialName="ཛིམ་བབ་ཝི་ མུ་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="724" Alpha2="ES" Alpha3="ESP" Name="སིཔེན།" CommonName="" OfficialName="སིཔེན་ རྒྱལ་བརྒྱུད་ཀྱི་རྒྱལ་ཁབ།" />
+  <Country Code="728" Alpha2="SS" Alpha3="SSD" Name="སུ་དཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།" CommonName="" OfficialName="སུ་དཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="729" Alpha2="SD" Alpha3="SDN" Name="སུ་དཱན།" CommonName="" OfficialName="སུ་དཱན་གྱི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="732" Alpha2="EH" Alpha3="ESH" Name="ཝེསི་ཊན་ ས་ཧ་ར།" CommonName="" OfficialName="" />
+  <Country Code="740" Alpha2="SR" Alpha3="SUR" Name="སུ་རི་ནེམ།" CommonName="" OfficialName="སུ་རི་ནེམ་གྱི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="744" Alpha2="SJ" Alpha3="SJM" Name="ས་བཱལ་བཱཊ་དང་ཇཱན་མ་ཡཱིན།" CommonName="" OfficialName="" />
+  <Country Code="748" Alpha2="SZ" Alpha3="SWZ" Name="ས་ཝ་ཛི་ལེནཌི།" CommonName="" OfficialName="ས་ཝ་ཛི་ལེནཌི་གི་ རྒྱལ་བརྒྱུད་རྒྱལ་ཁབ།" />
+  <Country Code="752" Alpha2="SE" Alpha3="SWE" Name="སུའི་ཌེན།" CommonName="" OfficialName="སུའི་ཌེན་ རྒྱལ་བརྒྱུད་ཀྱི་ཁབ།" />
+  <Country Code="756" Alpha2="CH" Alpha3="CHE" Name="ས་ཝ་ཛི་ལེནཌི།" CommonName="" OfficialName="སུ་ཝེཛིས་ མཐན་ཕྱོགས་རྒྱལ་ཁབ།" />
+  <Country Code="760" Alpha2="SY" Alpha3="SYR" Name="སི་རེན་ ཨ་རབ་ མི་སེར་རྒྱལ་ཁབ།" CommonName="" OfficialName="" />
+  <Country Code="762" Alpha2="TJ" Alpha3="TJK" Name="ཏ་ཇི་ཀིསི་ཏཱན།" CommonName="" OfficialName="ཏ་ཇི་ཀིསི་ཏཱན་མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="764" Alpha2="TH" Alpha3="THA" Name="ཐཱའི་ལེནཌི།" CommonName="" OfficialName="ཐཱའི་ལེནཌི་ རྒྱལ་བརྒྱུད་ཀྱི་རྒྱལ་ཁབ།" />
+  <Country Code="768" Alpha2="TG" Alpha3="TGO" Name="ཊོ་གོ།" CommonName="" OfficialName="ཊོ་གོ་ལིས་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="772" Alpha2="TK" Alpha3="TKL" Name="ཊོ་ཀི་ལའོ།" CommonName="" OfficialName="" />
+  <Country Code="776" Alpha2="TO" Alpha3="TON" Name="ཊོང་ག།" CommonName="" OfficialName="ཊོང་ག་ རྒྱལ་བརྒྱུད་ཀྱི་རྒྱལ་ཁབ།" />
+  <Country Code="780" Alpha2="TT" Alpha3="TTO" Name="ཊིར་ནི་ཌེཊདང་ཊོ་བཱ་གཱོ།" CommonName="" OfficialName="ཊིར་ནི་ཌེཊདང་ཊོ་བཱ་གཱོའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="784" Alpha2="AE" Alpha3="ARE" Name="ཡུ་ནའི་ཊེཊ་ ཨ་རབ་ ཨི་མི་རེཊིསི།" CommonName="" OfficialName="" />
+  <Country Code="788" Alpha2="TN" Alpha3="TUN" Name="ཊུ་ནི་སི་ཡ།" CommonName="" OfficialName="ཊུ་ནི་སི་ཡ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="792" Alpha2="TR" Alpha3="TUR" Name="ཊར་ཀི།" CommonName="" OfficialName="ཊར་ཀི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="795" Alpha2="TM" Alpha3="TKM" Name="ཊརཀ་མི་ནིསི་ཏཱན།" CommonName="" OfficialName="" />
+  <Country Code="796" Alpha2="TC" Alpha3="TCA" Name="ཊརཀསི་ དང་ ཀའི་ཀོསི་ ཨའི་ལེནཌིསི།" CommonName="" OfficialName="" />
+  <Country Code="798" Alpha2="TV" Alpha3="TUV" Name="ཊུ་བ་ལུ།" CommonName="" OfficialName="" />
+  <Country Code="800" Alpha2="UG" Alpha3="UGA" Name="ཡུ་གེན་ཌ།" CommonName="" OfficialName="ཡུ་གེན་ཌ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="804" Alpha2="UA" Alpha3="UKR" Name="ཡུ་ཀེརན།" CommonName="" OfficialName="" />
+  <Country Code="807" Alpha2="MK" Alpha3="MKD" Name="མས་ཀི་ཌོ་ནིཡཱ་ མི་སེར་རྒྱལ་ཁབ།" CommonName="" OfficialName="སྔོན་མའི་ཡོ་གོས་ལཱབ་ མེ་སི་་ཌོ་ནིཡཱ་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="818" Alpha2="EG" Alpha3="EGY" Name="ཨི་ཇིབཊི།" CommonName="" OfficialName="ཨི་ཇིབཊི་གི་ ཨ་རབ་ མི་སེར་གྱི་རྒྱལ་ཁབ།" />
+  <Country Code="826" Alpha2="GB" Alpha3="GBR" Name="ཡུ་ནའི་ཊེཊ་ ཀིང་ཌོམ།" CommonName="" OfficialName="གཱེརེཊ་བི་རི་ཊེན་དང་ཨའི་རི་ལེནཌི་གྱི་ གཅིག་འདུས་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="831" Alpha2="GG" Alpha3="GGY" Name="གུ་རེན་སེ།" CommonName="" OfficialName="" />
+  <Country Code="832" Alpha2="JE" Alpha3="JEY" Name="ཇར་སི།" CommonName="" OfficialName="" />
+  <Country Code="833" Alpha2="IM" Alpha3="IMN" Name="ཨ་ཡིལ་ཨོཕ་མེན།" CommonName="" OfficialName="" />
+  <Country Code="834" Alpha2="TZ" Alpha3="TZA" Name="ཏཱན་ཛ་ནི་ཡ། ཡུ་ན་ཡེ་ཊེཊི་ རི་པཔ་ལིཀ་ ཨོཕ་" CommonName="" OfficialName="ཏཱན་ཛ་ནི་ཡའི་གཅིག་འདུས་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="840" Alpha2="US" Alpha3="USA" Name="ཡུ་ན་ཡེ་ཊེཊི་ སིཊེཊིསི།" CommonName="" OfficialName="ཡུ་ན་ཡེ་ཊེཊི་ སིཊེཊིསི་ཨཱོཕ་ཨ་མི་རི་ཀ" />
+  <Country Code="850" Alpha2="VI" Alpha3="VIR" Name="ཝར་ཇིན་ ཨའི་ལེནཌིསི་ ཡུ་ཨེསི།" CommonName="" OfficialName="ཝར་ཇིན་ ཨའི་ལེནཌིསི་ ཡུ་ཨེསི།" />
+  <Country Code="854" Alpha2="BF" Alpha3="BFA" Name="བུར་ཀི་ན་ ཕ་སོ།" CommonName="" OfficialName="" />
+  <Country Code="858" Alpha2="UY" Alpha3="URY" Name="ཨུ་རུ་གེ།" CommonName="" OfficialName="ཤར་ཨུ་རུ་གེའི་ མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="860" Alpha2="UZ" Alpha3="UZB" Name="ཨུཛ་བེ་ཀིསི་ཏཱན།" CommonName="" OfficialName="ཨུཛ་བེ་ཀིསི་ཏཱན་གྱི་མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="862" Alpha2="VE" Alpha3="VEN" Name="བེ་ནི་ཛུས་ལ་ བོ་ལི་བི་རཱེན་མི་སེར་རྒྱལ་ཁབ་ཀྱི་" CommonName="བེ་ནི་ཛུས་ལ།" OfficialName="བེ་ནི་ཛུས་ལའི་ བོ་ལི་བི་རཱེན་མི་སེར་རྒྱལ་ཁབ།" />
+  <Country Code="876" Alpha2="WF" Alpha3="WLF" Name="ཝ་ལིསི་དང་ཕུ་ཊ་ན།" CommonName="" OfficialName="" />
+  <Country Code="882" Alpha2="WS" Alpha3="WSM" Name="ས་མོའ།" CommonName="" OfficialName="ས་མོའ་་རང་དབང་རྒྱལ་ཁབ།" />
+  <Country Code="887" Alpha2="YE" Alpha3="YEM" Name="ཡེ་མེན།" CommonName="" OfficialName="ཡེ་མེནགྱི་ རྒྱལ་ཁབ།" />
+  <Country Code="894" Alpha2="ZM" Alpha3="ZMB" Name="ཛམ་བི་ཡ།" CommonName="" OfficialName="ཛམ་བི་ཡ་ མིསེར་རྒྱལ་ཁབ།" />
+</Countries>
