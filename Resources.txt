@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/Vheissu/acf-country-field/master/lib/install-data.php
+https://github.com/Vheissu/acf-country-field
+https://github.com/webpatser/laravel-countries
+https://github.com/briancline/iso3166
+https://github.com/mibamur/iso_view
+http://www.iso.org/iso/country_codes
+https://www.upct.es/relaciones_internacionales/prog/docs/Erasmus-14-15/iniciales_paises_iso.pdf
+https://github.com/datasets/country-codes
+http://gis.stackexchange.com/questions/1047/full-list-of-iso-alpha-2-and-iso-alpha-3-country-codes
+http://annsystem.com/api/getCountry.php
+http://datahub.io/dataset/iso-3166-2-data
